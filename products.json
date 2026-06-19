@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T18:00:00Z",
+  "updated_at": "2026-06-19T19:30:00Z",
   "source": "amazon",
   "products": [
     {
@@ -109,6 +109,87 @@
       "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
       "category": "other"
+    },
+    {
+      "id": "B07RN15ZSD",
+      "name": "Kit 6 Pares Meias Lupo Cano Médio Algodão - Sortido",
+      "price": 59.99,
+      "original_price": 69.99,
+      "image": "https://m.media-amazon.com/images/I/71UAfghIdWL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07RN15ZSD?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B09HR3QHL8",
+      "name": "Luva Fitness Academia Musculação One Sport OSP5",
+      "price": 23.96,
+      "original_price": 29.99,
+      "image": "https://m.media-amazon.com/images/I/617crnovcTL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09HR3QHL8?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B08VPS711D",
+      "name": "Coqueteleira Dux Fume 800ml",
+      "price": 21.10,
+      "original_price": 24.90,
+      "image": "https://m.media-amazon.com/images/I/51ao+TrcxJL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=patrickmont04-20",
+      "category": "supplements"
+    },
+    {
+      "id": "B0DLHHKFGW",
+      "name": "Mini Bola Trionda da Copa do Mundo da FIFA 26 Adidas",
+      "price": 78.99,
+      "original_price": 161.82,
+      "image": "https://m.media-amazon.com/images/I/71njlYz6CQL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DLHHKFGW?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B07K8WF98V",
+      "name": "Garrafa Térmica Contigo Matterhorn Inox 591ML | Parede Dupla",
+      "price": 86.14,
+      "original_price": 149.90,
+      "image": "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07K8WF98V?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FFTRQHR8",
+      "name": "Tênis de Corrida Mizuno Cool Ride 3",
+      "price": 289.99,
+      "original_price": 395.90,
+      "image": "https://m.media-amazon.com/images/I/414KU4m5aNL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFTRQHR8?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FFTQTCJC",
+      "name": "Tênis Mizuno City Wall",
+      "price": 208.98,
+      "original_price": 329.99,
+      "image": "https://m.media-amazon.com/images/I/61QZUqHMjJL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFTQTCJC?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0CFCHR98Q",
+      "name": "Tênis Olympikus Neblina Unissex",
+      "price": 199.90,
+      "original_price": 199.90,
+      "image": "https://m.media-amazon.com/images/I/51fxh2hI0fL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CFCHR98Q?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FFTRQ3WS",
+      "name": "Tênis Mizuno Glow 3 Feminino",
+      "price": 399.90,
+      "original_price": 399.90,
+      "image": "https://m.media-amazon.com/images/I/611RirAWR7L._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFTRQ3WS?tag=patrickmont04-20",
+      "category": "sports_leisure"
     }
   ]
 }
