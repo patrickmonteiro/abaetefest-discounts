@@ -6,7 +6,7 @@
       "id": "B0DBM44Y7J",
       "name": "Tenis Academia Feminino Leve Macio Corrida + Relógio",
       "price": 71.01,
-      "original_price": 78.90,
+      "original_price": 78.9,
       "image": "https://m.media-amazon.com/images/I/41oNC8mWcdL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DBM44Y7J?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -14,8 +14,8 @@
     {
       "id": "B0FTRWFJMS",
       "name": "Pochete Slim Fitness Esportiva, Porta Celular Impermeável",
-      "price": 13.20,
-      "original_price": 15.90,
+      "price": 13.2,
+      "original_price": 15.9,
       "image": "https://m.media-amazon.com/images/I/51kdTCTO2bL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FTRWFJMS?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -42,7 +42,7 @@
       "id": "B0FH3W1WZF",
       "name": "Tênis Fila Speed Lite Masculino",
       "price": 228.99,
-      "original_price": 239.90,
+      "original_price": 239.9,
       "image": "https://m.media-amazon.com/images/I/31ofK6ZBUxL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FH3W1WZF?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -50,65 +50,11 @@
     {
       "id": "B08T997SRZ",
       "name": "Meia HUPI 21K Preto Cano Médio 1 Par para Corrida",
-      "price": 39.90,
-      "original_price": 69.90,
+      "price": 39.9,
+      "original_price": 69.9,
       "image": "https://m.media-amazon.com/images/I/515oywMtCdL._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B08T997SRZ?tag=patrickmont04-20",
       "category": "sports_leisure"
-    },
-    {
-      "id": "B0DZFCS6VJ",
-      "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
-      "price": 79.69,
-      "original_price": 119.90,
-      "image": "https://m.media-amazon.com/images/I/51PLrVYyLcL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0DZFCS6VJ?tag=patrickmont04-20",
-      "category": "electronics"
-    },
-    {
-      "id": "B0FVBH3L33",
-      "name": "Caixa de Som JBL Grip 16 W RMS, Preto | Com Playtime Boost, IP68, Portátil",
-      "price": 350.55,
-      "original_price": 559.00,
-      "image": "https://m.media-amazon.com/images/I/61v5T6gMkjL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=patrickmont04-20",
-      "category": "electronics"
-    },
-    {
-      "id": "B0C15434GB",
-      "name": "Smart TV Samsung QLED 32\" Full HD | QN32LS03C, Gaming Hub, Tela Matte, Modo Arte",
-      "price": 1935.00,
-      "original_price": 2097.99,
-      "image": "https://m.media-amazon.com/images/I/61oZi8WSqyL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0C15434GB?tag=patrickmont04-20",
-      "category": "electronics"
-    },
-    {
-      "id": "B0FFYLD5VZ",
-      "name": "Fone de Ouvido Bluetooth 5.4 TWS Esportivo Basike, Preto",
-      "price": 132.89,
-      "original_price": 168.00,
-      "image": "https://m.media-amazon.com/images/I/61MuRey71SL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0FFYLD5VZ?tag=patrickmont04-20",
-      "category": "electronics"
-    },
-    {
-      "id": "B0BVZY7BM6",
-      "name": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
-      "price": 43.00,
-      "original_price": 59.90,
-      "image": "https://m.media-amazon.com/images/I/713Kk9DIwnL._AC_SY879_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0BVZY7BM6?tag=patrickmont04-20",
-      "category": "supplements"
-    },
-    {
-      "id": "B08B9M713X",
-      "name": "Vodka Skyy 750ml",
-      "price": 28.63,
-      "original_price": 41.90,
-      "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
-      "category": "other"
     },
     {
       "id": "B07RN15ZSD",
@@ -129,15 +75,6 @@
       "category": "sports_leisure"
     },
     {
-      "id": "B08VPS711D",
-      "name": "Coqueteleira Dux Fume 800ml",
-      "price": 21.10,
-      "original_price": 24.90,
-      "image": "https://m.media-amazon.com/images/I/51ao+TrcxJL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=patrickmont04-20",
-      "category": "supplements"
-    },
-    {
       "id": "B0DLHHKFGW",
       "name": "Mini Bola Trionda da Copa do Mundo da FIFA 26 Adidas",
       "price": 78.99,
@@ -150,7 +87,7 @@
       "id": "B07K8WF98V",
       "name": "Garrafa Térmica Contigo Matterhorn Inox 591ML | Parede Dupla",
       "price": 86.14,
-      "original_price": 149.90,
+      "original_price": 149.9,
       "image": "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07K8WF98V?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -159,7 +96,7 @@
       "id": "B0FFTRQHR8",
       "name": "Tênis de Corrida Mizuno Cool Ride 3",
       "price": 289.99,
-      "original_price": 395.90,
+      "original_price": 395.9,
       "image": "https://m.media-amazon.com/images/I/414KU4m5aNL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTRQHR8?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -176,8 +113,8 @@
     {
       "id": "B0CFCHR98Q",
       "name": "Tênis Olympikus Neblina Unissex",
-      "price": 199.90,
-      "original_price": 199.90,
+      "price": 199.9,
+      "original_price": 199.9,
       "image": "https://m.media-amazon.com/images/I/51fxh2hI0fL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CFCHR98Q?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -185,8 +122,8 @@
     {
       "id": "B0FFTRQ3WS",
       "name": "Tênis Mizuno Glow 3 Feminino",
-      "price": 399.90,
-      "original_price": 399.90,
+      "price": 399.9,
+      "original_price": 399.9,
       "image": "https://m.media-amazon.com/images/I/611RirAWR7L._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTRQ3WS?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -212,8 +149,8 @@
     {
       "id": "B0G2MZ49MS",
       "name": "Óculos Ciclismo Corrida Esportivo Bike Mtb, Proteção UV, Prata",
-      "price": 58.00,
-      "original_price": 99.00,
+      "price": 58.0,
+      "original_price": 99.0,
       "image": "https://m.media-amazon.com/images/I/61nn6DO0PxL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G2MZ49MS?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -230,8 +167,8 @@
     {
       "id": "B0CQ3S75GV",
       "name": "Pochete Slim Fitness Corrida Academia Porta Celular Impermeável Esportiva",
-      "price": 15.70,
-      "original_price": 15.70,
+      "price": 15.7,
+      "original_price": 15.7,
       "image": "https://m.media-amazon.com/images/I/51Fi05cctNL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CQ3S75GV?tag=patrickmont04-20",
       "category": "sports_leisure"
@@ -249,16 +186,52 @@
       "id": "B0CQTRC47J",
       "name": "Garrafa Térmica Gocase Urban Inox 500ml, Preto | Parede Dupla",
       "price": 63.36,
-      "original_price": 78.90,
+      "original_price": 78.9,
       "image": "https://m.media-amazon.com/images/I/61szNdVyiPL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CQTRC47J?tag=patrickmont04-20",
       "category": "sports_leisure"
     },
     {
+      "id": "B0DZFCS6VJ",
+      "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
+      "price": 79.69,
+      "original_price": 119.9,
+      "image": "https://m.media-amazon.com/images/I/51PLrVYyLcL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DZFCS6VJ?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0FVBH3L33",
+      "name": "Caixa de Som JBL Grip 16 W RMS, Preto | Com Playtime Boost, IP68, Portátil",
+      "price": 350.55,
+      "original_price": 559.0,
+      "image": "https://m.media-amazon.com/images/I/61v5T6gMkjL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0C15434GB",
+      "name": "Smart TV Samsung QLED 32\" Full HD | QN32LS03C, Gaming Hub, Tela Matte, Modo Arte",
+      "price": 1935.0,
+      "original_price": 2097.99,
+      "image": "https://m.media-amazon.com/images/I/61oZi8WSqyL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C15434GB?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0FFYLD5VZ",
+      "name": "Fone de Ouvido Bluetooth 5.4 TWS Esportivo Basike, Preto",
+      "price": 132.89,
+      "original_price": 168.0,
+      "image": "https://m.media-amazon.com/images/I/61MuRey71SL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFYLD5VZ?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
       "id": "B0FPHYS2WF",
       "name": "Celular Samsung Galaxy A07 256GB, 8GB, Preto | Tela 6.7\", Câm. 50MP",
-      "price": 799.00,
-      "original_price": 1099.00,
+      "price": 799.0,
+      "original_price": 1099.0,
       "image": "https://m.media-amazon.com/images/I/51Adgl-DQtL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FPHYS2WF?tag=patrickmont04-20",
       "category": "electronics"
@@ -266,11 +239,38 @@
     {
       "id": "B0FR5J3JLM",
       "name": "Smartphone Motorola Moto g06 256GB, Bege | Câmera 50MP com IA, Bateria 5200 mAh",
-      "price": 717.00,
-      "original_price": 717.00,
+      "price": 717.0,
+      "original_price": 717.0,
       "image": "https://m.media-amazon.com/images/I/61NgIKe6Q4L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FR5J3JLM?tag=patrickmont04-20",
       "category": "electronics"
+    },
+    {
+      "id": "B0BVZY7BM6",
+      "name": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
+      "price": 43.0,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/713Kk9DIwnL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BVZY7BM6?tag=patrickmont04-20",
+      "category": "supplements"
+    },
+    {
+      "id": "B08VPS711D",
+      "name": "Coqueteleira Dux Fume 800ml",
+      "price": 21.1,
+      "original_price": 24.9,
+      "image": "https://m.media-amazon.com/images/I/51ao+TrcxJL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=patrickmont04-20",
+      "category": "supplements"
+    },
+    {
+      "id": "B08B9M713X",
+      "name": "Vodka Skyy 750ml",
+      "price": 28.63,
+      "original_price": 41.9,
+      "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
+      "category": "other"
     }
   ]
 }
