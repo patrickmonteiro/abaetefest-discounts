@@ -1,0 +1,43 @@
+name: Update Products
+
+on:
+  schedule:
+    # Roda todo dia às 08:00 BRT (11:00 UTC)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate products.json
+        run: |
+          python3 -c "
+          import json, sys
+          with open('products.json') as f:
+            data = json.load(f)
+          products = data.get('products', [])
+          required = ['id', 'name', 'price', 'image', 'url', 'category']
+          errors = []
+          for i, p in enumerate(products):
+            for field in required:
+              if not p.get(field):
+                errors.append(f'Produto {i}: campo \"{field}\" ausente ou vazio')
+          if errors:
+            print('ERROS encontrados:')
+            for e in errors: print(f'  - {e}')
+            sys.exit(1)
+          print(f'OK — {len(products)} produtos válidos')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add products.json
+          git diff --cached --quiet || git commit -m "chore: update products $(date -u +%Y-%m-%d)"
+          git push
