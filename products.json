@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-06-19T10:00:00Z",
+  "updated_at": "2026-06-19T12:36:04Z",
   "source": "amazon",
   "products": [
     {
-      "id": "example-001",
-      "name": "Exemplo de Produto",
-      "price": 99.90,
-      "original_price": 149.90,
-      "image": "https://m.media-amazon.com/images/I/example.jpg",
-      "url": "https://amzn.to/example",
-      "category": "perfumes"
+      "id": "B0DBM44Y7J",
+      "name": "Tenis Academia Feminino Leve Macio Corrida + Relógio",
+      "price": 71.01,
+      "original_price": 78.90,
+      "image": "https://m.media-amazon.com/images/I/41oNC8mWcdL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DBM44Y7J?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FTRWFJMS",
+      "name": "Pochete Slim Fitness Esportiva, Porta Celular Impermeável",
+      "price": 13.20,
+      "original_price": 15.90,
+      "image": "https://m.media-amazon.com/images/I/51kdTCTO2bL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FTRWFJMS?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0DZFCS6VJ",
+      "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
+      "price": 79.69,
+      "original_price": 119.90,
+      "image": "https://m.media-amazon.com/images/I/51PLrVYyLcL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DZFCS6VJ?tag=patrickmont04-20",
+      "category": "electronics"
     }
   ]
 }
