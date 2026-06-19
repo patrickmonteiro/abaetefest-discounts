@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T12:36:04Z",
+  "updated_at": "2026-06-19T18:00:00Z",
   "source": "amazon",
   "products": [
     {
@@ -21,6 +21,42 @@
       "category": "sports_leisure"
     },
     {
+      "id": "B0FFTRFCDM",
+      "name": "Tênis Mizuno Neo Vortex, Preto/Branco, Tamanho 41",
+      "price": 397.99,
+      "original_price": 699.99,
+      "image": "https://m.media-amazon.com/images/I/51oileqD-IL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFTRFCDM?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FGDVFGJW",
+      "name": "Tênis New Balance 413v3 Preto e Rosa - Feminino - 37",
+      "price": 237.49,
+      "original_price": 379.99,
+      "image": "https://m.media-amazon.com/images/I/51DtNEJ9SJL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FGDVFGJW?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FH3W1WZF",
+      "name": "Tênis Fila Speed Lite Masculino",
+      "price": 228.99,
+      "original_price": 239.90,
+      "image": "https://m.media-amazon.com/images/I/31ofK6ZBUxL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FH3W1WZF?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B08T997SRZ",
+      "name": "Meia HUPI 21K Preto Cano Médio 1 Par para Corrida",
+      "price": 39.90,
+      "original_price": 69.90,
+      "image": "https://m.media-amazon.com/images/I/515oywMtCdL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08T997SRZ?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
       "id": "B0DZFCS6VJ",
       "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
       "price": 79.69,
@@ -28,6 +64,51 @@
       "image": "https://m.media-amazon.com/images/I/51PLrVYyLcL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DZFCS6VJ?tag=patrickmont04-20",
       "category": "electronics"
+    },
+    {
+      "id": "B0FVBH3L33",
+      "name": "Caixa de Som JBL Grip 16 W RMS, Preto | Com Playtime Boost, IP68, Portátil",
+      "price": 350.55,
+      "original_price": 559.00,
+      "image": "https://m.media-amazon.com/images/I/61v5T6gMkjL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0C15434GB",
+      "name": "Smart TV Samsung QLED 32\" Full HD | QN32LS03C, Gaming Hub, Tela Matte, Modo Arte",
+      "price": 1935.00,
+      "original_price": 2097.99,
+      "image": "https://m.media-amazon.com/images/I/61oZi8WSqyL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C15434GB?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0FFYLD5VZ",
+      "name": "Fone de Ouvido Bluetooth 5.4 TWS Esportivo Basike, Preto",
+      "price": 132.89,
+      "original_price": 168.00,
+      "image": "https://m.media-amazon.com/images/I/61MuRey71SL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFYLD5VZ?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0BVZY7BM6",
+      "name": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
+      "price": 43.00,
+      "original_price": 59.90,
+      "image": "https://m.media-amazon.com/images/I/713Kk9DIwnL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BVZY7BM6?tag=patrickmont04-20",
+      "category": "supplements"
+    },
+    {
+      "id": "B08B9M713X",
+      "name": "Vodka Skyy 750ml",
+      "price": 28.63,
+      "original_price": 41.90,
+      "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
+      "category": "other"
     }
   ]
 }
