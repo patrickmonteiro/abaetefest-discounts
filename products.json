@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T20:15:00Z",
+  "updated_at": "2026-06-20T18:56:06Z",
   "source": "amazon",
   "products": [
     {
@@ -243,6 +243,60 @@
       "original_price": 717.0,
       "image": "https://m.media-amazon.com/images/I/61NgIKe6Q4L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FR5J3JLM?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0D2RXBBL3",
+      "name": "Smart TV 24\" Philco PTV24G5YR2CP, Roku TV, Dolby Audio",
+      "price": 719.1,
+      "original_price": 849.0,
+      "image": "https://m.media-amazon.com/images/I/619tGmre9EL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D2RXBBL3?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0GLQXJFBD",
+      "name": "Smartphone Motorola Moto G67 5G 128GB Chumbo, Ultrarresistente",
+      "price": 1068.81,
+      "original_price": 2099.0,
+      "image": "https://m.media-amazon.com/images/I/51BHq8sWc5L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GLQXJFBD?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0FPRGKBL3",
+      "name": "Smart TV 4K UHD SEMP 43\" 43S62, Google TV, Dolby Audio",
+      "price": 1599.95,
+      "original_price": 1899.0,
+      "image": "https://m.media-amazon.com/images/I/61Dg9oW2VcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0DKC8GR52",
+      "name": "Cabo USB-C 2 Metros 60W Turbo Carregamento Rápido, Nylon Trançado",
+      "price": 16.71,
+      "original_price": 18.98,
+      "image": "https://m.media-amazon.com/images/I/71Ay-zyItRL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DKC8GR52?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0GXWWB4RF",
+      "name": "Cabo Carregador Turbo Trançado Branco 1m, Compatível iPhone",
+      "price": 22.41,
+      "original_price": 24.9,
+      "image": "https://m.media-amazon.com/images/I/61sACtR5kLL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GXWWB4RF?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0H1G4Z83S",
+      "name": "Kit Completo Carregador USB-C Turbo 20W Compatível iPhone 15",
+      "price": 189.05,
+      "original_price": 199.0,
+      "image": "https://m.media-amazon.com/images/I/5166ONWrqQL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0H1G4Z83S?tag=patrickmont04-20",
       "category": "electronics"
     },
     {
