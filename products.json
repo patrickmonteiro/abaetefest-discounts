@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T18:56:06Z",
+  "updated_at": "2026-06-21T19:29:45Z",
   "source": "amazon",
   "products": [
     {
@@ -192,6 +192,33 @@
       "category": "sports_leisure"
     },
     {
+      "id": "B0G7J52ZDR",
+      "name": "Top Feminino Academia Nadador Bolso Canelado Corrida Fitness",
+      "price": 71.99,
+      "original_price": 79.99,
+      "image": "https://m.media-amazon.com/images/I/61yvA76+KiL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0G7J52ZDR?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0GPR68B9W",
+      "name": "Conjunto Feminino Fitness Academia Top Legging Canelado Poliamida",
+      "price": 131.39,
+      "original_price": 145.99,
+      "image": "https://m.media-amazon.com/images/I/51Gm+BY77KL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GPR68B9W?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FXHPXLHG",
+      "name": "Braçadeira Suporte Porta Celular Corrida Bike Academia",
+      "price": 39.80,
+      "original_price": 41.90,
+      "image": "https://m.media-amazon.com/images/I/71GwGuoFmYL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FXHPXLHG?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
       "id": "B0DZFCS6VJ",
       "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
       "price": 79.69,
@@ -300,6 +327,51 @@
       "category": "electronics"
     },
     {
+      "id": "B0D7NQ5V93",
+      "name": "Relógio Mormaii Smartwatch Unissex Life, Preto",
+      "price": 399.90,
+      "original_price": 598.98,
+      "image": "https://m.media-amazon.com/images/I/71sUcapTd5L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D7NQ5V93?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0CW3DGP12",
+      "name": "Smart Band Xiaomi 9 Active, Versão Global",
+      "price": 188.99,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/51WOvToYRFL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CW3DGP12?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0DK6ZZFL9",
+      "name": "Smartwatch Xiaomi Smart Band 9 Active Global, Rosa",
+      "price": 180.98,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/51L7bKcMbKL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DK6ZZFL9?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0CVCLGV1W",
+      "name": "Smartwatch Samsung Galaxy Fit3, Display 1.6\", Grafite",
+      "price": 218.99,
+      "original_price": 599.00,
+      "image": "https://m.media-amazon.com/images/I/51bjAlTBzZL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0BVC1MVHS",
+      "name": "Smartwatch Xiaomi Haylou Watch 2 LS02, IP68, até 20 dias de bateria",
+      "price": 192.00,
+      "original_price": 599.00,
+      "image": "https://m.media-amazon.com/images/I/51jIn5NWvPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BVC1MVHS?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
       "id": "B0BVZY7BM6",
       "name": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
       "price": 43.0,
@@ -324,6 +396,15 @@
       "original_price": 41.9,
       "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B0DLQDL629",
+      "name": "Jogo de Tapetes para Banheiro Decolab, Cinza-Escuro, 3 Peças",
+      "price": 66.40,
+      "original_price": 79.90,
+      "image": "https://m.media-amazon.com/images/I/71RWZFzYmrL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DLQDL629?tag=patrickmont04-20",
       "category": "other"
     }
   ]
