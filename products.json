@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T19:29:45Z",
+  "updated_at": "2026-06-22T13:30:35Z",
   "source": "amazon",
   "products": [
     {
@@ -372,6 +372,33 @@
       "category": "electronics"
     },
     {
+      "id": "B0FRMQ1DZ1",
+      "name": "Fone de Ouvido sem Fio Basike OWS com Gancho, Branco, Esportivo",
+      "price": 91.15,
+      "original_price": 101.00,
+      "image": "https://m.media-amazon.com/images/I/51seRglfF6L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FRMQ1DZ1?tag=patrickmont04-20",
+      "category": "electronics"
+    },
+    {
+      "id": "B0B694TZC9",
+      "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
+      "price": 34.20,
+      "original_price": 55.19,
+      "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
+      "category": "health_beauty"
+    },
+    {
+      "id": "B096YBF37H",
+      "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
+      "price": 34.10,
+      "original_price": 74.89,
+      "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
+      "category": "health_beauty"
+    },
+    {
       "id": "B0BVZY7BM6",
       "name": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
       "price": 43.0,
@@ -405,6 +432,15 @@
       "original_price": 79.90,
       "image": "https://m.media-amazon.com/images/I/71RWZFzYmrL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DLQDL629?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B09WQ4NN5D",
+      "name": "Fritadeira Elétrica Elgin Quick Fryer 4 Litros, Airfryer, Cesta Removível",
+      "price": 198.99,
+      "original_price": 494.00,
+      "image": "https://m.media-amazon.com/images/I/61UTl32b4lL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09WQ4NN5D?tag=patrickmont04-20",
       "category": "other"
     }
   ]
