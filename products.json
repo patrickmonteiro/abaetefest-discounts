@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-06-22T13:30:35Z",
+  "updated_at": "2026-06-22T17:52:58Z",
   "source": "amazon",
   "products": [
+    {
+      "id": "B08KGN5QLJ",
+      "name": "Versace Dylan Turquoise Pour Femme Eau de Toilette Feminino, 30ml",
+      "price": 251.36,
+      "original_price": 439.0,
+      "image": "https://m.media-amazon.com/images/I/713tI5kHsaL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08KGN5QLJ?tag=patrickmont04-20",
+      "category": "perfumes"
+    },
+    {
+      "id": "B0CTKL4S3J",
+      "name": "Eudora Magnific Pink Peônia Desodorante Colônia, 75ml",
+      "price": 92.87,
+      "original_price": 139.9,
+      "image": "https://m.media-amazon.com/images/I/61DObi8l4rL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CTKL4S3J?tag=patrickmont04-20",
+      "category": "perfumes"
+    },
+    {
+      "id": "B0C31VHBZQ",
+      "name": "Paco Rabanne Lady Million Royal Eau de Parfum Feminino, 50ml",
+      "price": 474.05,
+      "original_price": 539.0,
+      "image": "https://m.media-amazon.com/images/I/612dSrWiiRL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C31VHBZQ?tag=patrickmont04-20",
+      "category": "perfumes"
+    },
     {
       "id": "B0DBM44Y7J",
       "name": "Tenis Academia Feminino Leve Macio Corrida + Relógio",
@@ -212,10 +239,19 @@
     {
       "id": "B0FXHPXLHG",
       "name": "Braçadeira Suporte Porta Celular Corrida Bike Academia",
-      "price": 39.80,
-      "original_price": 41.90,
+      "price": 39.8,
+      "original_price": 41.9,
       "image": "https://m.media-amazon.com/images/I/71GwGuoFmYL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FXHPXLHG?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0D522FNDS",
+      "name": "Kit 3 Camisetas Térmicas Proteção UV Manga Longa Masculina Poliéster",
+      "price": 49.99,
+      "original_price": 59.99,
+      "image": "https://m.media-amazon.com/images/I/412qQLd5UJL._AC_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D522FNDS?tag=patrickmont04-20",
       "category": "sports_leisure"
     },
     {
@@ -329,7 +365,7 @@
     {
       "id": "B0D7NQ5V93",
       "name": "Relógio Mormaii Smartwatch Unissex Life, Preto",
-      "price": 399.90,
+      "price": 399.9,
       "original_price": 598.98,
       "image": "https://m.media-amazon.com/images/I/71sUcapTd5L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0D7NQ5V93?tag=patrickmont04-20",
@@ -357,7 +393,7 @@
       "id": "B0CVCLGV1W",
       "name": "Smartwatch Samsung Galaxy Fit3, Display 1.6\", Grafite",
       "price": 218.99,
-      "original_price": 599.00,
+      "original_price": 599.0,
       "image": "https://m.media-amazon.com/images/I/51bjAlTBzZL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=patrickmont04-20",
       "category": "electronics"
@@ -365,8 +401,8 @@
     {
       "id": "B0BVC1MVHS",
       "name": "Smartwatch Xiaomi Haylou Watch 2 LS02, IP68, até 20 dias de bateria",
-      "price": 192.00,
-      "original_price": 599.00,
+      "price": 192.0,
+      "original_price": 599.0,
       "image": "https://m.media-amazon.com/images/I/51jIn5NWvPL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BVC1MVHS?tag=patrickmont04-20",
       "category": "electronics"
@@ -375,7 +411,7 @@
       "id": "B0FRMQ1DZ1",
       "name": "Fone de Ouvido sem Fio Basike OWS com Gancho, Branco, Esportivo",
       "price": 91.15,
-      "original_price": 101.00,
+      "original_price": 101.0,
       "image": "https://m.media-amazon.com/images/I/51seRglfF6L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FRMQ1DZ1?tag=patrickmont04-20",
       "category": "electronics"
@@ -383,7 +419,7 @@
     {
       "id": "B0B694TZC9",
       "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
-      "price": 34.20,
+      "price": 34.2,
       "original_price": 55.19,
       "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
@@ -392,7 +428,7 @@
     {
       "id": "B096YBF37H",
       "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
-      "price": 34.10,
+      "price": 34.1,
       "original_price": 74.89,
       "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
@@ -428,8 +464,8 @@
     {
       "id": "B0DLQDL629",
       "name": "Jogo de Tapetes para Banheiro Decolab, Cinza-Escuro, 3 Peças",
-      "price": 66.40,
-      "original_price": 79.90,
+      "price": 66.4,
+      "original_price": 79.9,
       "image": "https://m.media-amazon.com/images/I/71RWZFzYmrL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DLQDL629?tag=patrickmont04-20",
       "category": "other"
@@ -438,9 +474,36 @@
       "id": "B09WQ4NN5D",
       "name": "Fritadeira Elétrica Elgin Quick Fryer 4 Litros, Airfryer, Cesta Removível",
       "price": 198.99,
-      "original_price": 494.00,
+      "original_price": 494.0,
       "image": "https://m.media-amazon.com/images/I/61UTl32b4lL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09WQ4NN5D?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B0CR46G7FH",
+      "name": "Ar-condicionado Split Inverter Elgin Eco 9000 BTUs, Wi-Fi, Quente e Frio",
+      "price": 1578.55,
+      "original_price": 1943.78,
+      "image": "https://m.media-amazon.com/images/I/51WsrmuS-vL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CR46G7FH?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B0B8P3T3VM",
+      "name": "Micro-ondas Electrolux 23L Inox, Efficient, Descongelamento Assistido, ME23S",
+      "price": 532.68,
+      "original_price": 629.0,
+      "image": "https://m.media-amazon.com/images/I/51fyuoyD1sL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0B8P3T3VM?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B0DY3214JL",
+      "name": "Câmera Segurança IP Lâmpada WiFi Full HD 1080p, Visão Noturna, Yoosee",
+      "price": 52.9,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/610WqgEMyuL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=patrickmont04-20",
       "category": "other"
     }
   ]
