@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T17:52:58Z",
+  "updated_at": "2026-06-23T20:56:00Z",
   "source": "amazon",
   "products": [
     {
@@ -255,6 +255,42 @@
       "category": "sports_leisure"
     },
     {
+      "id": "B07QMNY3WM",
+      "name": "Bermuda Mizuno Essence Feminina",
+      "price": 84.99,
+      "original_price": 139.99,
+      "image": "https://m.media-amazon.com/images/I/51Gm7CtiWXL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07QMNY3WM?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0DDVSG662",
+      "name": "Regata Mizuno Spark 2 Masculina",
+      "price": 69.99,
+      "original_price": 109.99,
+      "image": "https://m.media-amazon.com/images/I/41FhZ1f0S2L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DDVSG662?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0FNS63HHD",
+      "name": "Tênis de Corrida Masculino Mizuno Atlantis 2",
+      "price": 229.99,
+      "original_price": 259.99,
+      "image": "https://m.media-amazon.com/images/I/51FikrfYP9L._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FNS63HHD?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
+      "id": "B0G99RGYGZ",
+      "name": "Camiseta de Corrida Mizuno Run Spark Mescla Masculina",
+      "price": 74.99,
+      "original_price": 119.99,
+      "image": "https://m.media-amazon.com/images/I/71FwKtL94nL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0G99RGYGZ?tag=patrickmont04-20",
+      "category": "sports_leisure"
+    },
+    {
       "id": "B0DZFCS6VJ",
       "name": "Fone de Ouvido Bluetooth 5.4 IPX5 à Prova D'Água, 45h Bateria, Esportivo",
       "price": 79.69,
@@ -504,6 +540,15 @@
       "original_price": 59.9,
       "image": "https://m.media-amazon.com/images/I/610WqgEMyuL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=patrickmont04-20",
+      "category": "other"
+    },
+    {
+      "id": "B09B17MQLC",
+      "name": "Ventilador de Mesa MONDIAL Super Power 30cm, Preto | 60W, 220V, VSP-30-B",
+      "price": 99.90,
+      "original_price": 139.90,
+      "image": "https://m.media-amazon.com/images/I/61o7Q8hq2zL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09B17MQLC?tag=patrickmont04-20",
       "category": "other"
     }
   ]
