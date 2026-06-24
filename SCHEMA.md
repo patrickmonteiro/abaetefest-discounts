@@ -6,7 +6,7 @@
 |-------------|--------|----------------------------------------|
 | `updated_at` | string | ISO 8601 — quando foi atualizado       |
 | `source`     | string | `"amazon"`                             |
-| `products`   | array  | Lista de produtos (máx. 40)            |
+| `products`   | array  | Lista de produtos                      |
 
 ## Produto
 
@@ -24,14 +24,11 @@
 
 ```
 perfumes
-health_beauty
-hygiene
-sports_leisure
-bags_accessories
-supplements
-natural_products
-food_beverages
-home_utilities
+saude_beleza
+esportes_lazer
+eletronicos
+suplementos
+livros
 outros
 ```
 
