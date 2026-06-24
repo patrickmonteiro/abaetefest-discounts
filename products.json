@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-06-23T20:56:00Z",
+  "updated_at": "2026-06-24T20:19:35Z",
   "source": "amazon",
   "products": [
+    {
+      "id": "B0B694TZC9",
+      "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
+      "price": 34.2,
+      "original_price": 55.19,
+      "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B096YBF37H",
+      "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
+      "price": 34.1,
+      "original_price": 74.89,
+      "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B0F67MQCGQ",
+      "name": "Kit Shampoo, Condicionador e Sérum L'Oréal Paris Elseve Liso dos Sonhos, com Tecnologia Ativada por Calor, Efeito Antifrizz, Barreira Protetora Contra Umidade",
+      "price": 73.38,
+      "original_price": 121.25,
+      "image": "https://m.media-amazon.com/images/I/817zLg0L03L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0F67MQCGQ?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B0D7DSB3K6",
+      "name": "Kit Capilar L'Oréal Paris Elseve Hidra Hialurônico, Shampoo 400ml, Condicionador 400ml, Creme de Tratamento 300g, Ácido Hialurônico, Anti-Frizz",
+      "price": 89.87,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/81afFbwsm+L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D7DSB3K6?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B0CZY1N1JY",
+      "name": "Kit Tratamento Capilar L'Oréal Paris Elseve Glycolic Gloss, 5 Produtos, Combate Porosidade, para Brilho e Alinhamento",
+      "price": 163.0,
+      "original_price": 185.29,
+      "image": "https://m.media-amazon.com/images/I/81l32aDwFxL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CZY1N1JY?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B0GTRRRWH4",
+      "name": "Kit L'Oréal Paris Elseve Collagen Lifter, Shampoo, Condicionador e Sérum Leave-in com Peptídeos, Volume em 3D para Cabelos Finos",
+      "price": 120.59,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
+    {
+      "id": "B0F6NN7SBX",
+      "name": "Kit Reparação Molecular L'Oréal Paris Elseve Bond Repair com Ácido Cítrico, para Cabelos Danificados, Reconstrói Ligações, Shampoo + Condicionador, Sachê Pré-Shampoo",
+      "price": 69.8,
+      "original_price": 94.69,
+      "image": "https://m.media-amazon.com/images/I/81is-MgIP+L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0F6NN7SBX?tag=patrickmont04-20",
+      "category": "saude_beleza"
+    },
     {
       "id": "B08KGN5QLJ",
       "name": "Versace Dylan Turquoise Pour Femme Eau de Toilette Feminino, 30ml",
@@ -451,24 +514,6 @@
       "image": "https://m.media-amazon.com/images/I/51seRglfF6L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FRMQ1DZ1?tag=patrickmont04-20",
       "category": "eletronicos"
-    },
-    {
-      "id": "B0B694TZC9",
-      "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
-      "price": 34.2,
-      "original_price": 55.19,
-      "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
-      "category": "saude_beleza"
-    },
-    {
-      "id": "B096YBF37H",
-      "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
-      "price": 34.1,
-      "original_price": 74.89,
-      "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
-      "category": "saude_beleza"
     },
     {
       "id": "B0BVZY7BM6",
