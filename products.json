@@ -550,6 +550,51 @@
       "image": "https://m.media-amazon.com/images/I/61o7Q8hq2zL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09B17MQLC?tag=patrickmont04-20",
       "category": "other"
+    },
+    {
+      "id": "8575422391",
+      "name": "Os Segredos da Mente Milionária: Aprenda a Enriquecer Mudando Seus Conceitos Sobre o Dinheiro e Adotando os Hábitos das Pessoas Bem-sucedidas",
+      "price": 35.27,
+      "original_price": 54.90,
+      "image": "https://m.media-amazon.com/images/I/81WzW3xJb5L._SY522_.jpg",
+      "url": "https://www.amazon.com.br/dp/8575422391?tag=patrickmont04-20",
+      "category": "books"
+    },
+    {
+      "id": "6555111100",
+      "name": "A Psicologia Financeira: Lições Atemporais Sobre Fortuna, Ganância e Felicidade",
+      "price": 29.88,
+      "original_price": 54.90,
+      "image": "https://m.media-amazon.com/images/I/41WqYpP0S7L._SY445_SX342_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/6555111100?tag=patrickmont04-20",
+      "category": "books"
+    },
+    {
+      "id": "8584395784",
+      "name": "Box - Amores Improváveis (Nova Edição)",
+      "price": 251.11,
+      "original_price": 299.90,
+      "image": "https://m.media-amazon.com/images/I/71sJxs3kIrL._SX550_.jpg",
+      "url": "https://www.amazon.com.br/dp/8584395784?tag=patrickmont04-20",
+      "category": "books"
+    },
+    {
+      "id": "8568014321",
+      "name": "Quebrando o Hábito de Ser Você Mesmo: Como Reconstruir Sua Mente e Criar um Novo Eu",
+      "price": 35.61,
+      "original_price": 51.90,
+      "image": "https://m.media-amazon.com/images/I/41ireo0MO7L._SY445_SX342_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/8568014321?tag=patrickmont04-20",
+      "category": "books"
+    },
+    {
+      "id": "6560950700",
+      "name": "365 Hábitos Simples e Poderosos",
+      "price": 19.90,
+      "original_price": 49.90,
+      "image": "https://m.media-amazon.com/images/I/61t6WTEIJyL._SY522_.jpg",
+      "url": "https://www.amazon.com.br/dp/6560950700?tag=patrickmont04-20",
+      "category": "books"
     }
   ]
 }
