@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:05:00Z",
+  "updated_at": "2026-06-25T23:35:00Z",
   "source": "mixed",
   "products": [
     {
@@ -81,6 +81,66 @@
       "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=patrickmont04-20",
       "category": "saude_beleza",
       "platform": "amazon"
+    },
+    {
+      "id": "58258690499",
+      "name": "Kit 6 Esfoliante Corpo Banho Premium Hidratação Profunda Skin Care Atacado 180g",
+      "price": 59.79,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zu3-mmy2n89l3y0we4.webp",
+      "url": "https://s.shopee.com.br/5fmfp9NyUO",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "12174643313",
+      "name": "Kit Cachos Profissional S'amontté 6 Itens Ativador 500g Anti Frizz Curly 2A-4C",
+      "price": 90.19,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lz-mo8e7o7un20w08.webp",
+      "url": "https://s.shopee.com.br/W4ZfhdCWn",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22193956904",
+      "name": "Eudora Siàge Liso Intenso Kit",
+      "price": 64.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8xyu77wixq1ae.webp",
+      "url": "https://s.shopee.com.br/5q661X95Gm",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22792008274",
+      "name": "Secador de Cabelos GA.MA Italy Eleganza Plus Ceramic Ion 2100W",
+      "price": 121.84,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mesvkdwfk1kxa6.webp",
+      "url": "https://s.shopee.com.br/70I3Pi3yM1",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22199226092",
+      "name": "Brilho Labial Gloss Hidratante Aroma de Mel 5g",
+      "price": 18.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8227e-mhlvemxebj7o2b.webp",
+      "url": "https://s.shopee.com.br/2g94FmEA3K",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "23193617954",
+      "name": "Brilho Labial - Sarah's Beauty, Cor 6",
+      "price": 12.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m4oo189f1ikhc9.webp",
+      "url": "https://s.shopee.com.br/9037nRPo5T",
+      "category": "saude_beleza",
+      "platform": "shopee"
     },
     {
       "id": "B08KGN5QLJ",
