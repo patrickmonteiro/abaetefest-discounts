@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T15:04:31Z",
+  "updated_at": "2026-06-25T22:40:00Z",
   "source": "mixed",
   "products": [
     {
@@ -413,16 +413,6 @@
       "platform": "amazon"
     },
     {
-      "id": "B0C15434GB",
-      "name": "Smart TV Samsung QLED 32\" Full HD | QN32LS03C, Gaming Hub, Tela Matte, Modo Arte",
-      "price": 1935.0,
-      "original_price": 2097.99,
-      "image": "https://m.media-amazon.com/images/I/61oZi8WSqyL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0C15434GB?tag=patrickmont04-20",
-      "category": "eletronicos",
-      "platform": "amazon"
-    },
-    {
       "id": "B0FFYLD5VZ",
       "name": "Fone de Ouvido Bluetooth 5.4 TWS Esportivo Basike, Preto",
       "price": 132.89,
@@ -453,16 +443,6 @@
       "platform": "amazon"
     },
     {
-      "id": "B0D2RXBBL3",
-      "name": "Smart TV 24\" Philco PTV24G5YR2CP, Roku TV, Dolby Audio",
-      "price": 719.1,
-      "original_price": 849.0,
-      "image": "https://m.media-amazon.com/images/I/619tGmre9EL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0D2RXBBL3?tag=patrickmont04-20",
-      "category": "eletronicos",
-      "platform": "amazon"
-    },
-    {
       "id": "B0GLQXJFBD",
       "name": "Smartphone Motorola Moto G67 5G 128GB Chumbo, Ultrarresistente",
       "price": 1068.81,
@@ -473,12 +453,32 @@
       "platform": "amazon"
     },
     {
+      "id": "B0DPGLPJHJ",
+      "name": "Smart TV LED Philco 40\" PTV40M9GR2CGB, Roku TV, Dolby Audio",
+      "price": 1079.1,
+      "original_price": 1429.0,
+      "image": "https://m.media-amazon.com/images/I/81BwX6f4G+L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DPGLPJHJ?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B0FPRGKBL3",
       "name": "Smart TV 4K UHD SEMP 43\" 43S62, Google TV, Dolby Audio",
-      "price": 1599.95,
+      "price": 1599.94,
       "original_price": 1899.0,
-      "image": "https://m.media-amazon.com/images/I/61Dg9oW2VcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61Dg9oW2VcL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BSLMPB65",
+      "name": "Smart TV LED AOC 43S5135/78G 43\" Full HD, Wifi, Conversor Digital",
+      "price": 1399.0,
+      "original_price": 1999.0,
+      "image": "https://m.media-amazon.com/images/I/71sp2owMqHL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BSLMPB65?tag=patrickmont04-20",
       "category": "eletronicos",
       "platform": "amazon"
     },
