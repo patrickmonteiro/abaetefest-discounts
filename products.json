@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T20:19:35Z",
-  "source": "amazon",
+  "updated_at": "2026-06-25T15:04:31Z",
+  "source": "mixed",
   "products": [
     {
       "id": "B0B694TZC9",
@@ -9,7 +9,8 @@
       "original_price": 55.19,
       "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B096YBF37H",
@@ -18,7 +19,8 @@
       "original_price": 74.89,
       "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B0F67MQCGQ",
@@ -27,7 +29,8 @@
       "original_price": 121.25,
       "image": "https://m.media-amazon.com/images/I/817zLg0L03L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0F67MQCGQ?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B0D7DSB3K6",
@@ -36,7 +39,8 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/81afFbwsm+L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0D7DSB3K6?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B0CZY1N1JY",
@@ -45,7 +49,8 @@
       "original_price": 185.29,
       "image": "https://m.media-amazon.com/images/I/81l32aDwFxL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CZY1N1JY?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B0GTRRRWH4",
@@ -54,7 +59,8 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B0F6NN7SBX",
@@ -63,7 +69,8 @@
       "original_price": 94.69,
       "image": "https://m.media-amazon.com/images/I/81is-MgIP+L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0F6NN7SBX?tag=patrickmont04-20",
-      "category": "saude_beleza"
+      "category": "saude_beleza",
+      "platform": "amazon"
     },
     {
       "id": "B08KGN5QLJ",
@@ -72,7 +79,8 @@
       "original_price": 439.0,
       "image": "https://m.media-amazon.com/images/I/713tI5kHsaL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08KGN5QLJ?tag=patrickmont04-20",
-      "category": "perfumes"
+      "category": "perfumes",
+      "platform": "amazon"
     },
     {
       "id": "B0CTKL4S3J",
@@ -81,7 +89,8 @@
       "original_price": 139.9,
       "image": "https://m.media-amazon.com/images/I/61DObi8l4rL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CTKL4S3J?tag=patrickmont04-20",
-      "category": "perfumes"
+      "category": "perfumes",
+      "platform": "amazon"
     },
     {
       "id": "B0C31VHBZQ",
@@ -90,7 +99,8 @@
       "original_price": 539.0,
       "image": "https://m.media-amazon.com/images/I/612dSrWiiRL._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B0C31VHBZQ?tag=patrickmont04-20",
-      "category": "perfumes"
+      "category": "perfumes",
+      "platform": "amazon"
     },
     {
       "id": "B0DBM44Y7J",
@@ -99,7 +109,8 @@
       "original_price": 78.9,
       "image": "https://m.media-amazon.com/images/I/41oNC8mWcdL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DBM44Y7J?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FTRWFJMS",
@@ -108,7 +119,8 @@
       "original_price": 15.9,
       "image": "https://m.media-amazon.com/images/I/51kdTCTO2bL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FTRWFJMS?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FFTRFCDM",
@@ -117,7 +129,8 @@
       "original_price": 699.99,
       "image": "https://m.media-amazon.com/images/I/51oileqD-IL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTRFCDM?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FGDVFGJW",
@@ -126,7 +139,8 @@
       "original_price": 379.99,
       "image": "https://m.media-amazon.com/images/I/51DtNEJ9SJL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FGDVFGJW?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FH3W1WZF",
@@ -135,7 +149,8 @@
       "original_price": 239.9,
       "image": "https://m.media-amazon.com/images/I/31ofK6ZBUxL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FH3W1WZF?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B08T997SRZ",
@@ -144,7 +159,8 @@
       "original_price": 69.9,
       "image": "https://m.media-amazon.com/images/I/515oywMtCdL._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B08T997SRZ?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B07RN15ZSD",
@@ -153,7 +169,8 @@
       "original_price": 69.99,
       "image": "https://m.media-amazon.com/images/I/71UAfghIdWL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07RN15ZSD?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B09HR3QHL8",
@@ -162,7 +179,8 @@
       "original_price": 29.99,
       "image": "https://m.media-amazon.com/images/I/617crnovcTL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09HR3QHL8?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0DLHHKFGW",
@@ -171,7 +189,8 @@
       "original_price": 161.82,
       "image": "https://m.media-amazon.com/images/I/71njlYz6CQL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DLHHKFGW?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B07K8WF98V",
@@ -180,7 +199,8 @@
       "original_price": 149.9,
       "image": "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07K8WF98V?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FFTRQHR8",
@@ -189,7 +209,8 @@
       "original_price": 395.9,
       "image": "https://m.media-amazon.com/images/I/414KU4m5aNL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTRQHR8?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FFTQTCJC",
@@ -198,7 +219,8 @@
       "original_price": 329.99,
       "image": "https://m.media-amazon.com/images/I/61QZUqHMjJL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTQTCJC?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0CFCHR98Q",
@@ -207,7 +229,8 @@
       "original_price": 199.9,
       "image": "https://m.media-amazon.com/images/I/51fxh2hI0fL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CFCHR98Q?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FFTRQ3WS",
@@ -216,7 +239,8 @@
       "original_price": 399.9,
       "image": "https://m.media-amazon.com/images/I/611RirAWR7L._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFTRQ3WS?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0DXX54H5K",
@@ -225,7 +249,8 @@
       "original_price": 34.99,
       "image": "https://m.media-amazon.com/images/I/61D0LxR9L2L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DXX54H5K?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0BZQVSPHT",
@@ -234,7 +259,8 @@
       "original_price": 39.99,
       "image": "https://m.media-amazon.com/images/I/51zzFbpHmQL._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BZQVSPHT?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0G2MZ49MS",
@@ -243,7 +269,8 @@
       "original_price": 99.0,
       "image": "https://m.media-amazon.com/images/I/61nn6DO0PxL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G2MZ49MS?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FBKQS2GZ",
@@ -252,7 +279,8 @@
       "original_price": 31.89,
       "image": "https://m.media-amazon.com/images/I/41z1D0s4qkL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FBKQS2GZ?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0CQ3S75GV",
@@ -261,7 +289,8 @@
       "original_price": 15.7,
       "image": "https://m.media-amazon.com/images/I/51Fi05cctNL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CQ3S75GV?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0CC2PXTPG",
@@ -270,7 +299,8 @@
       "original_price": 59.99,
       "image": "https://m.media-amazon.com/images/I/810jGLHWRwL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CC2PXTPG?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0CQTRC47J",
@@ -279,7 +309,8 @@
       "original_price": 78.9,
       "image": "https://m.media-amazon.com/images/I/61szNdVyiPL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CQTRC47J?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0G7J52ZDR",
@@ -288,7 +319,8 @@
       "original_price": 79.99,
       "image": "https://m.media-amazon.com/images/I/61yvA76+KiL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G7J52ZDR?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0GPR68B9W",
@@ -297,7 +329,8 @@
       "original_price": 145.99,
       "image": "https://m.media-amazon.com/images/I/51Gm+BY77KL._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B0GPR68B9W?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FXHPXLHG",
@@ -306,7 +339,8 @@
       "original_price": 41.9,
       "image": "https://m.media-amazon.com/images/I/71GwGuoFmYL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FXHPXLHG?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0D522FNDS",
@@ -315,7 +349,8 @@
       "original_price": 59.99,
       "image": "https://m.media-amazon.com/images/I/412qQLd5UJL._AC_.jpg",
       "url": "https://www.amazon.com.br/dp/B0D522FNDS?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B07QMNY3WM",
@@ -324,7 +359,8 @@
       "original_price": 139.99,
       "image": "https://m.media-amazon.com/images/I/51Gm7CtiWXL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07QMNY3WM?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0DDVSG662",
@@ -333,7 +369,8 @@
       "original_price": 109.99,
       "image": "https://m.media-amazon.com/images/I/41FhZ1f0S2L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DDVSG662?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0FNS63HHD",
@@ -342,7 +379,8 @@
       "original_price": 259.99,
       "image": "https://m.media-amazon.com/images/I/51FikrfYP9L._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FNS63HHD?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0G99RGYGZ",
@@ -351,7 +389,8 @@
       "original_price": 119.99,
       "image": "https://m.media-amazon.com/images/I/71FwKtL94nL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G99RGYGZ?tag=patrickmont04-20",
-      "category": "esportes_lazer"
+      "category": "esportes_lazer",
+      "platform": "amazon"
     },
     {
       "id": "B0DZFCS6VJ",
@@ -360,7 +399,8 @@
       "original_price": 119.9,
       "image": "https://m.media-amazon.com/images/I/51PLrVYyLcL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DZFCS6VJ?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FVBH3L33",
@@ -369,7 +409,8 @@
       "original_price": 559.0,
       "image": "https://m.media-amazon.com/images/I/61v5T6gMkjL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FVBH3L33?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0C15434GB",
@@ -378,7 +419,8 @@
       "original_price": 2097.99,
       "image": "https://m.media-amazon.com/images/I/61oZi8WSqyL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0C15434GB?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FFYLD5VZ",
@@ -387,7 +429,8 @@
       "original_price": 168.0,
       "image": "https://m.media-amazon.com/images/I/61MuRey71SL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FFYLD5VZ?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FPHYS2WF",
@@ -396,7 +439,8 @@
       "original_price": 1099.0,
       "image": "https://m.media-amazon.com/images/I/51Adgl-DQtL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FPHYS2WF?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FR5J3JLM",
@@ -405,7 +449,8 @@
       "original_price": 717.0,
       "image": "https://m.media-amazon.com/images/I/61NgIKe6Q4L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FR5J3JLM?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0D2RXBBL3",
@@ -414,7 +459,8 @@
       "original_price": 849.0,
       "image": "https://m.media-amazon.com/images/I/619tGmre9EL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0D2RXBBL3?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0GLQXJFBD",
@@ -423,7 +469,8 @@
       "original_price": 2099.0,
       "image": "https://m.media-amazon.com/images/I/51BHq8sWc5L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0GLQXJFBD?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FPRGKBL3",
@@ -432,7 +479,8 @@
       "original_price": 1899.0,
       "image": "https://m.media-amazon.com/images/I/61Dg9oW2VcL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0DKC8GR52",
@@ -441,7 +489,8 @@
       "original_price": 18.98,
       "image": "https://m.media-amazon.com/images/I/71Ay-zyItRL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DKC8GR52?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0GXWWB4RF",
@@ -450,7 +499,8 @@
       "original_price": 24.9,
       "image": "https://m.media-amazon.com/images/I/61sACtR5kLL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0GXWWB4RF?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0H1G4Z83S",
@@ -459,7 +509,8 @@
       "original_price": 199.0,
       "image": "https://m.media-amazon.com/images/I/5166ONWrqQL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0H1G4Z83S?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0D7NQ5V93",
@@ -468,7 +519,8 @@
       "original_price": 598.98,
       "image": "https://m.media-amazon.com/images/I/71sUcapTd5L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0D7NQ5V93?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0CW3DGP12",
@@ -477,7 +529,8 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/51WOvToYRFL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CW3DGP12?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0DK6ZZFL9",
@@ -486,7 +539,8 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/51L7bKcMbKL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DK6ZZFL9?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0CVCLGV1W",
@@ -495,7 +549,8 @@
       "original_price": 599.0,
       "image": "https://m.media-amazon.com/images/I/51bjAlTBzZL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0BVC1MVHS",
@@ -504,7 +559,8 @@
       "original_price": 599.0,
       "image": "https://m.media-amazon.com/images/I/51jIn5NWvPL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BVC1MVHS?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0FRMQ1DZ1",
@@ -513,7 +569,8 @@
       "original_price": 101.0,
       "image": "https://m.media-amazon.com/images/I/51seRglfF6L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FRMQ1DZ1?tag=patrickmont04-20",
-      "category": "eletronicos"
+      "category": "eletronicos",
+      "platform": "amazon"
     },
     {
       "id": "B0BVZY7BM6",
@@ -522,7 +579,8 @@
       "original_price": 59.9,
       "image": "https://m.media-amazon.com/images/I/713Kk9DIwnL._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BVZY7BM6?tag=patrickmont04-20",
-      "category": "suplementos"
+      "category": "suplementos",
+      "platform": "amazon"
     },
     {
       "id": "B08VPS711D",
@@ -531,7 +589,8 @@
       "original_price": 24.9,
       "image": "https://m.media-amazon.com/images/I/51ao+TrcxJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=patrickmont04-20",
-      "category": "suplementos"
+      "category": "suplementos",
+      "platform": "amazon"
     },
     {
       "id": "B08B9M713X",
@@ -540,7 +599,8 @@
       "original_price": 41.9,
       "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B0DLQDL629",
@@ -549,7 +609,8 @@
       "original_price": 79.9,
       "image": "https://m.media-amazon.com/images/I/71RWZFzYmrL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DLQDL629?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B09WQ4NN5D",
@@ -558,7 +619,8 @@
       "original_price": 494.0,
       "image": "https://m.media-amazon.com/images/I/61UTl32b4lL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09WQ4NN5D?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B0CR46G7FH",
@@ -567,7 +629,8 @@
       "original_price": 1943.78,
       "image": "https://m.media-amazon.com/images/I/51WsrmuS-vL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CR46G7FH?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B0B8P3T3VM",
@@ -576,7 +639,8 @@
       "original_price": 629.0,
       "image": "https://m.media-amazon.com/images/I/51fyuoyD1sL._AC_SX342_SY445_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0B8P3T3VM?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B0DY3214JL",
@@ -585,7 +649,8 @@
       "original_price": 59.9,
       "image": "https://m.media-amazon.com/images/I/610WqgEMyuL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DY3214JL?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "B09B17MQLC",
@@ -594,7 +659,8 @@
       "original_price": 139.9,
       "image": "https://m.media-amazon.com/images/I/61o7Q8hq2zL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09B17MQLC?tag=patrickmont04-20",
-      "category": "outros"
+      "category": "outros",
+      "platform": "amazon"
     },
     {
       "id": "8575422391",
@@ -603,7 +669,8 @@
       "original_price": 54.9,
       "image": "https://m.media-amazon.com/images/I/81WzW3xJb5L._SY522_.jpg",
       "url": "https://www.amazon.com.br/dp/8575422391?tag=patrickmont04-20",
-      "category": "livros"
+      "category": "livros",
+      "platform": "amazon"
     },
     {
       "id": "6555111100",
@@ -612,7 +679,8 @@
       "original_price": 54.9,
       "image": "https://m.media-amazon.com/images/I/41WqYpP0S7L._SY445_SX342_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/6555111100?tag=patrickmont04-20",
-      "category": "livros"
+      "category": "livros",
+      "platform": "amazon"
     },
     {
       "id": "8584395784",
@@ -621,7 +689,8 @@
       "original_price": 299.9,
       "image": "https://m.media-amazon.com/images/I/71sJxs3kIrL._SX550_.jpg",
       "url": "https://www.amazon.com.br/dp/8584395784?tag=patrickmont04-20",
-      "category": "livros"
+      "category": "livros",
+      "platform": "amazon"
     },
     {
       "id": "8568014321",
@@ -630,7 +699,8 @@
       "original_price": 51.9,
       "image": "https://m.media-amazon.com/images/I/41ireo0MO7L._SY445_SX342_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/8568014321?tag=patrickmont04-20",
-      "category": "livros"
+      "category": "livros",
+      "platform": "amazon"
     },
     {
       "id": "6560950700",
@@ -639,7 +709,98 @@
       "original_price": 49.9,
       "image": "https://m.media-amazon.com/images/I/61t6WTEIJyL._SY522_.jpg",
       "url": "https://www.amazon.com.br/dp/6560950700?tag=patrickmont04-20",
-      "category": "livros"
+      "category": "livros",
+      "platform": "amazon"
+    },
+    {
+      "id": "23819515591",
+      "name": "Varal Portátil De Porta Janela Sacada Para Apartamento Dobrável Ajustável Resistente sem Furação",
+      "price": 29.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l7-moe7f7i7gphfe5.webp",
+      "url": "https://s.shopee.com.br/1qZwk4JEGy",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "58261455437",
+      "name": "Kit 3 Cestos Organizadores de Bambu Multiuso com Forro",
+      "price": 41.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lb-mpi0ili45u6a42.webp",
+      "url": "https://s.shopee.com.br/30lu8G3bkZ",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "23594967569",
+      "name": "Kit Cozinha Completa Bambu Premium Porta Temperos Porta Xícaras Porta Papel Toalha Envio Imediato",
+      "price": 22.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lq-moj2lhealp1hc0.webp",
+      "url": "https://s.shopee.com.br/7AbT6KDwdM",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "58260745633",
+      "name": "Petisqueira Bambu C/Tampa Porta Frios mesa posta acrílico aperitivos queijos bandeja café cama manhã dia dos namorados",
+      "price": 78.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823qm-moix62nw4xscb1.webp",
+      "url": "https://s.shopee.com.br/7fXjhGxtdz",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22499247158",
+      "name": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "price": 32.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zvk-mik9ovwbhszk62.webp",
+      "url": "https://s.shopee.com.br/7AbT6S5DHX",
+      "category": "eletronicos",
+      "platform": "shopee"
+    },
+    {
+      "id": "58202223725",
+      "name": "Forno De Bancada Elétrico 3 Em 1 Cafeteira Forno E Grill Preto",
+      "price": 319.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjo6pc314v7ld7.webp",
+      "url": "https://s.shopee.com.br/6Aivuczohe",
+      "category": "eletronicos",
+      "platform": "shopee"
+    },
+    {
+      "id": "54660120872",
+      "name": "Tenis Corrida Chunta, Tênis de Lâmina, Tenis Masculino Academia, na Moda, Feminino Corrida",
+      "price": 149.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnyi2334i4nc52.webp",
+      "url": "https://s.shopee.com.br/6ffCVYfuWU",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "57861758726",
+      "name": "Tênis vibratório de corrida ultraleve placa de carbono corrida maratona tênis de corrida",
+      "price": 44.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823oy-mp4xxmrouxa913.webp",
+      "url": "https://s.shopee.com.br/7VEJV6P8Ra",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "56259869307",
+      "name": "Chunta Tênis de Corrida, Tênis de Lâmina Masculino, Tenis Corrida Feminino, Academia Moda",
+      "price": 154.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnsdmchmpczmf1.webp",
+      "url": "https://s.shopee.com.br/AKYUsK1i1A",
+      "category": "esportes_lazer",
+      "platform": "shopee"
     }
   ]
 }
