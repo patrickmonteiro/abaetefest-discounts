@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:35:00Z",
+  "updated_at": "2026-06-26T09:00:00Z",
   "source": "mixed",
   "products": [
     {
@@ -659,6 +659,26 @@
       "original_price": 24.9,
       "image": "https://m.media-amazon.com/images/I/51ao+TrcxJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08VPS711D?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BV3HSYLG",
+      "name": "Whey Protein Concentrado 1Kg - Chocolate Belga - Soldiers Nutrition",
+      "price": 134.9,
+      "original_price": 189.9,
+      "image": "https://m.media-amazon.com/images/I/61wB5KZ+BrL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BV3HSYLG?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D88J8RWB",
+      "name": "Whey Protein Concentrado 1kg - Cookies - 100% Importado - Soldiers Nutrition",
+      "price": 134.9,
+      "original_price": 199.9,
+      "image": "https://m.media-amazon.com/images/I/61c4G+-TZ5L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D88J8RWB?tag=patrickmont04-20",
       "category": "suplementos",
       "platform": "amazon"
     },
