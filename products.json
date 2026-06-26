@@ -1,207 +1,7 @@
 {
-  "updated_at": "2026-06-26T09:25:00Z",
+  "updated_at": "2026-06-26T09:40:00Z",
   "source": "mixed",
   "products": [
-    {
-      "id": "B0B694TZC9",
-      "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
-      "price": 34.2,
-      "original_price": 55.19,
-      "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B096YBF37H",
-      "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
-      "price": 34.1,
-      "original_price": 74.89,
-      "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0F67MQCGQ",
-      "name": "Kit Shampoo, Condicionador e Sérum L'Oréal Paris Elseve Liso dos Sonhos, com Tecnologia Ativada por Calor, Efeito Antifrizz, Barreira Protetora Contra Umidade",
-      "price": 73.38,
-      "original_price": 121.25,
-      "image": "https://m.media-amazon.com/images/I/817zLg0L03L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0F67MQCGQ?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0D7DSB3K6",
-      "name": "Kit Capilar L'Oréal Paris Elseve Hidra Hialurônico, Shampoo 400ml, Condicionador 400ml, Creme de Tratamento 300g, Ácido Hialurônico, Anti-Frizz",
-      "price": 89.87,
-      "original_price": null,
-      "image": "https://m.media-amazon.com/images/I/81afFbwsm+L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0D7DSB3K6?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0CZY1N1JY",
-      "name": "Kit Tratamento Capilar L'Oréal Paris Elseve Glycolic Gloss, 5 Produtos, Combate Porosidade, para Brilho e Alinhamento",
-      "price": 163.0,
-      "original_price": 185.29,
-      "image": "https://m.media-amazon.com/images/I/81l32aDwFxL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0CZY1N1JY?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0GTRRRWH4",
-      "name": "Kit L'Oréal Paris Elseve Collagen Lifter, Shampoo, Condicionador e Sérum Leave-in com Peptídeos, Volume em 3D para Cabelos Finos",
-      "price": 120.59,
-      "original_price": null,
-      "image": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0F6NN7SBX",
-      "name": "Kit Reparação Molecular L'Oréal Paris Elseve Bond Repair com Ácido Cítrico, para Cabelos Danificados, Reconstrói Ligações, Shampoo + Condicionador, Sachê Pré-Shampoo",
-      "price": 69.8,
-      "original_price": 94.69,
-      "image": "https://m.media-amazon.com/images/I/81is-MgIP+L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0F6NN7SBX?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07H113TPQ",
-      "name": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, 6 Óleos Preciosos, Anti-Frizz, 100ml",
-      "price": 36.9,
-      "original_price": 49.9,
-      "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B06XQ27YLL",
-      "name": "Neutrogena Hidratante Facial Hydro Boost Water Gel, 50g",
-      "price": 54.9,
-      "original_price": 90.99,
-      "image": "https://m.media-amazon.com/images/I/517yaXCD5oL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B06XQ27YLL?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07RK4HST7",
-      "name": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
-      "price": 91.96,
-      "original_price": 110.9,
-      "image": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B07RK4HST7?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "B072MK7BN2",
-      "name": "La Roche-Posay Cicaplast Baume B5+ Cuidado Multirreparador Calmante",
-      "price": 71.99,
-      "original_price": 89.9,
-      "image": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B072MK7BN2?tag=patrickmont04-20",
-      "category": "saude_beleza",
-      "platform": "amazon"
-    },
-    {
-      "id": "58258690499",
-      "name": "Kit 6 Esfoliante Corpo Banho Premium Hidratação Profunda Skin Care Atacado 180g",
-      "price": 59.79,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zu3-mmy2n89l3y0we4.webp",
-      "url": "https://s.shopee.com.br/5fmfp9NyUO",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "12174643313",
-      "name": "Kit Cachos Profissional S'amontté 6 Itens Ativador 500g Anti Frizz Curly 2A-4C",
-      "price": 90.19,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lz-mo8e7o7un20w08.webp",
-      "url": "https://s.shopee.com.br/W4ZfhdCWn",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "22193956904",
-      "name": "Eudora Siàge Liso Intenso Kit",
-      "price": 64.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8xyu77wixq1ae.webp",
-      "url": "https://s.shopee.com.br/5q661X95Gm",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "22792008274",
-      "name": "Secador de Cabelos GA.MA Italy Eleganza Plus Ceramic Ion 2100W",
-      "price": 121.84,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mesvkdwfk1kxa6.webp",
-      "url": "https://s.shopee.com.br/70I3Pi3yM1",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "22199226092",
-      "name": "Brilho Labial Gloss Hidratante Aroma de Mel 5g",
-      "price": 18.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8227e-mhlvemxebj7o2b.webp",
-      "url": "https://s.shopee.com.br/2g94FmEA3K",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "23193617954",
-      "name": "Brilho Labial - Sarah's Beauty, Cor 6",
-      "price": 12.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m4oo189f1ikhc9.webp",
-      "url": "https://s.shopee.com.br/9037nRPo5T",
-      "category": "saude_beleza",
-      "platform": "shopee"
-    },
-    {
-      "id": "B08KGN5QLJ",
-      "name": "Versace Dylan Turquoise Pour Femme Eau de Toilette Feminino, 30ml",
-      "price": 251.36,
-      "original_price": 439.0,
-      "image": "https://m.media-amazon.com/images/I/713tI5kHsaL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B08KGN5QLJ?tag=patrickmont04-20",
-      "category": "perfumes",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0CTKL4S3J",
-      "name": "Eudora Magnific Pink Peônia Desodorante Colônia, 75ml",
-      "price": 92.87,
-      "original_price": 139.9,
-      "image": "https://m.media-amazon.com/images/I/61DObi8l4rL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0CTKL4S3J?tag=patrickmont04-20",
-      "category": "perfumes",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0C31VHBZQ",
-      "name": "Paco Rabanne Lady Million Royal Eau de Parfum Feminino, 50ml",
-      "price": 474.05,
-      "original_price": 539.0,
-      "image": "https://m.media-amazon.com/images/I/612dSrWiiRL._AC_SY879_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0C31VHBZQ?tag=patrickmont04-20",
-      "category": "perfumes",
-      "platform": "amazon"
-    },
     {
       "id": "B0DBM44Y7J",
       "name": "Tenis Academia Feminino Leve Macio Corrida + Relógio",
@@ -490,6 +290,236 @@
       "image": "https://m.media-amazon.com/images/I/71FwKtL94nL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G99RGYGZ?tag=patrickmont04-20",
       "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "54660120872",
+      "name": "Tenis Corrida Chunta, Tênis de Lâmina, Tenis Masculino Academia, na Moda, Feminino Corrida",
+      "price": 149.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnyi2334i4nc52.webp",
+      "url": "https://s.shopee.com.br/6ffCVYfuWU",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "57861758726",
+      "name": "Tênis vibratório de corrida ultraleve placa de carbono corrida maratona tênis de corrida",
+      "price": 44.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823oy-mp4xxmrouxa913.webp",
+      "url": "https://s.shopee.com.br/7VEJV6P8Ra",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "56259869307",
+      "name": "Chunta Tênis de Corrida, Tênis de Lâmina Masculino, Tenis Corrida Feminino, Academia Moda",
+      "price": 154.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnsdmchmpczmf1.webp",
+      "url": "https://s.shopee.com.br/AKYUsK1i1A",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "B0B694TZC9",
+      "name": "Protetor Solar Facial L'Oréal Paris FPS 60, Antioleosidade, 40g",
+      "price": 34.2,
+      "original_price": 55.19,
+      "image": "https://m.media-amazon.com/images/I/811jKj8SMlL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0B694TZC9?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B096YBF37H",
+      "name": "Protetor Solar Garnier FPS 50, Hidratante com Vitamina C, 40g",
+      "price": 34.1,
+      "original_price": 74.89,
+      "image": "https://m.media-amazon.com/images/I/71rWkpnAaAL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B096YBF37H?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0F67MQCGQ",
+      "name": "Kit Shampoo, Condicionador e Sérum L'Oréal Paris Elseve Liso dos Sonhos, com Tecnologia Ativada por Calor, Efeito Antifrizz, Barreira Protetora Contra Umidade",
+      "price": 73.38,
+      "original_price": 121.25,
+      "image": "https://m.media-amazon.com/images/I/817zLg0L03L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0F67MQCGQ?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D7DSB3K6",
+      "name": "Kit Capilar L'Oréal Paris Elseve Hidra Hialurônico, Shampoo 400ml, Condicionador 400ml, Creme de Tratamento 300g, Ácido Hialurônico, Anti-Frizz",
+      "price": 89.87,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/81afFbwsm+L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D7DSB3K6?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CZY1N1JY",
+      "name": "Kit Tratamento Capilar L'Oréal Paris Elseve Glycolic Gloss, 5 Produtos, Combate Porosidade, para Brilho e Alinhamento",
+      "price": 163.0,
+      "original_price": 185.29,
+      "image": "https://m.media-amazon.com/images/I/81l32aDwFxL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CZY1N1JY?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GTRRRWH4",
+      "name": "Kit L'Oréal Paris Elseve Collagen Lifter, Shampoo, Condicionador e Sérum Leave-in com Peptídeos, Volume em 3D para Cabelos Finos",
+      "price": 120.59,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0F6NN7SBX",
+      "name": "Kit Reparação Molecular L'Oréal Paris Elseve Bond Repair com Ácido Cítrico, para Cabelos Danificados, Reconstrói Ligações, Shampoo + Condicionador, Sachê Pré-Shampoo",
+      "price": 69.8,
+      "original_price": 94.69,
+      "image": "https://m.media-amazon.com/images/I/81is-MgIP+L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0F6NN7SBX?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07H113TPQ",
+      "name": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, 6 Óleos Preciosos, Anti-Frizz, 100ml",
+      "price": 36.9,
+      "original_price": 49.9,
+      "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B06XQ27YLL",
+      "name": "Neutrogena Hidratante Facial Hydro Boost Water Gel, 50g",
+      "price": 54.9,
+      "original_price": 90.99,
+      "image": "https://m.media-amazon.com/images/I/517yaXCD5oL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B06XQ27YLL?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07RK4HST7",
+      "name": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
+      "price": 91.96,
+      "original_price": 110.9,
+      "image": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07RK4HST7?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B072MK7BN2",
+      "name": "La Roche-Posay Cicaplast Baume B5+ Cuidado Multirreparador Calmante",
+      "price": 71.99,
+      "original_price": 89.9,
+      "image": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B072MK7BN2?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "58258690499",
+      "name": "Kit 6 Esfoliante Corpo Banho Premium Hidratação Profunda Skin Care Atacado 180g",
+      "price": 59.79,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zu3-mmy2n89l3y0we4.webp",
+      "url": "https://s.shopee.com.br/5fmfp9NyUO",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "12174643313",
+      "name": "Kit Cachos Profissional S'amontté 6 Itens Ativador 500g Anti Frizz Curly 2A-4C",
+      "price": 90.19,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lz-mo8e7o7un20w08.webp",
+      "url": "https://s.shopee.com.br/W4ZfhdCWn",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22193956904",
+      "name": "Eudora Siàge Liso Intenso Kit",
+      "price": 64.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8xyu77wixq1ae.webp",
+      "url": "https://s.shopee.com.br/5q661X95Gm",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22792008274",
+      "name": "Secador de Cabelos GA.MA Italy Eleganza Plus Ceramic Ion 2100W",
+      "price": 121.84,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mesvkdwfk1kxa6.webp",
+      "url": "https://s.shopee.com.br/70I3Pi3yM1",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "22199226092",
+      "name": "Brilho Labial Gloss Hidratante Aroma de Mel 5g",
+      "price": 18.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8227e-mhlvemxebj7o2b.webp",
+      "url": "https://s.shopee.com.br/2g94FmEA3K",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "23193617954",
+      "name": "Brilho Labial - Sarah's Beauty, Cor 6",
+      "price": 12.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m4oo189f1ikhc9.webp",
+      "url": "https://s.shopee.com.br/9037nRPo5T",
+      "category": "saude_beleza",
+      "platform": "shopee"
+    },
+    {
+      "id": "B08KGN5QLJ",
+      "name": "Versace Dylan Turquoise Pour Femme Eau de Toilette Feminino, 30ml",
+      "price": 251.36,
+      "original_price": 439.0,
+      "image": "https://m.media-amazon.com/images/I/713tI5kHsaL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08KGN5QLJ?tag=patrickmont04-20",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CTKL4S3J",
+      "name": "Eudora Magnific Pink Peônia Desodorante Colônia, 75ml",
+      "price": 92.87,
+      "original_price": 139.9,
+      "image": "https://m.media-amazon.com/images/I/61DObi8l4rL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CTKL4S3J?tag=patrickmont04-20",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0C31VHBZQ",
+      "name": "Paco Rabanne Lady Million Royal Eau de Parfum Feminino, 50ml",
+      "price": 474.05,
+      "original_price": 539.0,
+      "image": "https://m.media-amazon.com/images/I/612dSrWiiRL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C31VHBZQ?tag=patrickmont04-20",
+      "category": "perfumes",
       "platform": "amazon"
     },
     {
@@ -920,36 +950,6 @@
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjo6pc314v7ld7.webp",
       "url": "https://s.shopee.com.br/6Aivuczohe",
       "category": "eletronicos",
-      "platform": "shopee"
-    },
-    {
-      "id": "54660120872",
-      "name": "Tenis Corrida Chunta, Tênis de Lâmina, Tenis Masculino Academia, na Moda, Feminino Corrida",
-      "price": 149.9,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnyi2334i4nc52.webp",
-      "url": "https://s.shopee.com.br/6ffCVYfuWU",
-      "category": "esportes_lazer",
-      "platform": "shopee"
-    },
-    {
-      "id": "57861758726",
-      "name": "Tênis vibratório de corrida ultraleve placa de carbono corrida maratona tênis de corrida",
-      "price": 44.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823oy-mp4xxmrouxa913.webp",
-      "url": "https://s.shopee.com.br/7VEJV6P8Ra",
-      "category": "esportes_lazer",
-      "platform": "shopee"
-    },
-    {
-      "id": "56259869307",
-      "name": "Chunta Tênis de Corrida, Tênis de Lâmina Masculino, Tenis Corrida Feminino, Academia Moda",
-      "price": 154.0,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/cn-11134207-820l4-mnsdmchmpczmf1.webp",
-      "url": "https://s.shopee.com.br/AKYUsK1i1A",
-      "category": "esportes_lazer",
       "platform": "shopee"
     }
   ]
