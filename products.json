@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T14:30:00Z",
+  "updated_at": "2026-06-27T23:45:00Z",
   "source": "mixed",
   "products": [
     {
@@ -1030,6 +1030,76 @@
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjo6pc314v7ld7.webp",
       "url": "https://s.shopee.com.br/6Aivuczohe",
       "category": "eletronicos",
+      "platform": "shopee"
+    },
+    {
+      "id": "23698384152",
+      "name": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
+      "price": 442.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8dq90menppta0.webp",
+      "url": "https://s.shopee.com.br/6ffGFUofmu",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "23694953658",
+      "name": "Garrafa Inox Térmica 350ML/600ML/800ML/1000ML Com Capinha Protetora De Silicone",
+      "price": 21.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-820na-mnvtjucpuuq0b2.webp",
+      "url": "https://s.shopee.com.br/5fmj3Wmyrz",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "44959639811",
+      "name": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
+      "price": 59.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820la-mnlhyfwwl05g38.webp",
+      "url": "https://s.shopee.com.br/2g97U3AnD1",
+      "category": "suplementos",
+      "platform": "shopee"
+    },
+    {
+      "id": "23699189189",
+      "name": "1,8 Litros Chaleira Elétrica Inox Bule Térmica 1000 Watts",
+      "price": 40.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821ef-mhb1fe2q6nt8bc.webp",
+      "url": "https://s.shopee.com.br/7Kux2XzRmW",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "23499424522",
+      "name": "Bota Coturno Feminina Blogueira Tratorado Plataforma Confort",
+      "price": 39.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m2-mmsvmmz6w8aob8.webp",
+      "url": "https://s.shopee.com.br/5q69FuxWd9",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "21027637434",
+      "name": "Amaciante Diluido 7L Comfort Original",
+      "price": 76.01,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8vzpcb5qg3m90.webp",
+      "url": "https://s.shopee.com.br/6L2PqrQ13s",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "20599370356",
+      "name": "Calça Legging Canelada de Cintura Alta Sem Costura para Academia Feminina, Elástica e Fitness",
+      "price": 29.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lzhsnpao0az924.webp",
+      "url": "https://s.shopee.com.br/6ffGFejXBG",
+      "category": "esportes_lazer",
       "platform": "shopee"
     }
   ]
