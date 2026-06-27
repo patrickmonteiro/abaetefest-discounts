@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T10:00:00Z",
+  "updated_at": "2026-06-27T14:30:00Z",
   "source": "mixed",
   "products": [
     {
@@ -969,6 +969,46 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823qm-moix62nw4xscb1.webp",
       "url": "https://s.shopee.com.br/7fXjhGxtdz",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "58256022867",
+      "name": "Bolsa Pasta Organizador De Documentos Vários Compartimento Trava Com Segredo",
+      "price": 32.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82626-ml9zdkqgxekg0f.webp",
+      "url": "https://s.shopee.com.br/AAF7m3bEum",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22598753558",
+      "name": "Espelho Orgânico Flame com Moldura em Couro Acabamento Premium",
+      "price": 99.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l9-mofi8fq3bzlv19.webp",
+      "url": "https://s.shopee.com.br/4fuBE0L9pw",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22498566032",
+      "name": "Porta Temperos Profissional Giratório 12 Potes Vidro Tampa Dosadora",
+      "price": 28.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820la-mlwg1v0dvthi9b.webp",
+      "url": "https://s.shopee.com.br/gO2ShHmTn",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22394456364",
+      "name": "Porta Jóias Caixa Organizadora Feminina Em Couro Duas Camadas Fecho",
+      "price": 51.98,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mf8if56mk1s4e2.webp",
+      "url": "https://s.shopee.com.br/gO2SkC6K9",
       "category": "outros",
       "platform": "shopee"
     },
