@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:40:00Z",
+  "updated_at": "2026-06-26T10:00:00Z",
   "source": "mixed",
   "products": [
     {
@@ -553,6 +553,26 @@
       "platform": "amazon"
     },
     {
+      "id": "B0FPGF9J2J",
+      "name": "PlayStation®5 Slim Digital 825GB | Pacote ASTRO BOT e Gran Turismo 7",
+      "price": 3699.9,
+      "original_price": 4599.9,
+      "image": "https://m.media-amazon.com/images/I/71WCygaQDAL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0C7GW9F88",
+      "name": "GameSir G7 SE Controle com Fio para PC, Xbox One, Xbox Series X|S",
+      "price": 265.32,
+      "original_price": 324.0,
+      "image": "https://m.media-amazon.com/images/I/51iXILIT27L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C7GW9F88?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B0FPHYS2WF",
       "name": "Celular Samsung Galaxy A07 256GB, 8GB, Preto | Tela 6.7\", Câm. 50MP",
       "price": 799.0,
@@ -609,6 +629,16 @@
       "original_price": 1999.0,
       "image": "https://m.media-amazon.com/images/I/71sp2owMqHL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BSLMPB65?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FTGJDF9R",
+      "name": "Smart TV TCL 40 Polegadas HD QLED, 40S5K, Google TV, WiFi, Bluetooth",
+      "price": 1348.99,
+      "original_price": 1599.0,
+      "image": "https://m.media-amazon.com/images/I/81kmafLl0fL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FTGJDF9R?tag=patrickmont04-20",
       "category": "eletronicos",
       "platform": "amazon"
     },
@@ -779,6 +809,16 @@
       "original_price": 41.9,
       "image": "https://m.media-amazon.com/images/I/61dTZ5s2jJL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B08B9M713X?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GFMC7BHK",
+      "name": "Potes Herméticos de Vidro Kit 6 Unidades, 200ml, Tampa de Bambu",
+      "price": 37.77,
+      "original_price": 48.99,
+      "image": "https://m.media-amazon.com/images/I/613ZVBNkAhL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GFMC7BHK?tag=patrickmont04-20",
       "category": "outros",
       "platform": "amazon"
     },
