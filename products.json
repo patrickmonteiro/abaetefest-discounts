@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:49:58Z",
+  "updated_at": "2026-06-28T23:11:08Z",
   "source": "mixed",
   "products": [
     {
@@ -221,6 +221,56 @@
       "url": "https://s.shopee.com.br/8AU5av4198",
       "category": "eletronicos",
       "platform": "shopee"
+    },
+    {
+      "id": "B0CVCLGV1W",
+      "name": "Smartwatch Samsung Galaxy Fit3, Display 1.6 polegadas, Grafite",
+      "price": 226.1,
+      "original_price": 599.0,
+      "image": "https://m.media-amazon.com/images/I/51bjAlTBzZL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CVCF2J9Q",
+      "name": "Smartwatch Samsung Galaxy Fit3, Display 1.6 polegadas, Rosé",
+      "price": 229.0,
+      "original_price": 599.0,
+      "image": "https://m.media-amazon.com/images/I/511+E5FxUPL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DWFQCY3V",
+      "name": "Smartwatch HUAWEI Band 10, Análise do Sono, Compatível Android/iOS",
+      "price": 208.05,
+      "original_price": 359.0,
+      "image": "https://m.media-amazon.com/images/I/619yH8oZ2EL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CW3DGP12",
+      "name": "Smart Band Xiaomi 9 Active, Versão Global",
+      "price": 188.0,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/51WOvToYRFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CW3DGP12?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FG3CPBCG",
+      "name": "Smartwatch AURAFIT 1.43 AMOLED, Chamadas Bluetooth, Prova D'água 3ATM",
+      "price": 166.88,
+      "original_price": 199.99,
+      "image": "https://m.media-amazon.com/images/I/71wZATA9I6L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FG3CPBCG?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
     }
   ]
 }
