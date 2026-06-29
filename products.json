@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:11:08Z",
+  "updated_at": "2026-06-29T14:19:35Z",
   "source": "mixed",
   "products": [
     {
@@ -270,6 +270,46 @@
       "image": "https://m.media-amazon.com/images/I/71wZATA9I6L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FG3CPBCG?tag=patrickmont04-20",
       "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B01I54ITP0",
+      "name": "Perfume Nautica Voyage Eau de Toilette 100ml Masculino",
+      "price": 75.83,
+      "original_price": 99.99,
+      "image": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B01I54ITP0?tag=patrickmont04-20",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07SBXMSGB",
+      "name": "Óleo Reparador Lola Cosmetics Argan 50ml",
+      "price": 15.9,
+      "original_price": 44.9,
+      "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07L5WFHXW",
+      "name": "Integralmédica Creatina em Pó Hardcore 100% Pura Monohidratada 300g",
+      "price": 34.88,
+      "original_price": 40.5,
+      "image": "https://m.media-amazon.com/images/I/81UashXoAxL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07L5WFHXW?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07DTN9W36",
+      "name": "Lava Roupas Líquido Brilhante 3L, Limpeza Total",
+      "price": 21.61,
+      "original_price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/71jvqKocIgL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07DTN9W36?tag=patrickmont04-20",
+      "category": "outros",
       "platform": "amazon"
     }
   ]
