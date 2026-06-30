@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T14:19:35Z",
+  "updated_at": "2026-06-30T11:17:43Z",
   "source": "mixed",
   "products": [
     {
@@ -173,6 +173,26 @@
       "platform": "shopee"
     },
     {
+      "id": "B0CFCZ68V6",
+      "name": "Tênis de Corrida Feminino Mizuno Goya",
+      "price": 199.99,
+      "original_price": 239.99,
+      "image": "https://m.media-amazon.com/images/I/61ix3xBOSlL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CFCZ68V6?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0G4HXY1WQ",
+      "name": "Óculos Esportivo Ciclismo Corrida MTB UV400 Espelhado Antirreflexo",
+      "price": 22.41,
+      "original_price": 24.9,
+      "image": "https://m.media-amazon.com/images/I/51G7w97lEwL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0G4HXY1WQ?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
       "id": "B0FVYH8W12",
       "name": "Fone de Ouvido Bluetooth 5.4 Com Borrachinhas, Cancelamento de Ruído",
       "price": 36.23,
@@ -273,6 +293,16 @@
       "platform": "amazon"
     },
     {
+      "id": "B0FVY9MD19",
+      "name": "Smart TV LCD LED AOC 32\" HD, Wi-Fi, Quad Core, Dolby Áudio, 60 Hz",
+      "price": 757.15,
+      "original_price": 858.0,
+      "image": "https://m.media-amazon.com/images/I/5127C3SrlYL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B01I54ITP0",
       "name": "Perfume Nautica Voyage Eau de Toilette 100ml Masculino",
       "price": 75.83,
@@ -289,6 +319,26 @@
       "original_price": 44.9,
       "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DV1JZFXS",
+      "name": "L'Oréal Paris Elseve Liso dos Sonhos, Sérum Leave-in Antifrizz, 100ml",
+      "price": 30.9,
+      "original_price": 49.9,
+      "image": "https://m.media-amazon.com/images/I/71E7jaMsugL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07H113TPQ",
+      "name": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, 100ml",
+      "price": 28.4,
+      "original_price": 49.9,
+      "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07H113TPQ?tag=patrickmont04-20",
       "category": "saude_beleza",
       "platform": "amazon"
     },
