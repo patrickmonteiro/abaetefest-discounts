@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:17:43Z",
+  "updated_at": "2026-06-30T11:22:42Z",
   "source": "mixed",
   "products": [
     {
@@ -101,6 +101,16 @@
       "url": "https://www.amazon.com.br/dp/B0BY9L4L79?tag=patrickmont04-20",
       "category": "esportes_lazer",
       "platform": "amazon"
+    },
+    {
+      "id": "58204513864",
+      "name": "Conjunto Feminino Fitness Camiseta + Shorts 2 em 1 Compressão Corrida Academia",
+      "price": 29.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l6-mpc9ek2164911a.webp",
+      "url": "https://s.shopee.com.br/gO75lZ3rd",
+      "category": "esportes_lazer",
+      "platform": "shopee"
     },
     {
       "id": "56057690048",
