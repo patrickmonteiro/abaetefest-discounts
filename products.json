@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T11:22:42Z",
+  "updated_at": "2026-07-01T11:48:24Z",
   "source": "mixed",
   "products": [
     {
@@ -370,6 +370,36 @@
       "image": "https://m.media-amazon.com/images/I/71jvqKocIgL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07DTN9W36?tag=patrickmont04-20",
       "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FPYV6K68",
+      "name": "Celular Samsung Galaxy A17, 128GB, 4GB, Preto | 50MP, Tela 6.7\", IP54",
+      "price": 748.8,
+      "original_price": 1599.0,
+      "image": "https://m.media-amazon.com/images/I/51kT5SgPhNL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FPYV6K68?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CP31L73X",
+      "name": "Kindle 16 GB (Geração mais recente) - Leve e compacto, com tela antirreflexo",
+      "price": 549.0,
+      "original_price": 649.0,
+      "image": "https://m.media-amazon.com/images/I/81Z2YCqqy-L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CP31L73X?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FL4WCZJC",
+      "name": "Smart TV Hisense QLED 43\" UHD 4K | HDR10+, Dolby Atmos, Sports Mode, Alexa",
+      "price": 1659.99,
+      "original_price": 2199.0,
+      "image": "https://m.media-amazon.com/images/I/81OZrcv7-fL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FL4WCZJC?tag=patrickmont04-20",
+      "category": "eletronicos",
       "platform": "amazon"
     }
   ]
