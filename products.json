@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T12:07:46Z",
+  "updated_at": "2026-07-03T01:27:48Z",
   "source": "mixed",
   "products": [
     {
@@ -410,6 +410,106 @@
       "image": "https://m.media-amazon.com/images/I/519TeoR49WL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0F6YJVZ5L?tag=patrickmont04-20",
       "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FFTPX4MV",
+      "name": "Tênis Mizuno City Wall, Preto/Branco",
+      "price": 169.99,
+      "original_price": 329.99,
+      "image": "https://m.media-amazon.com/images/I/61A51xfiReL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFTPX4MV?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DZ334MCH",
+      "name": "The Perfect Top Feminino, Azul Marinho",
+      "price": 79.90,
+      "original_price": 119.00,
+      "image": "https://m.media-amazon.com/images/I/31WA7oaN4YL._AC_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DZ334MCH?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GM3711DH",
+      "name": "Tênis Fila Racer Speedzone Masculino Laranja",
+      "price": 358.99,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61LPRXEty0L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GM3711DH?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FJPNMY4T",
+      "name": "Tênis New Balance Fresh Foam Arishiv4 Masculino Marinho",
+      "price": 246.05,
+      "original_price": 499.99,
+      "image": "https://m.media-amazon.com/images/I/61bGK2+W4NL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FJPNMY4T?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0G4DWPFKP",
+      "name": "Kit 3 Pares Meia Corrida Poliamida Trifil Academia Esportiva",
+      "price": 29.99,
+      "original_price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/719yo1tpwdL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0G4DWPFKP?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BJ347WND",
+      "name": "Protetor Solar La Roche-Posay Anthelios Airlicium FPS80 40g",
+      "price": 63.55,
+      "original_price": 99.90,
+      "image": "https://m.media-amazon.com/images/I/419Atx-XGTL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BJ347WND?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B076X61622",
+      "name": "Max Titanium Whey Pro Pote 1kg Chocolate",
+      "price": 72.00,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/51aAABW5AGL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B076X61622?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0B324KH8G",
+      "name": "Max Titanium Top Whey Bar 12 Unidades Brigadeiro",
+      "price": 50.98,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61RDMRO3uCL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0B324KH8G?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FLRC6T9L",
+      "name": "Smart TV 50\" Roku Multi 4K, Compatível Alexa e Google",
+      "price": 1664.10,
+      "original_price": 1999.00,
+      "image": "https://m.media-amazon.com/images/I/61RV6khFSQL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FLRC6T9L?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GFPHNRW4",
+      "name": "Mala de Bordo 10kg com 4 Rodas, Expansível, AntiFurto TSA, Frasqueira",
+      "price": 255.64,
+      "original_price": 299.00,
+      "image": "https://m.media-amazon.com/images/I/51+lgnPof9L._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GFPHNRW4?tag=patrickmont04-20",
+      "category": "outros",
       "platform": "amazon"
     }
   ]
