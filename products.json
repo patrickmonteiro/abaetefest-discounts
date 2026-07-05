@@ -3,6 +3,26 @@
   "source": "mixed",
   "products": [
     {
+      "id": "B09B8W3KQP",
+      "name": "Máquina de Lavar Electrolux 15kg Branca Essential Care Cesto Inox (LED15) 127V",
+      "price": 1899.00,
+      "original_price": 3169.00,
+      "image": "https://m.media-amazon.com/images/I/41pS08Q7EoL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09B8W3KQP?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B09B8VGCR8",
+      "name": "Echo Dot (Geração mais recente) Smart Speaker com Alexa, Cor Preta",
+      "price": 309.00,
+      "original_price": 459.00,
+      "image": "https://m.media-amazon.com/images/I/61evEYmxBZL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B000068DWZ",
       "name": "Calvin Klein Ck One Eau De Toilette 200ml",
       "price": 371.85,
