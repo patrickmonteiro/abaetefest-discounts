@@ -3,6 +3,26 @@
   "source": "mixed",
   "products": [
     {
+      "id": "B000068DWZ",
+      "name": "Calvin Klein Ck One Eau De Toilette 200ml",
+      "price": 371.85,
+      "original_price": 479.00,
+      "image": "https://m.media-amazon.com/images/I/41tZy3aJTZL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B000068DWZ?tag=patrickmont04-20",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DJFS7GXV",
+      "name": "Apple iPhone 16 (512 GB) – Preto",
+      "price": 4679.10,
+      "original_price": 10099.00,
+      "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B0G7JCH2VT",
       "name": "Top Feminino Academia Nadador Bolso Canelado Corrida Fitness",
       "price": 71.99,
@@ -510,26 +530,6 @@
       "image": "https://m.media-amazon.com/images/I/51+lgnPof9L._AC_SY879_.jpg",
       "url": "https://www.amazon.com.br/dp/B0GFPHNRW4?tag=patrickmont04-20",
       "category": "outros",
-      "platform": "amazon"
-    },
-    {
-      "id": "B000068DWZ",
-      "name": "Calvin Klein Ck One Eau De Toilette 200ml",
-      "price": 371.85,
-      "original_price": 479.00,
-      "image": "https://m.media-amazon.com/images/I/41tZy3aJTZL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B000068DWZ?tag=patrickmont04-20",
-      "category": "perfumes",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0DJFS7GXV",
-      "name": "Apple iPhone 16 (512 GB) – Preto",
-      "price": 4679.10,
-      "original_price": 10099.00,
-      "image": "https://m.media-amazon.com/images/I/41uUYcqfLxL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=patrickmont04-20",
-      "category": "eletronicos",
       "platform": "amazon"
     }
   ]
