@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T16:55:32Z",
+  "updated_at": "2026-07-09T17:02:34Z",
   "source": "amazon",
   "products": [
     {
@@ -123,6 +123,16 @@
       "platform": "amazon"
     },
     {
+      "id": "B072MK7BN2",
+      "name": "La Roche-Posay Cicaplast Baume B5+ Multirreparador Calmante",
+      "price": 61.70,
+      "original_price": 89.90,
+      "image": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B072MK7BN2?tag=patrickmont04-20",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
       "id": "B0G45KPX15",
       "name": "Máscara Elseve Collagen Lifter Tratamento Capilar 300g",
       "price": 29.70,
@@ -130,6 +140,26 @@
       "image": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G45KPX15?tag=patrickmont04-20",
       "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0C957NRD1",
+      "name": "Dr Peanut Pasta de Amendoim Brownie com Whey Protein 600g",
+      "price": 49.89,
+      "original_price": 59.90,
+      "image": "https://m.media-amazon.com/images/I/71TgciI5BBL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0C957NRD1?tag=patrickmont04-20",
+      "category": "suplementos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CYJVPMQM",
+      "name": "Desodorante NIVEA MEN Stick Derma Protect Clinical 58g",
+      "price": 18.51,
+      "original_price": 25.90,
+      "image": "https://m.media-amazon.com/images/I/61Dy9P4YeuL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CYJVPMQM?tag=patrickmont04-20",
+      "category": "higiene",
       "platform": "amazon"
     },
     {
