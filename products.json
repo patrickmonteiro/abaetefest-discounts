@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T17:02:34Z",
-  "source": "amazon",
+  "updated_at": "2026-07-09T21:25:19Z",
+  "source": "mixed",
   "products": [
     {
       "id": "B0FT543X7G",
@@ -71,6 +71,36 @@
       "url": "https://www.amazon.com.br/dp/B0FJPNMY4T?tag=patrickmont04-20",
       "category": "esportes_lazer",
       "platform": "amazon"
+    },
+    {
+      "id": "57008381938",
+      "name": "Tênis de Corrida Profissional Ultraleve Placa de Carbono Maratona",
+      "price": 66.99,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-81zvj-mmsdueupko3q35.webp",
+      "url": "https://s.shopee.com.br/60PsSWqwkU",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "51661234810",
+      "name": "Bicicleta Elétrica Zurbe X20 Scooter 1000w Bateria Removível 60v",
+      "price": 9990.00,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-823oe-moqtee3jvyml45.webp",
+      "url": "https://s.shopee.com.br/20tjhDREFg",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "58253809160",
+      "name": "Patinete Elétrico 350W Scooter Alumínio Dobrável Bluetooth",
+      "price": 1152.38,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-820lj-mmtt0uqzvkea81.webp",
+      "url": "https://s.shopee.com.br/9pcb1kGArn",
+      "category": "esportes_lazer",
+      "platform": "shopee"
     },
     {
       "id": "B0CRTYZG5C",
@@ -163,6 +193,16 @@
       "platform": "amazon"
     },
     {
+      "id": "22399447399",
+      "name": "Kit 4 Toalhas de Banho Felpudas Ultra Macias 100% Algodão",
+      "price": 79.90,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-820lf-mn5rt92b47wh82.webp",
+      "url": "https://s.shopee.com.br/8fQddJagbA",
+      "category": "higiene",
+      "platform": "shopee"
+    },
+    {
       "id": "B0GYQBPDG6",
       "name": "Cadeira de Escritório Ergonômica Laruno NR17 Reclinável",
       "price": 246.05,
@@ -171,6 +211,86 @@
       "url": "https://www.amazon.com.br/dp/B0GYQBPDG6?tag=patrickmont04-20",
       "category": "outros",
       "platform": "amazon"
+    },
+    {
+      "id": "23199187786",
+      "name": "Kit 2 Poltronas Decorativas Sala Lis Almofada Puff Redondo Corino",
+      "price": 510.85,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134201-820lo-mpwp1frzolxf14.webp",
+      "url": "https://s.shopee.com.br/qhmInfyP7",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "58211608910",
+      "name": "Conjunto Mala de Viagem 10kg e Frasqueira Cadeado TSA Roda Dupla",
+      "price": 189.90,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-820ma-mosu8cn2mux2da.webp",
+      "url": "https://s.shopee.com.br/6VM93GkYA7",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "58261581185",
+      "name": "Espelho Grande com LED 3 Cores e Botão Touch Jateado 90x40",
+      "price": 199.90,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-823ow-mosmcto9h43md6.webp",
+      "url": "https://s.shopee.com.br/60PsSNyyy4",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "18097800819",
+      "name": "Jogo de Panelas Antiaderente 10 Peças Bianco com Tampa de Vidro",
+      "price": 219.90,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-820lh-mou1drs2b2m810.webp",
+      "url": "https://s.shopee.com.br/2g9QUKM9hi",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "21498037533",
+      "name": "Mop Spray Rodo Esfregão Reservatório Microfibra com Refil Multiuso",
+      "price": 68.80,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-mclc32fpw1f6e3.webp",
+      "url": "https://s.shopee.com.br/3B5h5HgXj5",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "27144887254",
+      "name": "Porta Tempero Giratório 20 Potes Vidro e Inox Organizador Cozinha",
+      "price": 74.97,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-820l9-mojuh2ou8zk3c3.webp",
+      "url": "https://s.shopee.com.br/5fn23zhSv7",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "23021247190",
+      "name": "Capacete Escamoteável Robocop Articulado Pro Tork Attack Evo",
+      "price": 298.84,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-81z1k-mg54lv9ighs7bc.webp",
+      "url": "https://s.shopee.com.br/18fJct1hA",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "20199206047",
+      "name": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
+      "price": 219.90,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-8259i-mqdovemg4kcra0.webp",
+      "url": "https://s.shopee.com.br/BS5WGJVje",
+      "category": "outros",
+      "platform": "shopee"
     }
   ]
 }
