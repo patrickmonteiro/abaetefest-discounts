@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T20:40:11Z",
+  "updated_at": "2026-07-12T20:43:09Z",
   "source": "mixed",
   "products": [
     {
@@ -109,6 +109,36 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/51nI6r9lO6L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B09SBK4PKN?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DTQ6VL14",
+      "name": "Tênis FILA Progress Lite Feminino, Morganite/Glacier Gray",
+      "price": 216.49,
+      "original_price": 280.19,
+      "image": "https://m.media-amazon.com/images/I/51aABi9OC3L._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DTQ6VL14?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GVPL4LX7",
+      "name": "Óculos de Sol Esportivo Masculino UV400 Espelhado JustGoFit",
+      "price": 27.96,
+      "original_price": 39.90,
+      "image": "https://m.media-amazon.com/images/I/51h1ETNRQzL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GVPL4LX7?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FFYCKZYM",
+      "name": "Garrafa Térmica Inox 950ml Verde - Esportiva com Alça Paracord",
+      "price": 69.98,
+      "original_price": 78.99,
+      "image": "https://m.media-amazon.com/images/I/51DzAcbLL0L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FFYCKZYM?tag=patrickmont04-20",
       "category": "esportes_lazer",
       "platform": "amazon"
     },
@@ -229,6 +259,16 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/713G1pxeEfL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FZFBH9P7?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BTYCRJSS",
+      "name": "soundcore P20i Anker Fone Bluetooth 5.3, Graves Potentes, Preto",
+      "price": 155.98,
+      "original_price": 249.00,
+      "image": "https://m.media-amazon.com/images/I/61ljZu9+GXL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=patrickmont04-20",
       "category": "eletronicos",
       "platform": "amazon"
     },
