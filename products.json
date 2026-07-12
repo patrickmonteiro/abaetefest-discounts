@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T21:25:19Z",
+  "updated_at": "2026-07-12T20:40:11Z",
   "source": "mixed",
   "products": [
     {
@@ -73,6 +73,46 @@
       "platform": "amazon"
     },
     {
+      "id": "B09S3XYCN6",
+      "name": "Pochete Impermeável Slim Preta - Cintura Esportiva para Corrida e Academia",
+      "price": 26.50,
+      "original_price": 27.90,
+      "image": "https://m.media-amazon.com/images/I/613jdI+uu6L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09S3XYCN6?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D548TDD7",
+      "name": "PUMA Top Feminino Esportivo Nadador Sem Bojo, Preta G",
+      "price": 37.98,
+      "original_price": 69.99,
+      "image": "https://m.media-amazon.com/images/I/71HTX2p9s0L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D548TDD7?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GRKHCKFG",
+      "name": "Cinto Porta Número Regulável para Corrida, Triathlon e Maratona",
+      "price": 21.90,
+      "original_price": 39.90,
+      "image": "https://m.media-amazon.com/images/I/51jp7VPTkqL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GRKHCKFG?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B09SBK4PKN",
+      "name": "Conjunto Térmico Pelinho Segunda Pele Unissex, Preto G",
+      "price": 89.99,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/51nI6r9lO6L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09SBK4PKN?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
       "id": "57008381938",
       "name": "Tênis de Corrida Profissional Ultraleve Placa de Carbono Maratona",
       "price": 66.99,
@@ -139,6 +179,56 @@
       "original_price": 1799.00,
       "image": "https://m.media-amazon.com/images/I/611qfHMxDlL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FN4BK3V7?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FCSGCL62",
+      "name": "Xiaomi Smart Band 10 - Pulseira Inteligente AMOLED, Prata",
+      "price": 318.14,
+      "original_price": 999.00,
+      "image": "https://m.media-amazon.com/images/I/61mjCEDmTML._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FCSGCL62?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CVCLGV1W",
+      "name": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+      "price": 228.96,
+      "original_price": 599.00,
+      "image": "https://m.media-amazon.com/images/I/51bjAlTBzZL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CVCLGV1W?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CVCF2J9Q",
+      "name": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
+      "price": 228.99,
+      "original_price": 599.00,
+      "image": "https://m.media-amazon.com/images/I/511+E5FxUPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CVCF2J9Q?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DFHFM1X9",
+      "name": "Relógio Redmi Watch 5 Active, Branco",
+      "price": 339.99,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61su9fqRFUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DFHFM1X9?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FZFBH9P7",
+      "name": "Smartwatch Ecovinka com Alexa, Tela 1.83\" - Rosa",
+      "price": 369.00,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/713G1pxeEfL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FZFBH9P7?tag=patrickmont04-20",
       "category": "eletronicos",
       "platform": "amazon"
     },
