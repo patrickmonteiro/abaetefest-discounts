@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T20:43:09Z",
+  "updated_at": "2026-07-12T20:49:49Z",
   "source": "mixed",
   "products": [
     {
@@ -368,7 +368,7 @@
       "price": 199.90,
       "original_price": null,
       "image": "https://down-zl-br.img.susercontent.com/sg-11134201-823ow-mosmcto9h43md6.webp",
-      "url": "https://s.shopee.com.br/60PsSNyyy4",
+      "url": "https://s.shopee.com.br/2BDEe0lFKL",
       "category": "outros",
       "platform": "shopee"
     },
@@ -419,6 +419,36 @@
       "original_price": null,
       "image": "https://down-zl-br.img.susercontent.com/sg-11134201-8259i-mqdovemg4kcra0.webp",
       "url": "https://s.shopee.com.br/BS5WGJVje",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22736011414",
+      "name": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+      "price": 99.98,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-7rau5-mau62igmy63506.webp",
+      "url": "https://s.shopee.com.br/903Ymcg9ja",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "23694215749",
+      "name": "Conjunto Potes de Vidro Tampa Bambu Cristal Porta Mantimentos Cozinha 3 Peças",
+      "price": 66.19,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-malfycxrosr322.webp",
+      "url": "https://s.shopee.com.br/8fQiO32cDh",
+      "category": "outros",
+      "platform": "shopee"
+    },
+    {
+      "id": "22594910148",
+      "name": "Fritadeira Air Fryer AFN40BI 4L + Liquidificador Turbo Power Mondial",
+      "price": 389.00,
+      "original_price": null,
+      "image": "https://down-zl-br.img.susercontent.com/sg-11134201-8261l-mm9annexmlmwc3.webp",
+      "url": "https://s.shopee.com.br/3B5lpzDbwd",
       "category": "outros",
       "platform": "shopee"
     }
