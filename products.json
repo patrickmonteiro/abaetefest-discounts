@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:05:15Z",
+  "updated_at": "2026-07-15T14:50:50Z",
   "source": "mixed",
   "products": [
     {
@@ -119,6 +119,36 @@
       "original_price": 280.19,
       "image": "https://m.media-amazon.com/images/I/51aABi9OC3L._AC_SY695_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DTQ6VL14?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D1YHS4TT",
+      "name": "Tênis de Corrida Puma Pounce Lite",
+      "price": 249.90,
+      "original_price": 449.99,
+      "image": "https://m.media-amazon.com/images/I/61dl1XOlRVL._AC_SY695_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0D1YHS4TT?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FXNF66M2",
+      "name": "Short Corrida com Bolso Cós Alto Academia Feminino Drisheer",
+      "price": 80.91,
+      "original_price": 89.90,
+      "image": "https://m.media-amazon.com/images/I/513qGenl+IL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FXNF66M2?tag=patrickmont04-20",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DXVXKZNZ",
+      "name": "Kit 2 Pares Meia Feminina Compressão Ciclismo Corrida Ortopédica",
+      "price": 47.48,
+      "original_price": 69.99,
+      "image": "https://m.media-amazon.com/images/I/61Z9UyRk7KL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DXVXKZNZ?tag=patrickmont04-20",
       "category": "esportes_lazer",
       "platform": "amazon"
     },
@@ -270,6 +300,26 @@
       "image": "https://m.media-amazon.com/images/I/61ljZu9+GXL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=patrickmont04-20",
       "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DCJDB93W",
+      "name": "Bettdow SmartWatch com Ecrã Tátil e Alexa, à Prova D'água IP68",
+      "price": 136.46,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/61AHWgahVlL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DCJDB93W?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B08DHW4CT9",
+      "name": "My Way Giorgio Armani - Perfume Feminino - EDP",
+      "price": 302.99,
+      "original_price": 569.00,
+      "image": "https://m.media-amazon.com/images/I/61rNxZ4QCrL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B08DHW4CT9?tag=patrickmont04-20",
+      "category": "perfumes",
       "platform": "amazon"
     },
     {
