@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T14:56:52Z",
+  "updated_at": "2026-07-24T20:19:20Z",
   "source": "mixed",
   "products": [
     {
@@ -383,6 +383,26 @@
       "platform": "amazon"
     },
     {
+      "id": "B0GVP5N2JX",
+      "name": "Hisense Smart TV 4K 50\" 50Q6QVV Dolby Vision, HDR10+ e Alexa",
+      "price": 1851.55,
+      "original_price": 2079.00,
+      "image": "https://m.media-amazon.com/images/I/81uK85S8szL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0GVP5N2JX?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FPRGKBL3",
+      "name": "Smart TV Semp 43\" LED 4K S62 Google TV WiFi Bluetooth 43S62",
+      "price": 1598.99,
+      "original_price": 1899.00,
+      "image": "https://m.media-amazon.com/images/I/61Dg9oW2VcL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0FPRGKBL3?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
       "id": "B08DHW4CT9",
       "name": "My Way Giorgio Armani - Perfume Feminino - EDP",
       "price": 302.99,
@@ -471,6 +491,26 @@
       "url": "https://s.shopee.com.br/8fQddJagbA",
       "category": "higiene",
       "platform": "shopee"
+    },
+    {
+      "id": "B092SS3J2V",
+      "name": "NIVEA MEN Kit Desodorante Aerossol Original Protect 48h 150ml (2un)",
+      "price": 19.90,
+      "original_price": 34.90,
+      "image": "https://m.media-amazon.com/images/I/71J+hyfBNwL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B092SS3J2V?tag=patrickmont04-20",
+      "category": "higiene",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CYJ7DBQC",
+      "name": "NIVEA Desodorante Stick Derma Protect Clinical 58g",
+      "price": 18.02,
+      "original_price": 25.90,
+      "image": "https://m.media-amazon.com/images/I/61NTiLfdhGL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CYJ7DBQC?tag=patrickmont04-20",
+      "category": "higiene",
+      "platform": "amazon"
     },
     {
       "id": "B0GYQBPDG6",
@@ -609,6 +649,26 @@
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/61+D3q6HbbL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07DTVN396?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B09FRZZHWP",
+      "name": "Micro-ondas 27L Branco e Preto Midea LED 127V MXSA27P1",
+      "price": 454.88,
+      "original_price": 699.00,
+      "image": "https://m.media-amazon.com/images/I/51J4KNNtX5L._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B09FRZZHWP?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DCCGJQZS",
+      "name": "Sanduicheira Brunch Time 2 em 1 Elgin Grill Antiaderente 220V",
+      "price": 52.47,
+      "original_price": 99.00,
+      "image": "https://m.media-amazon.com/images/I/71rSe-wRAoL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DCCGJQZS?tag=patrickmont04-20",
       "category": "outros",
       "platform": "amazon"
     }
