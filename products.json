@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T11:14:40Z",
-  "source": "amazon",
+  "updated_at": "2026-07-31T11:20:51Z",
+  "source": "mixed",
   "products": [
     {
       "id": "B0FT38JYZB",
@@ -41,6 +41,76 @@
       "url": "https://www.amazon.com.br/dp/B0F43M4ZD7?tag=patrickmont04-20",
       "category": "esportes_lazer",
       "platform": "amazon"
+    },
+    {
+      "id": "45313071694",
+      "name": "Bicicleta Elétrica Scooter Mova Way 4.0 500w 48v",
+      "price": 3990.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825ay-mq1yfaa5id4x7b.webp",
+      "url": "https://s.shopee.com.br/4AymhTALRS",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "58258602633",
+      "name": "Super Caixa Térmica Cooler Multifuncional 36L Jurere Mesa Retrátil Dobrável",
+      "price": 189.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lk-mpp7amxit1qa35.webp",
+      "url": "https://s.shopee.com.br/4Vbd68L8IY",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "23199193919",
+      "name": "Jaqueta Casaco Feminina Academia Fit Treino Fitnes Ziper",
+      "price": 49.6,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m2-mq9nejarteyr4e.webp",
+      "url": "https://s.shopee.com.br/qiKjQ7ofU",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "22299583246",
+      "name": "Conjunto de Academia BICOLOR Feminino Calça Legging + Top Regatinha",
+      "price": 64.8,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825au-mqepp7r81dsca4.webp",
+      "url": "https://s.shopee.com.br/gOuX8ua4D",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "58209163627",
+      "name": "Patinete Elétrico Dobrável 350W, 3 Velocidades, Suporta até 100KG",
+      "price": 1130.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820me-mnddtntgasqs21.webp",
+      "url": "https://s.shopee.com.br/2g9yuq4A5S",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "58261574641",
+      "name": "Conjunto de Academia Feminino Micro Canelado Poliamida Glow Fit",
+      "price": 78.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-823ox-mosl330vq2v4b3.webp",
+      "url": "https://s.shopee.com.br/W5UKsP4GC",
+      "category": "esportes_lazer",
+      "platform": "shopee"
+    },
+    {
+      "id": "45963749827",
+      "name": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Canudo",
+      "price": 39.98,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mqgyzub8hama08.webp",
+      "url": "https://s.shopee.com.br/80BVGgIFRM",
+      "category": "esportes_lazer",
+      "platform": "shopee"
     },
     {
       "id": "B0FTGL2XBC",
@@ -101,6 +171,16 @@
       "url": "https://www.amazon.com.br/dp/B0C6MSDKYT?tag=patrickmont04-20",
       "category": "eletronicos",
       "platform": "amazon"
+    },
+    {
+      "id": "58262957321",
+      "name": "Fone de Ouvido Bluetooth Sem Fio J760 Cancelamento de Ruído Conforto",
+      "price": 40.26,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lu-mptow8qv0ideee.webp",
+      "url": "https://s.shopee.com.br/50Xth1tEaw",
+      "category": "eletronicos",
+      "platform": "shopee"
     },
     {
       "id": "B01I54ITP0",
