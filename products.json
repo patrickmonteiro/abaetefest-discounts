@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T11:43:50Z",
+  "updated_at": "2026-07-31T11:45:40Z",
   "source": "mixed",
   "products": [
     {
@@ -259,6 +259,56 @@
       "original_price": 159.9,
       "image": "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CYVDJDC1",
+      "name": "Bolsa Térmica Marmita Lancheira Grande Alça Ombro Trabalho Academia",
+      "price": 26.9,
+      "original_price": 36.89,
+      "image": "https://m.media-amazon.com/images/I/51biUti5OVL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07G6ZDK29",
+      "name": "Camiseta Bolso Cb Pica-pau Xadrez Reserva",
+      "price": 65.55,
+      "original_price": 129.0,
+      "image": "https://m.media-amazon.com/images/I/41lG5sHt+TL._AC_SY879_.jpg",
+      "url": "https://www.amazon.com.br/dp/B07G6ZDK29?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0CG8J3N2H",
+      "name": "Cadeira de Escritório Ergonômica, Suporte Lombar, Malha Respirável (Preto)",
+      "price": 307.79,
+      "original_price": 369.0,
+      "image": "https://m.media-amazon.com/images/I/61H3dhK2+BL._AC_SX679_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0CG8J3N2H?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "8501923281",
+      "name": "Nunca Minta - Freida McFadden",
+      "price": 38.54,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/81-Hk3onFyL._SY522_.jpg",
+      "url": "https://www.amazon.com.br/dp/8501923281?tag=patrickmont04-20",
+      "category": "outros",
+      "platform": "amazon"
+    },
+    {
+      "id": "6555111100",
+      "name": "A Psicologia Financeira: Lições Atemporais Sobre Fortuna, Ganância e Felicidade",
+      "price": 32.9,
+      "original_price": 54.9,
+      "image": "https://m.media-amazon.com/images/I/71vZp6yONLL._SY522_.jpg",
+      "url": "https://www.amazon.com.br/dp/6555111100?tag=patrickmont04-20",
       "category": "outros",
       "platform": "amazon"
     }
