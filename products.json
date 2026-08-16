@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T14:20:00Z",
+  "updated_at": "2026-08-16T17:37:48Z",
   "source": "mixed",
   "products": [
     {
@@ -8,7 +8,7 @@
       "price": 79.99,
       "original_price": null,
       "image": "https://m.media-amazon.com/images/I/51-IMJju8sL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0FT38JYZB?tag=patrickmont04-20",
+      "url": "https://link.amazon/B0fQVBDt6",
       "category": "esportes_lazer",
       "platform": "amazon"
     },
@@ -18,7 +18,7 @@
       "price": 99.99,
       "original_price": 184.0,
       "image": "https://m.media-amazon.com/images/I/61vNRjm1dHL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0CW24291V?tag=patrickmont04-20",
+      "url": "https://link.amazon/B0bSrMcie",
       "category": "esportes_lazer",
       "platform": "amazon"
     },
@@ -113,6 +113,36 @@
       "platform": "shopee"
     },
     {
+      "id": "B0DTKS82JJ",
+      "name": "Tênis de Corrida Mizuno Cool Ride 3",
+      "price": 254.91,
+      "original_price": 399.99,
+      "image": "https://m.media-amazon.com/images/I/61A0zP8LkPL._AC_SF226,226_QL85_.jpg",
+      "url": "https://www.amazon.com.br/dp/B0DTKS82JJ?linkCode=ll2&tag=patrickmont04-20&linkId=cc8e2e72219622db28a4c49d4f85bf9&ref_=as_li_ss_tl",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FHJR8Z3M",
+      "name": "Cinto de Hidratação com 2 Garrafas para Corrida, Bolsa de Cintura Esportiva Ajustável",
+      "price": 70.0,
+      "original_price": 89.0,
+      "image": "https://m.media-amazon.com/images/I/61uIz55UYyL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B04izVJmr",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GSVQD59T",
+      "name": "Garrafa Térmica 3,6L Aço Inox com Alça Larga e Base de Silicone",
+      "price": 161.19,
+      "original_price": 179.1,
+      "image": "https://m.media-amazon.com/images/I/61MmwngLVpL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B09QjlFrk",
+      "category": "esportes_lazer",
+      "platform": "amazon"
+    },
+    {
       "id": "B0FTGL2XBC",
       "name": "Smart TV TCL 32\" QLED S5K WiFi Bluetooth Google TV HDMI HDR10 Dolby Audio",
       "price": 985.99,
@@ -195,10 +225,40 @@
     {
       "id": "B0H7X4LTMM",
       "name": "Amazfit Active 3 Premium Smart Watch 1.32\" AMOLED, 12-Day Battery, Black",
-      "price": 890.10,
-      "original_price": 999.00,
+      "price": 890.1,
+      "original_price": 999.0,
       "image": "https://m.media-amazon.com/images/I/61NYKTdHr+L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0H7X4LTMM?tag=patrickmont04-20",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FDB9Z96L",
+      "name": "Fone de Ouvido Bluetooth 5.4, IPX5 à Prova D'Água, 45h de Bateria, Esportivo",
+      "price": 69.24,
+      "original_price": 109.9,
+      "image": "https://m.media-amazon.com/images/I/619duhcCzQL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B0gg4hq7O",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0B1BTQ149",
+      "name": "4Leader 4LSport Fone de Ouvido Bluetooth 5.4 Sem Fio com Cancelamento de Ruído, à Prova D'água",
+      "price": 113.44,
+      "original_price": 157.0,
+      "image": "https://m.media-amazon.com/images/I/61YurT+3i7L._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B07mSMbwp",
+      "category": "eletronicos",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FQJZVD2S",
+      "name": "Bettdow SmartWatch GPS, Relógio Smartwatch Masculino e Feminino, Chamada Bluetooth",
+      "price": 322.05,
+      "original_price": 399.0,
+      "image": "https://m.media-amazon.com/images/I/61Uk+h5umYL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B0g62XNSJ",
       "category": "eletronicos",
       "platform": "amazon"
     },
@@ -209,6 +269,16 @@
       "original_price": 99.99,
       "image": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B01I54ITP0?tag=patrickmont04-20",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BS46C2B7",
+      "name": "Eudora Niina Secrets Bloom Desodorante Colônia 100ml",
+      "price": 89.95,
+      "original_price": 179.9,
+      "image": "https://m.media-amazon.com/images/I/51vzV1KkYmL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B0hYP21tn",
       "category": "perfumes",
       "platform": "amazon"
     },
@@ -233,6 +303,16 @@
       "platform": "amazon"
     },
     {
+      "id": "B0C7Q4Q74P",
+      "name": "EUCERIN Protetor Solar Facial Ultra Fluido FPS 60 50ml, Antioleosidade",
+      "price": 64.69,
+      "original_price": 89.9,
+      "image": "https://m.media-amazon.com/images/I/611v1PCMAbL._AC_SF226,226_QL85_.jpg",
+      "url": "https://link.amazon/B04y7vjXA",
+      "category": "saude_beleza",
+      "platform": "amazon"
+    },
+    {
       "id": "B0GV1QBBN4",
       "name": "Kit 15 Potes Herméticos para Armazenamento de Alimentos, BPA Free",
       "price": 79.98,
@@ -253,26 +333,6 @@
       "platform": "amazon"
     },
     {
-      "id": "B0C2JFGFK9",
-      "name": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-127",
-      "price": 142.4,
-      "original_price": 188.9,
-      "image": "https://m.media-amazon.com/images/I/61tP626zBVL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0C2JFGFK9?tag=patrickmont04-20",
-      "category": "outros",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07QK91PTZ",
-      "name": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 220V - L-99 FB",
-      "price": 89.91,
-      "original_price": 159.9,
-      "image": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SY879_.jpg",
-      "url": "https://www.amazon.com.br/dp/B07QK91PTZ?tag=patrickmont04-20",
-      "category": "outros",
-      "platform": "amazon"
-    },
-    {
       "id": "B0CDJ4L7CZ",
       "name": "Sanduicheira Elétrica Cadence Click - 127V",
       "price": 89.9,
@@ -288,7 +348,7 @@
       "price": 26.9,
       "original_price": 36.89,
       "image": "https://m.media-amazon.com/images/I/51biUti5OVL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0CYVDJDC1?tag=patrickmont04-20",
+      "url": "https://link.amazon/B09wsi9ED",
       "category": "outros",
       "platform": "amazon"
     },
@@ -316,7 +376,7 @@
       "id": "B0CGR56CN4",
       "name": "Cadeira de Escritório Presidente Home Office com Apoio para os Pés (Preto)",
       "price": 369.99,
-      "original_price": 689.00,
+      "original_price": 689.0,
       "image": "https://m.media-amazon.com/images/I/71+UV1-34zL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CGR56CN4?tag=patrickmont04-20",
       "category": "outros",
@@ -329,16 +389,6 @@
       "original_price": 483.69,
       "image": "https://m.media-amazon.com/images/I/613NfdEWPyL._AC_SY300_SX300_QL70_ML2_.jpg",
       "url": "https://www.amazon.com.br/dp/B0CJV2WKQF?tag=patrickmont04-20",
-      "category": "outros",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0GVGF5LX2",
-      "name": "Máquina de Lavar 13kg Branca Consul com Dosagem Econômica - CWH13AB 220v",
-      "price": 1648.03,
-      "original_price": 1799.00,
-      "image": "https://m.media-amazon.com/images/I/51ZSWeklhXL._AC_SX679_.jpg",
-      "url": "https://www.amazon.com.br/dp/B0GVGF5LX2?tag=patrickmont04-20",
       "category": "outros",
       "platform": "amazon"
     },
