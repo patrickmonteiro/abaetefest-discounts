@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-28T17:56:28Z",
+  "updated_at": "2026-09-07T14:28:57Z",
   "source": "mixed",
   "products": [
     {
       "id": "23698384152",
       "name": "Bicicleta Bike Ergométrica Spinning Academia Fitness Profissional 120kg",
-      "price": 465.99,
+      "price": 459.99,
       "original_price": null,
-      "image": "https://down-zl-br.img.susercontent.com/br-11134207-7r98o-m8dq90menppta0.webp",
-      "url": "https://s.shopee.com.br/gPX0ftJ0z",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8dq90menppta0.webp",
+      "url": "https://s.shopee.com.br/8V8kgK69rZ",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -71,6 +71,36 @@
       "url": "https://link.amazon/B04nUCm0H",
       "category": "sports_leisure",
       "platform": "amazon"
+    },
+    {
+      "id": "48800631375",
+      "name": "Tênis De Corrida Profissional Para Maratona Flying Burn 3, Palma Completa,",
+      "price": 76.59,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-821dj-mgi8hhoy8buwf4.webp",
+      "url": "https://s.shopee.com.br/BTckwzI42",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "51807345661",
+      "name": "Secador Esterelizador de Tenis Elétrico Seca Tenis Sapatos 110v ou 220v",
+      "price": 64.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ll-msfzq5mjfnk651.webp",
+      "url": "https://s.shopee.com.br/5AsIiAWmn9",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "45509784058",
+      "name": "Verão Respirável Esportes Placa De Carbono Correndo Tênis Masculino, Feminino,",
+      "price": 99.81,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-820lu-mnkblosrmzgkf9.webp",
+      "url": "https://s.shopee.com.br/6Akpu40pMg",
+      "category": "sports_leisure",
+      "platform": "shopee"
     },
     {
       "id": "44959639811",
@@ -271,6 +301,26 @@
       "url": "https://link.amazon/B05uhNaV6",
       "category": "other",
       "platform": "amazon"
+    },
+    {
+      "id": "58207987788",
+      "name": "Limpa Tênis Spray Premium Eco Clean Power Limpeza Profunda 500ml",
+      "price": 18.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mmopamqgpvk074.webp",
+      "url": "https://s.shopee.com.br/4fw279WqoR",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "42883654616",
+      "name": "Kit Pote Hermético 250ml Vidro com Colher Tampa Bambu Porta Temperos",
+      "price": 52.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825a6-ms1ofxzdgbnr85.webp",
+      "url": "https://s.shopee.com.br/5foZJ1sMKJ",
+      "category": "other",
+      "platform": "shopee"
     }
   ]
 }
