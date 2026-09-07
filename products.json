@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T14:28:57Z",
+  "updated_at": "2026-09-07T14:33:03Z",
   "source": "mixed",
   "products": [
     {
@@ -99,6 +99,46 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-820lu-mnkblosrmzgkf9.webp",
       "url": "https://s.shopee.com.br/6Akpu40pMg",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265272108",
+      "name": "KIT 3 Conjuntos Feminino Fitness Completo Com Regata Calça Legging E Top Para",
+      "price": 78.4,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820la-mrgtat78fpqdd2.webp",
+      "url": "https://s.shopee.com.br/2VrXXbCSMf",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "50707421847",
+      "name": "Tênis De Corrida Ultraleve Com Placa De Carbono Para Homens E Mulheres",
+      "price": 66.83,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8261t-mja8l3q52io723.webp",
+      "url": "https://s.shopee.com.br/4LJBizvjS6",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "23194958394",
+      "name": "Conjunto Gringo Academia Feminino Calça e Top Esportivo",
+      "price": 77.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l4-mnubkqkyo5j542.webp",
+      "url": "https://s.shopee.com.br/8KpKUNOItC",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265876196",
+      "name": "Conjunto Fitness Feminino Top Sustentação + Calça Bolso Alta Compressão Tecido",
+      "price": 67.43,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lw-mrpgiu1fg8w5c2.webp",
+      "url": "https://s.shopee.com.br/AAGyfm7mmZ",
       "category": "sports_leisure",
       "platform": "shopee"
     },
