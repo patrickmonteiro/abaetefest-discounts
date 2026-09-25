@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T16:00:00Z",
+  "updated_at": "2026-09-25T15:15:23Z",
   "source": "mixed",
   "products": [
     {
       "id": "B07K8WF98V",
       "name": "Contigo Garrafa Térmica Inox Parede Dupla Matterhorn 591ML",
       "price": 45.48,
-      "original_price": 149.90,
+      "original_price": 149.9,
       "image": "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07K8WF98V?tag=patrickmont04-20",
       "category": "sports_leisure",
@@ -65,8 +65,8 @@
     {
       "id": "B0DVMQVVDY",
       "name": "PHILIPS Fone de Ouvido Sem Fio TWS TAT1109BK/00 Bluetooth Com Microfone",
-      "price": 99.90,
-      "original_price": 144.00,
+      "price": 99.9,
+      "original_price": 144.0,
       "image": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=patrickmont04-20",
       "category": "electronics",
@@ -76,7 +76,7 @@
       "id": "B0FXRRJ3GH",
       "name": "Monitor 21,5 Polegadas Alto-falantes Integrados Full HD 1920x1080 100Hz",
       "price": 339.33,
-      "original_price": 389.00,
+      "original_price": 389.0,
       "image": "https://m.media-amazon.com/images/I/714DDtiPl4L._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0FXRRJ3GH?tag=patrickmont04-20",
       "category": "electronics",
@@ -85,8 +85,8 @@
     {
       "id": "B0G71HDJSM",
       "name": "Smart TV 43 Philco Roku TV HDR10 Dolby Áudio",
-      "price": 1249.00,
-      "original_price": 1599.00,
+      "price": 1249.0,
+      "original_price": 1599.0,
       "image": "https://m.media-amazon.com/images/I/51mIxc22QdL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G71HDJSM?tag=patrickmont04-20",
       "category": "electronics",
@@ -95,8 +95,8 @@
     {
       "id": "B0DHWFBYVC",
       "name": "Smartphone Motorola Moto g35 5G 128GB 12GB Câmera 50MP Tela 6.7 Superbrilho",
-      "price": 849.00,
-      "original_price": 1499.00,
+      "price": 849.0,
+      "original_price": 1499.0,
       "image": "https://m.media-amazon.com/images/I/61pGaBV+-AL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0DHWFBYVC?tag=patrickmont04-20",
       "category": "electronics",
@@ -105,7 +105,7 @@
     {
       "id": "58207122064",
       "name": "Celular Xiaomi Redmi 14C 4G Original Dual SIM 8RAM 256ROM Câmera 13MP 5160mAh",
-      "price": 919.90,
+      "price": 919.9,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m6-mlylm5d581s7bb.webp",
       "url": "https://s.shopee.com.br/7ptBwiqkEZ",
@@ -115,7 +115,7 @@
     {
       "id": "56564570357",
       "name": "Capa de telefone de vidro fosco iPhone 18 17 16 15 14 13 12 11 Pro Max",
-      "price": 17.50,
+      "price": 17.5,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-825ay-mqyizsmmew3lb5.webp",
       "url": "https://s.shopee.com.br/7VGLY7n4XB",
@@ -135,7 +135,7 @@
     {
       "id": "58215620965",
       "name": "Relógio inteligente BETTDOW à prova d'água IP67 tela IPS curva 1,28pol Bluetooth",
-      "price": 139.00,
+      "price": 139.0,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mrs4sa4sy0p135.webp",
       "url": "https://s.shopee.com.br/5VVHATTcNE",
@@ -165,7 +165,7 @@
     {
       "id": "B0G3YGYW4Z",
       "name": "Leave-in L'Oréal Paris Elseve Collagen Lifter Cabelos Finos 100ML",
-      "price": 34.90,
+      "price": 34.9,
       "original_price": 55.09,
       "image": "https://m.media-amazon.com/images/I/71fF+WE75FL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B0G3YGYW4Z?tag=patrickmont04-20",
@@ -176,7 +176,7 @@
       "id": "B07SBXMSGB",
       "name": "Argan Óleo Reparador 50ml Lola Cosmetics",
       "price": 20.61,
-      "original_price": 44.90,
+      "original_price": 44.9,
       "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SX679_.jpg",
       "url": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=patrickmont04-20",
       "category": "health_beauty",
@@ -185,7 +185,7 @@
     {
       "id": "58202241414",
       "name": "YoPRO Chocolate 15g de proteínas 250ml - 12 unidades",
-      "price": 89.90,
+      "price": 89.9,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zv3-mig2kh3js8aw22.webp",
       "url": "https://s.shopee.com.br/9fKq7zqS2L",
@@ -205,7 +205,7 @@
     {
       "id": "22794554573",
       "name": "Micro-ondas Electrolux 20L cor Inox Espelhado com Função Tira Odor (MT30S)",
-      "price": 549.00,
+      "price": 549.0,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zv2-mimr97xprbi923.webp",
       "url": "https://s.shopee.com.br/9fKq80uaIo",
@@ -215,10 +215,60 @@
     {
       "id": "22499688435",
       "name": "Sabão Líquido 5 Litros OMO Lavagem Profissional",
-      "price": 69.90,
+      "price": 69.9,
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lr-msa6s3h679504e.webp",
       "url": "https://s.shopee.com.br/8AW2LIUHjL",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22998733771",
+      "name": "Guirlanda Natal em Madeira Pinus 15cm com Suporte para Decoração",
+      "price": 19.98,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mcdwbk4jajqgc9.webp",
+      "url": "https://s.shopee.com.br/7VGgFkqwyX",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22597921762",
+      "name": "Árvores New Slim (1,20M - 1,50M - 1,80M - 2,10M ) Árvore de Natal para Locais",
+      "price": 171.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134201-820lf-mtac8ovnlbeq03.webp",
+      "url": "https://s.shopee.com.br/9V1kdReSqd",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21797973767",
+      "name": "Azevinho, Papai Noel e Boneco de Gengibre Cortador de Biscoito / Cookies",
+      "price": 19.75,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mhdvqa5cv3lx43.webp",
+      "url": "https://s.shopee.com.br/6L4ire3NoW",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "14493669828",
+      "name": "Decoração De Natal/Decorações De Árvore De Natal/Natal Decoração/Enfeites De",
+      "price": 100.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rbko-lm43j041e5axc6.webp",
+      "url": "https://s.shopee.com.br/6VO93xXXwi",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "46566958002",
+      "name": "Meia de Natal LB Letras em Malha Letras de Natal Meias de Natal Árvore de Natal",
+      "price": 15.64,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825ax-msftkpk3f30q27.webp",
+      "url": "https://s.shopee.com.br/8V9DRdunhs",
       "category": "other",
       "platform": "shopee"
     }
