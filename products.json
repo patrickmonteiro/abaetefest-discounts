@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:18:41Z",
+  "updated_at": "2026-10-02T18:14:35Z",
   "source": "shopee",
   "products": [
     {
@@ -100,6 +100,36 @@
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825at-msp8v12vrb45bb.webp",
       "url": "https://s.shopee.com.br/AUuT7kdlTx",
       "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "21097623587",
+      "name": "Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt",
+      "price": 200.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8262y-ml8364ncclj703.webp",
+      "url": "https://s.shopee.com.br/1LgEGy3Bz5",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "22893854531",
+      "name": "Smart TV HQ 32\" HD tela sem Bordas Sistema Android Design Slim HQS32NKHM",
+      "price": 1021.63,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7ratl-mb4317s4tber51.webp",
+      "url": "https://s.shopee.com.br/7VGrcKEZwz",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "23494418394",
+      "name": "Kit 3x Magnésio e Inositol Taurina Melatonina 210g Bodyaction",
+      "price": 199.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-meu0eg5w1o1u3e.webp",
+      "url": "https://s.shopee.com.br/60S3pYgcgR",
+      "category": "supplements",
       "platform": "shopee"
     },
     {
@@ -449,6 +479,116 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpfbutwofkzl1a.webp",
       "url": "https://s.shopee.com.br/6L4uAMDdE0",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23698853317",
+      "name": "Lixeira Automática 12 Litros Com Sensor Infravermelho Para Cozinha e Banheiro",
+      "price": 59.88,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdwa-mccb5id6es7v2d.webp",
+      "url": "https://s.shopee.com.br/7KxRPzOtCE",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "52858085838",
+      "name": "Garrafa Térmica Cabo Madeira Para Café 1l",
+      "price": 42.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l8-mpwlcsd38hz589.webp",
+      "url": "https://s.shopee.com.br/40gzRrfyl0",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58217580101",
+      "name": "Jogo de Facas de Cozinha 8 Peças Genebra Corte Navalha Antiaderente Premium",
+      "price": 39.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820le-mtrha87hqgoydd.webp",
+      "url": "https://s.shopee.com.br/2BFLGV8or4",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21798597083",
+      "name": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
+      "price": 59.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpnszoiek9og7e.webp",
+      "url": "https://s.shopee.com.br/8V9Oo8tVZs",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23798128210",
+      "name": "Torneira Inox Prata/Preto Com Chuveiro Com Rotação De 360° Cozinha Luxo Parede",
+      "price": 25.88,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8258a-mt4uwt1nbcp1a9.webp",
+      "url": "https://s.shopee.com.br/6L4uEAAYXJ",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "48852424107",
+      "name": "Jogo De Taças De Vidro Diamond Cristal 325ml 6 Peças",
+      "price": 36.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lg-mr201woae6thda.webp",
+      "url": "https://s.shopee.com.br/9AP5bN8ZON",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22593915398",
+      "name": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+      "price": 44.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820m9-mr7oweocldl204.webp",
+      "url": "https://s.shopee.com.br/1BMo4fqMSS",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23898692172",
+      "name": "Ventilador de Teto com Luz Silencioso Controle Remoto Econômico LED Bivolt E27",
+      "price": 55.77,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdwy-mbw84yf3pvcl00.webp",
+      "url": "https://s.shopee.com.br/4B0PeBwXWV",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58213022908",
+      "name": "Kit 1/2/3 Pares Meias 3D Infantis Personagens Divertidos Conforto Macio Sortido",
+      "price": 19.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825zn-mm62a3k8epdtd3.webp",
+      "url": "https://s.shopee.com.br/gQXTlIfA4",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58267695658",
+      "name": "Kit 10 Potes Marmitas com Trava 800ML Livre BPA Freezer Micro-ondas",
+      "price": 26.77,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825am-msu9n0nx2io179.webp",
+      "url": "https://s.shopee.com.br/AAHcnDrITU",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22494362004",
+      "name": "Kit 48 Carrinhos com Fricção de Lata Metálica Coloridos - Caixa que Vira Pista",
+      "price": 64.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mddjirck6er6d1.webp",
+      "url": "https://s.shopee.com.br/3B7sSMdo2x",
       "category": "other",
       "platform": "shopee"
     }
