@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:35:52Z",
+  "updated_at": "2026-10-10T11:43:50Z",
   "source": "shopee",
   "products": [
     {
@@ -69,6 +69,26 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8257y-mq7pxoy9i1a933.webp",
       "url": "https://s.shopee.com.br/50ZWZtJ6x0",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "45663524234",
+      "name": "Tênis De Corrida Feminino e Masculino Antiderrapante Com Placa De Carbono",
+      "price": 89.04,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82599-mqc5yrdvcmiz35.webp",
+      "url": "https://s.shopee.com.br/9Kii7i7Je8",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "23897143985",
+      "name": "Par de Palmilha em Gel Silicone Ortopédica Confortável Para Quem Trabalha em Pé",
+      "price": 18.03,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lp-mnf2apzx845g25.webp",
+      "url": "https://s.shopee.com.br/7faU8eDf22",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -229,6 +249,116 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-822x7-mo5syhkhntvl29.webp",
       "url": "https://s.shopee.com.br/4fwgB2DAh1",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "18499853587",
+      "name": "Carregador Sem Fio Power Bank 5000/10000mAh Para iPhone",
+      "price": 28.88,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mavkx3k4v9n308.webp",
+      "url": "https://s.shopee.com.br/80DKXTTHAD",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "22499247158",
+      "name": "Carregador Portátil Mini Power Bank 10000mAh Com 2 Saídas Tipo-C / Lightning",
+      "price": 31.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zvk-mik9ovwbhszk62.webp",
+      "url": "https://s.shopee.com.br/LntPQQNrf",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "23793879757",
+      "name": "Daily T-shirt Insider",
+      "price": 59.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zuv-mimqz9sdyk8zd7.webp",
+      "url": "https://s.shopee.com.br/8pmRX0dIqk",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21598077638",
+      "name": "Kit 100 a 300 Tampas De Plástico Descartável Para Alimentos",
+      "price": 14.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mqxhlznhjvnq4b.webp",
+      "url": "https://s.shopee.com.br/4qGIlfNKPj",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23193574821",
+      "name": "Kit 24 Peças Talheres Aço Inoxidável Dourado Luxo",
+      "price": 52.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztl-mklyprfdk2rm83.webp",
+      "url": "https://s.shopee.com.br/6AlgM9HRe8",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "20398031446",
+      "name": "Manta para Sofá Luxo King Gigante 3m x 1,8m Decorativa Algodão Capa Protetora",
+      "price": 24.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-maw64y6e4kgf0c.webp",
+      "url": "https://s.shopee.com.br/9V28KHHoit",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58206652459",
+      "name": "Fatiador KITOP Descasca Legumes Prático Para Couve e Repolho Fininho",
+      "price": 17.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8261y-mlnn8q39unls7a.webp",
+      "url": "https://s.shopee.com.br/4qGIli8mQy",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22898373049",
+      "name": "Espelho Orgânico 120x50cm e 95x40cm Lapidado Moderno Grande Com Suporte",
+      "price": 79.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ll-mslrmo2fppfq1b.webp",
+      "url": "https://s.shopee.com.br/qkA0JKxQ2",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21898858579",
+      "name": "Kit 1/2/5 Fio de Fada 2m Com Luzes LED Para Decoração de Casa e Natal",
+      "price": 7.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mijlu91q9s01b2.webp",
+      "url": "https://s.shopee.com.br/4VdSN3bnSy",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22298895580",
+      "name": "Caminhão Dinossauro Engolidor e Porta-Carrinhos Com 4 Carrinhos de Fricção",
+      "price": 63.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-me9bc6uzn1ts52.webp",
+      "url": "https://s.shopee.com.br/7AeDXziR9O",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "57707127537",
+      "name": "Bebê Reborn Boneca Realista Recém-Nascida 100% Siliconada Pode Dar Banho",
+      "price": 59.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134201-820m1-mqyk3k7olon833.webp",
+      "url": "https://s.shopee.com.br/70KnLdFU7A",
       "category": "other",
       "platform": "shopee"
     },
@@ -495,7 +625,7 @@
     {
       "id": "58267485793",
       "name": "Kit Potes Mantimentos Vidro Herméticos Com Tampa Bambu Alta Resistência Epsilon",
-      "price": 42.4,
+      "price": 49.45,
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820ld-mso4uf7pu0p11c.webp",
       "url": "https://s.shopee.com.br/W77DcRVlK",
@@ -515,7 +645,7 @@
     {
       "id": "19699704487",
       "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 299.99,
+      "price": 176.4,
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mdonu6vmeoxl23.webp",
       "url": "https://s.shopee.com.br/4VdFyyPLV6",
