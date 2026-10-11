@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T14:33:40Z",
-  "source": "shopee",
+  "updated_at": "2026-10-11T14:42:26Z",
+  "source": "mixed",
   "products": [
     {
       "id": "58216182510",
@@ -161,6 +161,106 @@
       "url": "https://s.shopee.com.br/3B7sSMdo2x",
       "category": "other",
       "platform": "shopee"
+    },
+    {
+      "id": "B07SBXMSGB",
+      "name": "Lola Cosmetics Argan Óleo Reparador 50ml",
+      "price": 17.17,
+      "original_price": 44.9,
+      "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B00P183wh",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B079VQTK2M",
+      "name": "NIVEA Loção Deo-Hidratante Milk 400ml Hidratação Profunda 72h",
+      "price": 18.89,
+      "original_price": 20.99,
+      "image": "https://m.media-amazon.com/images/I/61K9kyXATvL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B02AK2tTZ",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07H113TPQ",
+      "name": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar 100ml",
+      "price": 33.9,
+      "original_price": 49.9,
+      "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0frCEP85",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B072MK7BN2",
+      "name": "La Roche-Posay Cicaplast Baume B5+ Creme Multirreparador 40ml",
+      "price": 60.79,
+      "original_price": 89.9,
+      "image": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0bVhIsL6",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07GMCX5S4",
+      "name": "Carga para Aparelho de Barbear Gillette Mach3 Sensitive 16 unidades",
+      "price": 89.99,
+      "original_price": 130.66,
+      "image": "https://m.media-amazon.com/images/I/71qI3elsK7L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0cHQyZO1",
+      "category": "hygiene",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07RK4HST7",
+      "name": "CeraVe Loção Hidratante Corporal Pele Seca a Extra Seca 473ml",
+      "price": 79.68,
+      "original_price": 110.9,
+      "image": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0a1ozEv9",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0G45KPX15",
+      "name": "Máscara Elseve L'Oréal Paris Colágeno Encorpador 300g",
+      "price": 26.9,
+      "original_price": 40.99,
+      "image": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0eJgaa56",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B074LVMLNG",
+      "name": "Lola Cosmetics Rapunzel Tônico Capilar 230ml",
+      "price": 36.04,
+      "original_price": 69.9,
+      "image": "https://m.media-amazon.com/images/I/71E7coyfT1L._AC_SY879_.jpg",
+      "url": "https://link.amazon/B0ff6dldb",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B074LTNQBP",
+      "name": "Lola Cosmetics Morte Súbita Máscara Super Hidratante 450g",
+      "price": 30.5,
+      "original_price": 64.9,
+      "image": "https://m.media-amazon.com/images/I/71vJXnkK-NL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B05FnxGpz",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DC74428B",
+      "name": "Dove Óleo de Banho Hidratação Intensa 240ml",
+      "price": 29.99,
+      "original_price": 42.34,
+      "image": "https://m.media-amazon.com/images/I/61k0+bqK+LL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B042MfJxu",
+      "category": "health_beauty",
+      "platform": "amazon"
     },
     {
       "id": "58266942513",
