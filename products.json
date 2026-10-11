@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:43:50Z",
+  "updated_at": "2026-10-11T14:33:40Z",
   "source": "shopee",
   "products": [
     {
@@ -159,6 +159,106 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mddjirck6er6d1.webp",
       "url": "https://s.shopee.com.br/3B7sSMdo2x",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58266942513",
+      "name": "Varal De Roupa Dobrável Torre 3 Andares Com Rodas Aço Inox",
+      "price": 77.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259n-msmk8aozxp1id9.webp",
+      "url": "https://s.shopee.com.br/LnvBurIpO",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "42607201398",
+      "name": "Conjunto De 5 Potes Herméticos Retangulares Com Tampa De Vedação",
+      "price": 35.89,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mbqsjgyapkrdb2.webp",
+      "url": "https://s.shopee.com.br/6q1OvrF9Ts",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23095162038",
+      "name": "Lixeira com Sensor Automático 16L Recarregável para Cozinha",
+      "price": 68.4,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lt-mr5ij2qm2bd37d.webp",
+      "url": "https://s.shopee.com.br/7KxfWq2pj6",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22992468388",
+      "name": "Organizador De Talheres Para Gaveta Bambu Extensível 7 Divisórias",
+      "price": 75.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lx-mmb7xxncvhtsee.webp",
+      "url": "https://s.shopee.com.br/5AtAwqtYIy",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58259268191",
+      "name": "Limpador de Vidros 2 em 1 com Cabo Extensível 180° para Janelas",
+      "price": 39.98,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lr-mswcqrbji0w732.webp",
+      "url": "https://s.shopee.com.br/9APJiEZBVW",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58209240255",
+      "name": "Kit 5 Panos de Prato Atoalhados Felpudos Estampados",
+      "price": 34.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820md-mna0el3lfk0224.webp",
+      "url": "https://s.shopee.com.br/2qVGAVCv04",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "54514376116",
+      "name": "Sacos de Lixo Perfumado Chá Branco Para Pia e Banheiro 34x38cm",
+      "price": 19.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820me-mrt0lqhjr4067d.webp",
+      "url": "https://s.shopee.com.br/3B86Z6yWC1",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58264440795",
+      "name": "Kit 5 Bacias Multiuso 3,2L Plásticas Reforçadas Para Cozinha",
+      "price": 18.83,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82595-mqqpa1s658gdce.webp",
+      "url": "https://s.shopee.com.br/80DMK4vUWI",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265125416",
+      "name": "Jogo de Tapete Para Banheiro 3 Peças Antiderrapante Felpudo",
+      "price": 36.7,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259n-mr7e2nvezocn8b.webp",
+      "url": "https://s.shopee.com.br/6Ali8hks6x",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22294474590",
+      "name": "Saia Para Base De Árvore De Natal Com Laço 68cm",
+      "price": 34.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mt41umxxle6dcb.webp",
+      "url": "https://s.shopee.com.br/3B86ZBaV7l",
       "category": "other",
       "platform": "shopee"
     },
@@ -739,16 +839,6 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpfbutwofkzl1a.webp",
       "url": "https://s.shopee.com.br/6L4uAMDdE0",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "23698853317",
-      "name": "Lixeira Automática 12 Litros Com Sensor Infravermelho Para Cozinha e Banheiro",
-      "price": 59.88,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdwa-mccb5id6es7v2d.webp",
-      "url": "https://s.shopee.com.br/7KxRPzOtCE",
       "category": "other",
       "platform": "shopee"
     },
