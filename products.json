@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T14:42:26Z",
+  "updated_at": "2026-10-14T17:09:39Z",
   "source": "mixed",
   "products": [
     {
@@ -69,6 +69,46 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8257y-mq7pxoy9i1a933.webp",
       "url": "https://s.shopee.com.br/50ZWZtJ6x0",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "22393226536",
+      "name": "Bermuda Esportiva Masculina Short Para Corridas e Academia",
+      "price": 16.97,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820me-mtyn8u6v2i9u93.webp",
+      "url": "https://s.shopee.com.br/5VW6IsfUM7",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "51807345661",
+      "name": "Secador Esterilizador de Tênis Elétrico 110v ou 220v",
+      "price": 59.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820ll-msfzq5mjfnk651.webp",
+      "url": "https://s.shopee.com.br/7AeKHtnLao",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "51417153718",
+      "name": "Camiseta Masculina Light T-shirt Insider",
+      "price": 59.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8259i-mslnre341czs50.webp",
+      "url": "https://s.shopee.com.br/20wE8OTcor",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "22693688637",
+      "name": "Balança Digital Corporal De Vidro até 180kg",
+      "price": 34.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l7-mr092rpnk5j87a.webp",
+      "url": "https://s.shopee.com.br/4B0iiQX9rK",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -263,16 +303,6 @@
       "platform": "amazon"
     },
     {
-      "id": "58266942513",
-      "name": "Varal De Roupa Dobrável Torre 3 Andares Com Rodas Aço Inox",
-      "price": 77.9,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259n-msmk8aozxp1id9.webp",
-      "url": "https://s.shopee.com.br/LnvBurIpO",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
       "id": "42607201398",
       "name": "Conjunto De 5 Potes Herméticos Retangulares Com Tampa De Vedação",
       "price": 35.89,
@@ -359,6 +389,66 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mg-mt41umxxle6dcb.webp",
       "url": "https://s.shopee.com.br/3B86ZBaV7l",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21071530577",
+      "name": "Varal De Chão Para Roupa 3 Andares Dobrável Portátil",
+      "price": 79.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m7augbm6ixf693.webp",
+      "url": "https://s.shopee.com.br/9fLfGUI2Q2",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23497309877",
+      "name": "Espremedor Elétrico de Frutas Recarregável USB Para Sucos",
+      "price": 61.69,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8259f-msgkvfvn2sju02.webp",
+      "url": "https://s.shopee.com.br/BUZx40CAB",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "19697980846",
+      "name": "Ventilador Luminária LED 6 Pás Soquete E27 Para Teto 3 Cores",
+      "price": 49.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mhqkzkrt4w03ba.webp",
+      "url": "https://s.shopee.com.br/3qNsJnzR4P",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22816294190",
+      "name": "Mop Spray Com Reservatório Esfregão Vassoura Mágica",
+      "price": 41.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820m2-mool78g30vsz1c.webp",
+      "url": "https://s.shopee.com.br/1VzxXWPmOw",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21099836557",
+      "name": "Processador Triturador De Alimentos Oggi Mallory Preto",
+      "price": 66.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdwm-mc2jv1qmrooz0e.webp",
+      "url": "https://s.shopee.com.br/AAHvrOcKbE",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "12552542429",
+      "name": "Kit 6 Tampas de Silicone Reutilizáveis Elásticas Para Potes e Panelas",
+      "price": 13.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-lzh7b2vgbkb9b3.webp",
+      "url": "https://s.shopee.com.br/1VzxXUQaUi",
       "category": "other",
       "platform": "shopee"
     },
