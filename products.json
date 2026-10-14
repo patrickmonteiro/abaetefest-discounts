@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:11:56Z",
+  "updated_at": "2026-10-14T17:21:56Z",
   "source": "mixed",
   "products": [
     {
@@ -109,6 +109,56 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l7-mr092rpnk5j87a.webp",
       "url": "https://s.shopee.com.br/4B0iiQX9rK",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "22793684140",
+      "name": "Tênis Feminino Esportivo Leve e Macio Academia Corrida",
+      "price": 29.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5tyxgjeaxz9d5.webp",
+      "url": "https://s.shopee.com.br/5fpWW0OaC8",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "43981426348",
+      "name": "Tênis Masculino Academia Corrida Freedom",
+      "price": 44.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lu-mp1812w1byf511.webp",
+      "url": "https://s.shopee.com.br/8fT85Wdd4f",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "20599370356",
+      "name": "Calça Legging Canelada Cintura Alta Sem Costura Para Academia",
+      "price": 32.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-lzhsnpao0az924.webp",
+      "url": "https://s.shopee.com.br/7AeKImnKqM",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "22295189209",
+      "name": "Short Fitness Canelado Feminino Sem Costura Zero Transparência",
+      "price": 19.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820m0-mrtiq43gmuit3e.webp",
+      "url": "https://s.shopee.com.br/9pf5Tgz75K",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "19798269477",
+      "name": "Kit 3 Garrafas Squeeze Motivacionais Academia 1,2L 800ml 300ml",
+      "price": 28.8,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mpm14y3pmtj685.webp",
+      "url": "https://s.shopee.com.br/1gI4CmQkzk",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -543,6 +593,26 @@
       "platform": "shopee"
     },
     {
+      "id": "22093160276",
+      "name": "Smartwatch T800 Ultra Série 8 Relógio Esportivo",
+      "price": 45.88,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rdym-lxrzfhio6fhl9d.webp",
+      "url": "https://s.shopee.com.br/5VW6JiXTVt",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "40331456554",
+      "name": "Fone de Ouvido Bluetooth Sem Fio Senbenbao X55 TWS com Display",
+      "price": 15.62,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-823ob-mp7wv1fcnx8rc4.webp",
+      "url": "https://s.shopee.com.br/6L5DJF8RSZ",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
       "id": "23793879757",
       "name": "Daily T-shirt Insider",
       "price": 59.0,
@@ -679,6 +749,16 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ll-mseahc66bsp164.webp",
       "url": "https://s.shopee.com.br/2qVENJluLo",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23399175232",
+      "name": "Presépio De Natal Manjedoura Decoração Natalina MDF",
+      "price": 29.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-821e1-mgzrq0k1qtceba.webp",
+      "url": "https://s.shopee.com.br/AAHvsJJqJA",
       "category": "other",
       "platform": "shopee"
     },
