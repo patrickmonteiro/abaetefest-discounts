@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:58:05Z",
+  "updated_at": "2026-10-16T01:09:08Z",
   "source": "mixed",
   "products": [
     {
@@ -811,6 +811,166 @@
       "url": "https://s.shopee.com.br/5fpYbj0YeD",
       "category": "electronics",
       "platform": "shopee"
+    },
+    {
+      "id": "238803400",
+      "name": "Apple iPhone 16 128GB Preto 6,1\" 48MP iOS 5G",
+      "price": 4799.0,
+      "original_price": 8578.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/apple-iphone-16-128gb-preto-61-48mp-ios-5g/magazineluiza/238803400/07f95db2095de876b29c54250a4589a2.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/apple-iphone-16-128gb-preto-61-48mp-ios-5g/p/238803400/te/ip16/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "238035900",
+      "name": "Apple iPhone 15 128GB Rosa 6,1\" 48MP iOS 5G",
+      "price": 3999.0,
+      "original_price": 7299.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/apple-iphone-15-128gb-rosa-61-48mp-ios-5g/magazineluiza/238035900/4c17ac14e2fd7607fe90868308f57e05.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/apple-iphone-15-128gb-rosa-61-48mp-ios-5g/p/238035900/te/ip15/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240059700",
+      "name": "Apple iPhone 16e 128GB Branco 6,1\" 48MP iOS 5G",
+      "price": 3299.0,
+      "original_price": 5799.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/apple-iphone-16e-128gb-branco-61-48mp-ios-5g/magazineluiza/240059700/e888dbbecc13c16abbd87605076295ed.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/apple-iphone-16e-128gb-branco-61-48mp-ios-5g/p/240059700/te/i16e/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240576200",
+      "name": "Samsung Galaxy S25 FE 128GB 5G 8GB RAM Azul-Marinho",
+      "price": 2999.0,
+      "original_price": 4728.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/celular-samsung-galaxy-s25-fe-128gb-5g-8gb-ram-azul-marinho-67-cam-tripla-selfie-12mp/magazineluiza/240576200/744953d79a16683b58d611085f263146.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/celular-samsung-galaxy-s25-fe-128gb-5g-8gb-ram-azul-marinho-67-cam-tripla-selfie-12mp/p/240576200/te/g25f/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "241492100",
+      "name": "Samsung Galaxy A57 256GB 5G 8GB RAM Azul-Escuro",
+      "price": 2399.0,
+      "original_price": 3999.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/celular-samsung-galaxy-a57-256gb-5g-8gb-ram-azul-escuro-67-cam-tripla-selfie-12mp/magazineluiza/241492100/0ab9d6fc4f45265db306ef1cb8896887.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/celular-samsung-galaxy-a57-256gb-5g-8gb-ram-azul-escuro-67-cam-tripla-selfie-12mp/p/241492100/te/ga57/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "ce7a8d2e7d",
+      "name": "Motorola Moto G56 5G 256GB 8GB RAM Grafite",
+      "price": 1469.9,
+      "original_price": 2379.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-tela-67-camera-dupla-50mp-08mp-grafite/mega-mamute/33344/e7231acab023b8d3472be7d70123e816.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-tela-67-camera-dupla-50mp-08mp-grafite/p/ce7a8d2e7d/te/mg04/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240575400",
+      "name": "Samsung Galaxy A17 256GB 8GB RAM Preto",
+      "price": 1349.1,
+      "original_price": 1758.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/celular-samsung-galaxy-a17-256gb-8gb-ram-preto-67-cam-tripla-selfie-13mp/magazineluiza/240575400/9c8eff3e3a94ccd2a61e37ebfaedbada.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/celular-samsung-galaxy-a17-256gb-8gb-ram-preto-67-cam-tripla-selfie-13mp/p/240575400/te/ga17/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "238760800",
+      "name": "Motorola Moto G35 256GB 5G Coral",
+      "price": 1259.1,
+      "original_price": 1648.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g35-256gb-coral-5g-4gb-ram-8gb-ram-boost-5g-67-cam-dupla-selfie-16mp/magazineluiza/238760800/b56104a326714f86aa66eb799f34eb4c.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smartphone-motorola-moto-g35-256gb-coral-5g-4gb-ram-8gb-ram-boost-5g-67-cam-dupla-selfie-16mp/p/238760800/te/mg35/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240466000",
+      "name": "Samsung Galaxy A07 256GB 8GB RAM Preto",
+      "price": 944.1,
+      "original_price": 1399.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/celular-samsung-galaxy-a07-256gb-preto-8gb-ram-tela-67-cam-dupla-selfie-8mp/magazineluiza/240466000/b35211e48db73d5a8728275c07f1741a.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/celular-samsung-galaxy-a07-256gb-preto-8gb-ram-tela-67-cam-dupla-selfie-8mp/p/240466000/te/ga07/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240144900",
+      "name": "Smart TV 43\" Samsung Full HD 43F6000F Tizen",
+      "price": 1899.05,
+      "original_price": 4086.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-43-samsung-full-hd-43f6000f-tizen-hyper-real-2-hdmi/magazineluiza/240144900/261b368d629af5c2e37e70583382c07f.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-43-samsung-full-hd-43f6000f-tizen-hyper-real-2-hdmi/p/240144900/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240145000",
+      "name": "Smart TV 32\" Samsung HD UN32H5000FGXZD Tizen 2025",
+      "price": 1234.05,
+      "original_price": 2667.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-32-samsung-hd-un32h5000fgxzd-tizen-2025/magazineluiza/240145000/20b50bddc35c6cd3a8dd333d7924149a.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-32-samsung-hd-un32h5000fgxzd-tizen-2025/p/240145000/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "241502900",
+      "name": "Smart TV 65\" TCL 4K UHD QLED 65P7L Google TV",
+      "price": 3514.05,
+      "original_price": 5899.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-65-tcl-4k-uhd-qled-65p7l-google-tv-2026/magazineluiza/241502900/c1bdde776bfeb4ea47a1d68a4060e0bc.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-65-tcl-4k-uhd-qled-65p7l-google-tv-2026/p/241502900/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240146900",
+      "name": "Smart TV 50\" Samsung 4K QLED QN50Q7FAAGXZD",
+      "price": 2659.05,
+      "original_price": 4044.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-50-samsung-ultra-4k-qled-qn50q7faagxzd-tizen-q4-ai-3-hdmi/magazineluiza/240146900/96c643a24f8dea304c3b4ad222b41cc2.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-50-samsung-ultra-4k-qled-qn50q7faagxzd-tizen-q4-ai-3-hdmi/p/240146900/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "238616500",
+      "name": "Smart TV 58\" Philips 4K UHD 58PUG7019 Google Assistente",
+      "price": 3134.05,
+      "original_price": 4540.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-58-4k-uhd-led-philips-58pug7019-78-wi-fi-bluetooth-google-assistente-3-hdmi-2-usb/magazineluiza/238616500/0ac7f208a35c6ebf7ee2d650e9794f38.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-58-4k-uhd-led-philips-58pug7019-78-wi-fi-bluetooth-google-assistente-3-hdmi-2-usb/p/238616500/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240424400",
+      "name": "Smart TV 32\" TCL Full HD QLED 32S5K Google TV",
+      "price": 1099.0,
+      "original_price": 1699.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-32-tcl-full-hd-qled-32s5k-google-tv-2-hdmi/magazineluiza/240424400/f12bc9a10cb4e3a45720e4d625bdae55.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-32-tcl-full-hd-qled-32s5k-google-tv-2-hdmi/p/240424400/et/tves/",
+      "category": "electronics",
+      "platform": "magalu"
+    },
+    {
+      "id": "240162600",
+      "name": "Smart TV 65\" TCL 4K MiniLED 65C6K 120Hz Google TV",
+      "price": 4084.05,
+      "original_price": 4899.0,
+      "image": "https://a-static.mlcdn.com.br/618x463/smart-tv-65-tcl-4k-uhd-miniled-65c6k-120hz-google-tv-aipq-google-assistente-4-hdmi-2-usb/magazineluiza/240162600/ca9d70ba9ab6c0e192a3f1a21b32f0fd.jpg",
+      "url": "https://www.magazinevoce.com.br/magazinepromosdogenio/smart-tv-65-tcl-4k-uhd-miniled-65c6k-120hz-google-tv-aipq-google-assistente-4-hdmi-2-usb/p/240162600/et/elit/",
+      "category": "electronics",
+      "platform": "magalu"
     },
     {
       "id": "40331456554",
