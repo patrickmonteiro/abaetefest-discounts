@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T17:21:56Z",
+  "updated_at": "2026-10-16T00:44:46Z",
   "source": "mixed",
   "products": [
     {
@@ -23,16 +23,6 @@
       "platform": "shopee"
     },
     {
-      "id": "23698384152",
-      "name": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
-      "price": 459.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8dq90menppta0.webp",
-      "url": "https://s.shopee.com.br/20vOzskyvz",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
       "id": "17460396643",
       "name": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB",
       "price": 30.99,
@@ -43,12 +33,12 @@
       "platform": "shopee"
     },
     {
-      "id": "23194958394",
-      "name": "Conjunto Gringo Academia Feminino Calça e Top Esportivo",
-      "price": 77.99,
+      "id": "23698384152",
+      "name": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
+      "price": 459.99,
       "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l4-mnubkqkyo5j542.webp",
-      "url": "https://s.shopee.com.br/8KpKUNOItC",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8dq90menppta0.webp",
+      "url": "https://s.shopee.com.br/20vOzskyvz",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -63,12 +53,82 @@
       "platform": "shopee"
     },
     {
+      "id": "23194958394",
+      "name": "Conjunto Gringo Academia Feminino Calça e Top Esportivo",
+      "price": 77.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l4-mnubkqkyo5j542.webp",
+      "url": "https://s.shopee.com.br/8KpKUNOItC",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
       "id": "58261209291",
       "name": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport",
       "price": 468.0,
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8257y-mq7pxoy9i1a933.webp",
       "url": "https://s.shopee.com.br/50ZWZtJ6x0",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "22793684140",
+      "name": "Tênis Feminino Esportivo Leve e Macio Academia Corrida",
+      "price": 29.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5tyxgjeaxz9d5.webp",
+      "url": "https://s.shopee.com.br/5fpWW0OaC8",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "45663524234",
+      "name": "Tênis De Corrida Feminino e Masculino Antiderrapante Com Placa De Carbono",
+      "price": 89.04,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82599-mqc5yrdvcmiz35.webp",
+      "url": "https://s.shopee.com.br/9Kii7i7Je8",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "58203479877",
+      "name": "Copo Térmico Aço Inox com Tampa e Alça 600ML Antivazamento",
+      "price": 53.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mlou43q924g5ef.webp",
+      "url": "https://s.shopee.com.br/1LgQaZ4okH",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "48800631375",
+      "name": "Tênis De Corrida Profissional Para Maratona Flying Burn 3, Palma Completa, Placa",
+      "price": 76.59,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-821dj-mgi8hhoy8buwf4.webp",
+      "url": "https://s.shopee.com.br/7KxRLgVcR7",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "58263152023",
+      "name": "Tênis Esportivo Feminino para Corrida Leve Caminhada Academia e Uso Diário",
+      "price": 57.67,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lb-mpv81pcxys5c2d.webp",
+      "url": "https://s.shopee.com.br/6L4uA62MF6",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "54017365592",
+      "name": "High-Quality Carbon Plate Running Shoes, Sneakers for Men and Women, Shock",
+      "price": 81.84,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8259p-mrk17yw4wi6a14.webp",
+      "url": "https://s.shopee.com.br/6q1AkZcEUl",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -113,16 +173,6 @@
       "platform": "shopee"
     },
     {
-      "id": "22793684140",
-      "name": "Tênis Feminino Esportivo Leve e Macio Academia Corrida",
-      "price": 29.0,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m5tyxgjeaxz9d5.webp",
-      "url": "https://s.shopee.com.br/5fpWW0OaC8",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
       "id": "43981426348",
       "name": "Tênis Masculino Academia Corrida Freedom",
       "price": 44.99,
@@ -163,16 +213,6 @@
       "platform": "shopee"
     },
     {
-      "id": "45663524234",
-      "name": "Tênis De Corrida Feminino e Masculino Antiderrapante Com Placa De Carbono",
-      "price": 89.04,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82599-mqc5yrdvcmiz35.webp",
-      "url": "https://s.shopee.com.br/9Kii7i7Je8",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
       "id": "23897143985",
       "name": "Par de Palmilha em Gel Silicone Ortopédica Confortável Para Quem Trabalha em Pé",
       "price": 18.03,
@@ -183,32 +223,12 @@
       "platform": "shopee"
     },
     {
-      "id": "58203479877",
-      "name": "Copo Térmico Aço Inox com Tampa e Alça 600ML Antivazamento",
-      "price": 53.9,
+      "id": "23492991813",
+      "name": "Kit Meias Soquete Cano Curto Unissex 3/6/12/18 Pares",
+      "price": 12.6,
       "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mlou43q924g5ef.webp",
-      "url": "https://s.shopee.com.br/1LgQaZ4okH",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
-      "id": "48800631375",
-      "name": "Tênis De Corrida Profissional Para Maratona Flying Burn 3, Palma Completa, Placa",
-      "price": 76.59,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-821dj-mgi8hhoy8buwf4.webp",
-      "url": "https://s.shopee.com.br/7KxRLgVcR7",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
-      "id": "58263152023",
-      "name": "Tênis Esportivo Feminino para Corrida Leve Caminhada Academia e Uso Diário",
-      "price": 57.67,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lb-mpv81pcxys5c2d.webp",
-      "url": "https://s.shopee.com.br/6L4uA62MF6",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mk19q1h3km4j86.webp",
+      "url": "https://s.shopee.com.br/40hKcEmfyK",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -229,6 +249,166 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mddjirck6er6d1.webp",
       "url": "https://s.shopee.com.br/3B7sSMdo2x",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "50612911391",
+      "name": "FITIFUN Tablet Android 14 tela 10,0 pol. RAM 2GB armazenamento 32GB Wi-Fi 6",
+      "price": 427.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8258b-mq31rt9080emda.webp",
+      "url": "https://s.shopee.com.br/gQ1Pa41Jo",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "14493669828",
+      "name": "Decoração De Natal/Decorações De Árvore De Natal/Natal Decoração/Enfeites De",
+      "price": 100.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rbko-lm43j041e5axc6.webp",
+      "url": "https://s.shopee.com.br/6VO93xXXwi",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58217580101",
+      "name": "Jogo de Facas de Cozinha 8 Peças Genebra Corte Navalha Antiaderente Premium",
+      "price": 39.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820le-mtrha87hqgoydd.webp",
+      "url": "https://s.shopee.com.br/2BFLGV8or4",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265125416",
+      "name": "Jogo de Tapete Para Banheiro 3 Peças Antiderrapante Felpudo",
+      "price": 36.7,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259n-mr7e2nvezocn8b.webp",
+      "url": "https://s.shopee.com.br/6Ali8hks6x",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "19697980846",
+      "name": "Ventilador Luminária LED 6 Pás Soquete E27 Para Teto 3 Cores",
+      "price": 49.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mhqkzkrt4w03ba.webp",
+      "url": "https://s.shopee.com.br/3qNsJnzR4P",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "56564570357",
+      "name": "Nova capa de telefone de vidro fosco iPhone 18 17 16 15 14 13 12 11 Pro Max",
+      "price": 17.5,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825ay-mqyizsmmew3lb5.webp",
+      "url": "https://s.shopee.com.br/2LYlOIT6QJ",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "21097623587",
+      "name": "Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt",
+      "price": 200.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8262y-ml8364ncclj703.webp",
+      "url": "https://s.shopee.com.br/1LgEGy3Bz5",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265124713",
+      "name": "Forma de Gelo Manual com Coletor e Tampa Fácil de Desenformar Grande Capacidade",
+      "price": 29.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mr7ebkvkzxfof7.webp",
+      "url": "https://s.shopee.com.br/8AWYL075pF",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58265535444",
+      "name": "Cascata de Natal Estrelas Bivolt Leds com 8 Funções em cores Branco Quente",
+      "price": 45.79,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lm-mrgkb9rdwmpz54.webp",
+      "url": "https://s.shopee.com.br/20vuzgd28S",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58266784579",
+      "name": "Kit Colcha Cama Cobre Leito Casal Queen C/Babado 3 Peças Estampada 400 fios Luxo",
+      "price": 38.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mt5c4m3zxatg3a.webp",
+      "url": "https://s.shopee.com.br/3qNZB45BPn",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58256022867",
+      "name": "Bolsa Pasta Organizador De Documentos Vários Compartimento Trava Com Segredo",
+      "price": 45.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-82626-ml9zdkqgxekg0f.webp",
+      "url": "https://s.shopee.com.br/4fwgAbAwnZ",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58010381012",
+      "name": "Cozinha De Brinquedo Infantil Completa Casa Mágica Da Gabby Com Acessórios",
+      "price": 49.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-822x7-mo5syhkhntvl29.webp",
+      "url": "https://s.shopee.com.br/4fwgB2DAh1",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22298895580",
+      "name": "Caminhão Dinossauro Engolidor e Porta-Carrinhos Com 4 Carrinhos de Fricção",
+      "price": 63.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-me9bc6uzn1ts52.webp",
+      "url": "https://s.shopee.com.br/7AeDXziR9O",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58216002751",
+      "name": "Meia Infantil Divertida 25 ao 40 3D Cano Alto Menina Menino Colorida Confortável",
+      "price": 19.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lu-mtpdqm22nbi915.webp",
+      "url": "https://s.shopee.com.br/3qNZBFE0Y9",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "40009349069",
+      "name": "Jogo Panelas Completo 6 Peças Antiaderente Cerâmica com Acessórios Silicone",
+      "price": 249.0,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l4-mtfova8kkzcwf4.webp",
+      "url": "https://s.shopee.com.br/7Ae19sff1u",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "21798597083",
+      "name": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
+      "price": 59.9,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpnszoiek9og7e.webp",
+      "url": "https://s.shopee.com.br/8V9Oo8tVZs",
       "category": "other",
       "platform": "shopee"
     },
@@ -403,16 +583,6 @@
       "platform": "shopee"
     },
     {
-      "id": "58265125416",
-      "name": "Jogo de Tapete Para Banheiro 3 Peças Antiderrapante Felpudo",
-      "price": 36.7,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259n-mr7e2nvezocn8b.webp",
-      "url": "https://s.shopee.com.br/6Ali8hks6x",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
       "id": "22294474590",
       "name": "Saia Para Base De Árvore De Natal Com Laço 68cm",
       "price": 34.99,
@@ -443,16 +613,6 @@
       "platform": "shopee"
     },
     {
-      "id": "19697980846",
-      "name": "Ventilador Luminária LED 6 Pás Soquete E27 Para Teto 3 Cores",
-      "price": 49.99,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mhqkzkrt4w03ba.webp",
-      "url": "https://s.shopee.com.br/3qNsJnzR4P",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
       "id": "22816294190",
       "name": "Mop Spray Com Reservatório Esfregão Vassoura Mágica",
       "price": 41.9,
@@ -479,96 +639,6 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-lzh7b2vgbkb9b3.webp",
       "url": "https://s.shopee.com.br/1VzxXUQaUi",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "50612911391",
-      "name": "FITIFUN Tablet Android 14 tela 10,0 pol. RAM 2GB armazenamento 32GB Wi-Fi 6",
-      "price": 427.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8258b-mq31rt9080emda.webp",
-      "url": "https://s.shopee.com.br/gQ1Pa41Jo",
-      "category": "electronics",
-      "platform": "shopee"
-    },
-    {
-      "id": "14493669828",
-      "name": "Decoração De Natal/Decorações De Árvore De Natal/Natal Decoração/Enfeites De",
-      "price": 100.0,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-7rbko-lm43j041e5axc6.webp",
-      "url": "https://s.shopee.com.br/6VO93xXXwi",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "56564570357",
-      "name": "Nova capa de telefone de vidro fosco iPhone 18 17 16 15 14 13 12 11 Pro Max",
-      "price": 17.5,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825ay-mqyizsmmew3lb5.webp",
-      "url": "https://s.shopee.com.br/2LYlOIT6QJ",
-      "category": "electronics",
-      "platform": "shopee"
-    },
-    {
-      "id": "21097623587",
-      "name": "Projetor HY300 Magcubic 4K HD WiFi Bluetooth Até 150 Polegadas Bivolt",
-      "price": 200.99,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8262y-ml8364ncclj703.webp",
-      "url": "https://s.shopee.com.br/1LgEGy3Bz5",
-      "category": "electronics",
-      "platform": "shopee"
-    },
-    {
-      "id": "58265124713",
-      "name": "Forma de Gelo Manual com Coletor e Tampa Fácil de Desenformar Grande Capacidade",
-      "price": 29.99,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mr7ebkvkzxfof7.webp",
-      "url": "https://s.shopee.com.br/8AWYL075pF",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58265535444",
-      "name": "Cascata de Natal Estrelas Bivolt Leds com 8 Funções em cores Branco Quente",
-      "price": 45.79,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lm-mrgkb9rdwmpz54.webp",
-      "url": "https://s.shopee.com.br/20vuzgd28S",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58266784579",
-      "name": "Kit Colcha Cama Cobre Leito Casal Queen C/Babado 3 Peças Estampada 400 fios Luxo",
-      "price": 38.0,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-mt5c4m3zxatg3a.webp",
-      "url": "https://s.shopee.com.br/3qNZB45BPn",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58256022867",
-      "name": "Bolsa Pasta Organizador De Documentos Vários Compartimento Trava Com Segredo",
-      "price": 45.0,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-82626-ml9zdkqgxekg0f.webp",
-      "url": "https://s.shopee.com.br/4fwgAbAwnZ",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58010381012",
-      "name": "Cozinha De Brinquedo Infantil Completa Casa Mágica Da Gabby Com Acessórios",
-      "price": 49.99,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-822x7-mo5syhkhntvl29.webp",
-      "url": "https://s.shopee.com.br/4fwgB2DAh1",
       "category": "other",
       "platform": "shopee"
     },
@@ -679,16 +749,6 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mijlu91q9s01b2.webp",
       "url": "https://s.shopee.com.br/4VdSN3bnSy",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "22298895580",
-      "name": "Caminhão Dinossauro Engolidor e Porta-Carrinhos Com 4 Carrinhos de Fricção",
-      "price": 63.99,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-me9bc6uzn1ts52.webp",
-      "url": "https://s.shopee.com.br/7AeDXziR9O",
       "category": "other",
       "platform": "shopee"
     },
@@ -843,122 +903,12 @@
       "platform": "shopee"
     },
     {
-      "id": "55859367931",
-      "name": "Relógio Smartwatch Infantil GPS Rastreador com Câmera e SOS para Kids e Teens",
-      "price": 69.9,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-820of-mne4t3emrsox0e.webp",
-      "url": "https://s.shopee.com.br/gQXPR3nVI",
-      "category": "electronics",
-      "platform": "shopee"
-    },
-    {
-      "id": "48715580905",
-      "name": "Almofada Borboleta Luxo Decorativa Macia para Sofá e Cama",
-      "price": 69.9,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lj-mrkimeh5zytj97.webp",
-      "url": "https://s.shopee.com.br/3qNZB3evFg",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "22994015007",
-      "name": "Mochila De Viagem 4 Em 1 Grande Mochila E Feminina À Prova D'água Reforçada",
-      "price": 99.99,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81ztc-mjt9gda8giyr8a.webp",
-      "url": "https://s.shopee.com.br/1gJ4bGDasE",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58216002751",
-      "name": "Meia Infantil Divertida 25 ao 40 3D Cano Alto Menina Menino Colorida Confortável",
-      "price": 19.9,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lu-mtpdqm22nbi915.webp",
-      "url": "https://s.shopee.com.br/3qNZBFE0Y9",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "23999659925",
-      "name": "Brinquedo Torre Lançadora Espacial Educativo Interativo com Bolinhas para Bebê",
-      "price": 58.66,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820la-msnwf6ywqn7q60.webp",
-      "url": "https://s.shopee.com.br/8fSow8Hbcu",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "22498844695",
-      "name": "Lança Bolhas Sabão Automático Brinquedo Infantil Menino Menina Festa Aniversário",
-      "price": 21.89,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820me-mowqrc9hs6bpfa.webp",
-      "url": "https://s.shopee.com.br/4B0Pa6tDJy",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
       "id": "23298831390",
       "name": "Guarda Sol Quadrado Gigante 3M Aberto Reforçado Contra Uv Para Praia",
       "price": 189.0,
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mg-ms1fxtl987b8b6.webp",
       "url": "https://s.shopee.com.br/113NoIa4GK",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "55316928532",
-      "name": "Petisqueira com 2,3 ou 4 Potes Tampa de Acrílico e Bandeja para Servir em Bambu",
-      "price": 42.89,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-825b9-msfwk2ow658p6f.webp",
-      "url": "https://s.shopee.com.br/113NoIijEe",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58267485793",
-      "name": "Kit Potes Mantimentos Vidro Herméticos Com Tampa Bambu Alta Resistência Epsilon",
-      "price": 49.45,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820ld-mso4uf7pu0p11c.webp",
-      "url": "https://s.shopee.com.br/W77DcRVlK",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "23899019158",
-      "name": "KIT 10 Peças Camiseta + Shorts Verão 5 Conjuntos Infantil Menino Tam. 1 ao 14",
-      "price": 94.9,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-81z1k-mfvlbh62v1mve0.webp",
-      "url": "https://s.shopee.com.br/3LRIapL3a2",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "19699704487",
-      "name": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
-      "price": 176.4,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mdonu6vmeoxl23.webp",
-      "url": "https://s.shopee.com.br/4VdFyyPLV6",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "18897983973",
-      "name": "Kit Bolsa Térmica 2 Compartimentos, Copo, Marmita, Porta Talher e Porta Escova",
-      "price": 142.28,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820ly-mtphsst0t24g2b.webp",
-      "url": "https://s.shopee.com.br/8V9OkKJ3S2",
       "category": "other",
       "platform": "shopee"
     },
@@ -973,62 +923,82 @@
       "platform": "shopee"
     },
     {
-      "id": "40009349069",
-      "name": "Jogo Panelas Completo 6 Peças Antiaderente Cerâmica com Acessórios Silicone",
-      "price": 249.0,
+      "id": "23393173375",
+      "name": "Frigideira Antiaderente 4 Partes Para Ovo e Hambúrguer",
+      "price": 37.86,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l4-mtfova8kkzcwf4.webp",
-      "url": "https://s.shopee.com.br/7Ae19sff1u",
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxl-ly5gce3lti2f62.webp",
+      "url": "https://s.shopee.com.br/60SOzuNX7D",
       "category": "other",
       "platform": "shopee"
     },
     {
-      "id": "58201517935",
-      "name": "Livro Interativo com Som Infantil Bilíngue Português Inglês Multi Temas Toque",
-      "price": 38.12,
+      "id": "20207891460",
+      "name": "Kit Cobre Leito Dupla Face Paris Queen 8 Peças",
+      "price": 109.9,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lt-msns4d9vmdc501.webp",
-      "url": "https://s.shopee.com.br/4VdFyz7H2Z",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lv-msyiar87vbpi76.webp",
+      "url": "https://s.shopee.com.br/1qcq2FQ3bx",
       "category": "other",
       "platform": "shopee"
     },
     {
-      "id": "58212447764",
-      "name": "Patins Infantil Sereia 4 Rodas Com Luz De Led + Kit Proteção",
-      "price": 145.73,
+      "id": "18999385289",
+      "name": "Kit 5 Camisas Polo Masculinas Piquet",
+      "price": 68.36,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpfbutwofkzl1a.webp",
-      "url": "https://s.shopee.com.br/6L4uAMDdE0",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l6-mna5hwyl6pl089.webp",
+      "url": "https://s.shopee.com.br/9APQligbrZ",
       "category": "other",
       "platform": "shopee"
     },
     {
-      "id": "52858085838",
-      "name": "Garrafa Térmica Cabo Madeira Para Café 1l",
-      "price": 42.99,
+      "id": "58212406049",
+      "name": "Chinelo Masculino Adulto Antiderrapante Confortável e Leve",
+      "price": 17.76,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820l8-mpwlcsd38hz589.webp",
-      "url": "https://s.shopee.com.br/40gzRrfyl0",
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-820m5-mnu3gx6nrklc58.webp",
+      "url": "https://s.shopee.com.br/qkIqS2BXd",
       "category": "other",
       "platform": "shopee"
     },
     {
-      "id": "58217580101",
-      "name": "Jogo de Facas de Cozinha 8 Peças Genebra Corte Navalha Antiaderente Premium",
-      "price": 39.99,
+      "id": "19798323901",
+      "name": "Campainha Com Câmera Vídeo Porteiro Sem Fio Wi-Fi HD",
+      "price": 49.88,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820le-mtrha87hqgoydd.webp",
-      "url": "https://s.shopee.com.br/2BFLGV8or4",
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ma-mqyxie6ogft33d.webp",
+      "url": "https://s.shopee.com.br/6q1VzTsc16",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "21299304045",
+      "name": "Kit 6 Jogos Americanos Juta Impermeáveis",
+      "price": 31.92,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mh53pkt0cjyc3b.webp",
+      "url": "https://s.shopee.com.br/5LCiCiBrBW",
       "category": "other",
       "platform": "shopee"
     },
     {
-      "id": "21798597083",
-      "name": "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
-      "price": 59.9,
+      "id": "26838479652",
+      "name": "Folhas De Limpeza Para Banheiro 30/120 Peças",
+      "price": 16.0,
       "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820mc-mpnszoiek9og7e.webp",
-      "url": "https://s.shopee.com.br/8V9Oo8tVZs",
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxl-mbyrf16ht0f90f.webp",
+      "url": "https://s.shopee.com.br/2gBx1odg0J",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "58263459489",
+      "name": "Desentupidor Alta Pressão Tipo Bomba de Sucção",
+      "price": 28.87,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-8259g-mq4ikbfwlvr5b7.webp",
+      "url": "https://s.shopee.com.br/4B0koY3dlh",
       "category": "other",
       "platform": "shopee"
     }
