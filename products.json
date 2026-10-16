@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:44:46Z",
+  "updated_at": "2026-10-16T00:50:13Z",
   "source": "mixed",
   "products": [
     {
@@ -59,16 +59,6 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820l4-mnubkqkyo5j542.webp",
       "url": "https://s.shopee.com.br/8KpKUNOItC",
-      "category": "sports_leisure",
-      "platform": "shopee"
-    },
-    {
-      "id": "58261209291",
-      "name": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport",
-      "price": 468.0,
-      "original_price": null,
-      "image": "https://down-tx-br.img.susercontent.com/sg-11134201-8257y-mq7pxoy9i1a933.webp",
-      "url": "https://s.shopee.com.br/50ZWZtJ6x0",
       "category": "sports_leisure",
       "platform": "shopee"
     },
@@ -193,6 +183,16 @@
       "platform": "shopee"
     },
     {
+      "id": "58215914612",
+      "name": "Macaquinho Fitness Academia Zero Transparência Costas Abertas",
+      "price": 44.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m4-mrq7zqfsk9ae36.webp",
+      "url": "https://s.shopee.com.br/1gJPqMc7Se",
+      "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
       "id": "22295189209",
       "name": "Short Fitness Canelado Feminino Sem Costura Zero Transparência",
       "price": 19.99,
@@ -230,6 +230,26 @@
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mk19q1h3km4j86.webp",
       "url": "https://s.shopee.com.br/40hKcEmfyK",
       "category": "sports_leisure",
+      "platform": "shopee"
+    },
+    {
+      "id": "9212570285",
+      "name": "Creatina Monohidratada em Pó 100% Pura Soldiers",
+      "price": 29.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mpwm1rqctatfc5.webp",
+      "url": "https://s.shopee.com.br/AKbOAFoXah",
+      "category": "supplements",
+      "platform": "shopee"
+    },
+    {
+      "id": "8337843814",
+      "name": "Pasta De Amendoim Integral Maniforce Vários Sabores",
+      "price": 16.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mh-mswpwjyj75s554.webp",
+      "url": "https://s.shopee.com.br/9fLhN244Zj",
+      "category": "supplements",
       "platform": "shopee"
     },
     {
@@ -513,6 +533,16 @@
       "platform": "amazon"
     },
     {
+      "id": "58214668571",
+      "name": "Hidrabene Protetor Solar Facial FPS 70",
+      "price": 36.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820ld-mswt16eywd1h35.webp",
+      "url": "https://s.shopee.com.br/7faczLh5sd",
+      "category": "health_beauty",
+      "platform": "shopee"
+    },
+    {
       "id": "42607201398",
       "name": "Conjunto De 5 Potes Herméticos Retangulares Com Tampa De Vedação",
       "price": 35.89,
@@ -643,16 +673,6 @@
       "platform": "shopee"
     },
     {
-      "id": "18499853587",
-      "name": "Carregador Sem Fio Power Bank 5000/10000mAh Para iPhone",
-      "price": 28.88,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mavkx3k4v9n308.webp",
-      "url": "https://s.shopee.com.br/80DKXTTHAD",
-      "category": "electronics",
-      "platform": "shopee"
-    },
-    {
       "id": "22499247158",
       "name": "Carregador Portátil Mini Power Bank 10000mAh Com 2 Saídas Tipo-C / Lightning",
       "price": 31.99,
@@ -673,6 +693,26 @@
       "platform": "shopee"
     },
     {
+      "id": "22594459800",
+      "name": "Xiaomi Redmi 15 4G 7000mAh Tela 6,9\" 144Hz",
+      "price": 1199.99,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-82582-msabjcvwlsldb6.webp",
+      "url": "https://s.shopee.com.br/6L5FOwgQ8P",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "23693170246",
+      "name": "Câmera De Segurança Wi-Fi IP com Áudio e Sensor de Movimento 360°",
+      "price": 79.04,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-macsnscjp4lrf3.webp",
+      "url": "https://s.shopee.com.br/5fpYbj0YeD",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
       "id": "40331456554",
       "name": "Fone de Ouvido Bluetooth Sem Fio Senbenbao X55 TWS com Display",
       "price": 15.62,
@@ -680,16 +720,6 @@
       "image": "https://down-tx-br.img.susercontent.com/sg-11134201-823ob-mp7wv1fcnx8rc4.webp",
       "url": "https://s.shopee.com.br/6L5DJF8RSZ",
       "category": "electronics",
-      "platform": "shopee"
-    },
-    {
-      "id": "23793879757",
-      "name": "Daily T-shirt Insider",
-      "price": 59.0,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-81zuv-mimqz9sdyk8zd7.webp",
-      "url": "https://s.shopee.com.br/8pmRX0dIqk",
-      "category": "other",
       "platform": "shopee"
     },
     {
@@ -779,16 +809,6 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/br-11134207-820mb-ms5l9in9msqt7f.webp",
       "url": "https://s.shopee.com.br/5LCZLtuFvt",
-      "category": "other",
-      "platform": "shopee"
-    },
-    {
-      "id": "58215540854",
-      "name": "Cortina de LED Fada Cordão de Luz Janela Estrelas Guirlanda de Natal USB",
-      "price": 59.9,
-      "original_price": null,
-      "image": "https://down-bs-br.img.susercontent.com/br-11134207-820lw-ms0dqfdvrqx3f5.webp",
-      "url": "https://s.shopee.com.br/80DKWnxNAJ",
       "category": "other",
       "platform": "shopee"
     },
@@ -929,6 +949,36 @@
       "original_price": null,
       "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdxl-ly5gce3lti2f62.webp",
       "url": "https://s.shopee.com.br/60SOzuNX7D",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22494391164",
+      "name": "Percarbonato de Sódio 100% Puro Tira Manchas",
+      "price": 10.0,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-824j0-medc35ydcm4m9c.webp",
+      "url": "https://s.shopee.com.br/3qNuQLCLEe",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22893873080",
+      "name": "Jogo de Lençol 400 Fios Toque Suave Acetinado",
+      "price": 12.9,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m82atd2bm5f53a.webp",
+      "url": "https://s.shopee.com.br/BUc3ZvySG",
+      "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "22392992790",
+      "name": "Mixer Batedor Elétrico Portátil Para Bebidas e Shakes",
+      "price": 18.69,
+      "original_price": null,
+      "image": "https://down-bs-br.img.susercontent.com/sg-11134201-7rd48-lupf3z3a40mxf1.webp",
+      "url": "https://s.shopee.com.br/6q1VzpoC40",
       "category": "other",
       "platform": "shopee"
     },
