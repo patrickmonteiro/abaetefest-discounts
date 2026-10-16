@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:50:13Z",
+  "updated_at": "2026-10-16T00:58:05Z",
   "source": "mixed",
   "products": [
     {
@@ -541,6 +541,106 @@
       "url": "https://s.shopee.com.br/7faczLh5sd",
       "category": "health_beauty",
       "platform": "shopee"
+    },
+    {
+      "id": "8501117846",
+      "name": "Verity — Colleen Hoover",
+      "price": 39.92,
+      "original_price": 64.9,
+      "image": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._SY522_.jpg",
+      "url": "https://link.amazon/B05pviZ5A",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "8551009834",
+      "name": "O massacre da família Hope — Riley Sager",
+      "price": 40.77,
+      "original_price": 69.9,
+      "image": "https://m.media-amazon.com/images/I/815bfY-u6-L._SY522_.jpg",
+      "url": "https://link.amazon/B0f6synOD",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "6559817830",
+      "name": "Corte de harmonias partidas (Vol. 6 Corte de espinhos e rosas)",
+      "price": 74.9,
+      "original_price": null,
+      "image": "https://m.media-amazon.com/images/I/81kO4+1lt5L._SY522_.jpg",
+      "url": "https://link.amazon/B003Bwjnz",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "6555607289",
+      "name": "Melhor do que nos filmes — Lynn Painter",
+      "price": 36.3,
+      "original_price": 69.9,
+      "image": "https://m.media-amazon.com/images/I/61y5iLUKS3L._SY522_.jpg",
+      "url": "https://link.amazon/B0hSjTCaC",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "8501923281",
+      "name": "Nunca minta — Freida McFadden",
+      "price": 41.9,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/81-Hk3onFyL._SY522_.jpg",
+      "url": "https://link.amazon/B04SKJcgB",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "8535947906",
+      "name": "A estranha na cama",
+      "price": 48.5,
+      "original_price": 64.9,
+      "image": "https://m.media-amazon.com/images/I/71YSm7ehYqL._SY522_.jpg",
+      "url": "https://link.amazon/B07d3Di3C",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "8535923691",
+      "name": "A cabeça do santo — Socorro Acioli",
+      "price": 47.99,
+      "original_price": 74.9,
+      "image": "https://m.media-amazon.com/images/I/71-YhujYUxS._SY522_.jpg",
+      "url": "https://link.amazon/B04rgGBi5",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "8550807567",
+      "name": "Hábitos Atômicos — James Clear",
+      "price": 37.46,
+      "original_price": 60.9,
+      "image": "https://m.media-amazon.com/images/I/81eT2pjx4jL._SY522_.jpg",
+      "url": "https://link.amazon/B0ifR8dkh",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "6555111100",
+      "name": "A psicologia financeira — Morgan Housel",
+      "price": 28.0,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/41WqYpP0S7L._SY445_SX342_ML2_.jpg",
+      "url": "https://link.amazon/B0fwYbDrp",
+      "category": "books",
+      "platform": "amazon"
+    },
+    {
+      "id": "6559801365",
+      "name": "O Pequeno Príncipe — Edição de luxo com capa dura",
+      "price": 19.0,
+      "original_price": 32.99,
+      "image": "https://m.media-amazon.com/images/I/81QluJ4QXyL._SY522_.jpg",
+      "url": "https://link.amazon/B0jkiTq5G",
+      "category": "books",
+      "platform": "amazon"
     },
     {
       "id": "42607201398",
