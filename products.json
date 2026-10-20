@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:12:52Z",
+  "updated_at": "2026-10-20T11:14:29Z",
   "source": "mixed",
   "products": [
     {
@@ -39,6 +39,16 @@
       "original_price": null,
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lq-mlrk2wkbm6809e.webp",
       "url": "https://s.shopee.com.br/1gJWuht0FB",
+      "category": "electronics",
+      "platform": "shopee"
+    },
+    {
+      "id": "58257783976",
+      "name": "Controle Bluetooth Gamer Sem Fio para Celular Android iPhone PC Switch PS3",
+      "price": 57.96,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820m0-mrk5um4i4kqt1c.webp",
+      "url": "https://s.shopee.com.br/8AX0elMxdh",
       "category": "electronics",
       "platform": "shopee"
     },
