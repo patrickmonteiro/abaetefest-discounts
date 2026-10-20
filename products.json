@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T17:36:25Z",
+  "updated_at": "2026-10-20T11:12:52Z",
   "source": "mixed",
   "products": [
     {
@@ -30,6 +30,16 @@
       "image": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mddjirck6er6d1.webp",
       "url": "https://s.shopee.com.br/3B7sSMdo2x",
       "category": "other",
+      "platform": "shopee"
+    },
+    {
+      "id": "23599380662",
+      "name": "Video Game Stick 4K Original 64G - 10.000 Jogos e Controle Sem Fio",
+      "price": 199.99,
+      "original_price": null,
+      "image": "https://down-tx-br.img.susercontent.com/br-11134207-820lq-mlrk2wkbm6809e.webp",
+      "url": "https://s.shopee.com.br/1gJWuht0FB",
+      "category": "electronics",
       "platform": "shopee"
     },
     {
