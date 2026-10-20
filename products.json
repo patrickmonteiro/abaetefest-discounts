@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:14:29Z",
+  "updated_at": "2026-10-20T18:08:08Z",
   "source": "mixed",
   "products": [
     {
@@ -101,6 +101,156 @@
       "url": "https://s.shopee.com.br/1LgQaZ4okH",
       "category": "sports_leisure",
       "platform": "shopee"
+    },
+    {
+      "id": "B0D2Z3GGCY",
+      "name": "Creme em Cápsulas Medicube Deep Vita C 55g",
+      "price": 125.9,
+      "original_price": 289.0,
+      "image": "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B05Jj0OKN",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B077C2XZ91",
+      "name": "L'Oréal Paris Água Micelar Purificante 5 em 1 400ml",
+      "price": 34.1,
+      "original_price": 69.39,
+      "image": "https://m.media-amazon.com/images/I/71KOmqvvf4L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0j03c5Gd",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GPSW9X56",
+      "name": "Bold Barra de Proteína Bombom Crocante Kit 4 Unidades",
+      "price": 23.74,
+      "original_price": 48.9,
+      "image": "https://m.media-amazon.com/images/I/7195z4JQc8L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B04DLO32t",
+      "category": "supplements",
+      "platform": "amazon"
+    },
+    {
+      "id": "B085PJ15G9",
+      "name": "Água Micelar Garnier SkinActive Pink Tudo em 1 400ml",
+      "price": 36.0,
+      "original_price": 68.29,
+      "image": "https://m.media-amazon.com/images/I/71zwWARGLuL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0gqF34d0",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0F1Z3K835",
+      "name": "Philips Depilador Feminino Elétrico Série 2000 BRE229",
+      "price": 163.0,
+      "original_price": 299.9,
+      "image": "https://m.media-amazon.com/images/I/71O455yOSOL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0iMtAjdA",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D2RKBL8Y",
+      "name": "Camiseta Puma Essentials No. 1 Logo Masculina",
+      "price": 59.9,
+      "original_price": 109.99,
+      "image": "https://m.media-amazon.com/images/I/515WuKHnXdL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B04KL5Mjj",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07C3265TB",
+      "name": "Água Micelar Bifásica L'Oréal Paris 5 em 1 200ml",
+      "price": 23.6,
+      "original_price": 42.59,
+      "image": "https://m.media-amazon.com/images/I/71QJf+81hnL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B06Qzd2Ua",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0D84T7KHD",
+      "name": "Vollo Raquete de Tênis de Mesa Training 700",
+      "price": 21.9,
+      "original_price": 39.9,
+      "image": "https://m.media-amazon.com/images/I/51AJEmx+JsL._AC_SY879_.jpg",
+      "url": "https://link.amazon/B0dLNtBUJ",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0BRMYHMS5",
+      "name": "Máscara Facial de Colágeno Medicube Noturna",
+      "price": 124.35,
+      "original_price": 219.0,
+      "image": "https://m.media-amazon.com/images/I/61occWCJN-L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B05qYAnya",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07VGFNCL2",
+      "name": "L'Oréal Paris Creme Área dos Olhos Revitalift Hialurônico 15g",
+      "price": 52.1,
+      "original_price": 88.39,
+      "image": "https://m.media-amazon.com/images/I/51kRMo2coKS._AC_SX679_.jpg",
+      "url": "https://link.amazon/B01WvOv4S",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FQFH5PJS",
+      "name": "Apple Watch SE 3 GPS 40mm Alumínio Luz das Estrelas",
+      "price": 2069.1,
+      "original_price": 3299.0,
+      "image": "https://m.media-amazon.com/images/I/41H4AoY5xbL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B041gWmQi",
+      "category": "electronics",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07GBCG93R",
+      "name": "NIVEA Creme Facial Antissinais Cellular Filler Noite 49g",
+      "price": 40.23,
+      "original_price": 62.9,
+      "image": "https://m.media-amazon.com/images/I/71683n9CjCL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0ej0efNI",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0DHJ8QXLB",
+      "name": "L'Oréal Paris Solar Expertise Kit Protetor Solar FPS 70 + FPS 60",
+      "price": 78.9,
+      "original_price": 99.49,
+      "image": "https://m.media-amazon.com/images/I/613Gr9oZp+L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0bR15IO5",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FJMHMCBZ",
+      "name": "Philips Headphone Bluetooth TAH2300 com Microfone 55h",
+      "price": 119.84,
+      "original_price": 149.0,
+      "image": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_SX679_.jpg",
+      "url": "https://link.amazon/B09u3C20f",
+      "category": "electronics",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FN8K9CXM",
+      "name": "Anasol Protetor Solar Facial Antioleosidade FPS 70 40g",
+      "price": 40.74,
+      "original_price": 43.89,
+      "image": "https://m.media-amazon.com/images/I/51UWpozrLoL._AC_SY879_.jpg",
+      "url": "https://link.amazon/B089pnuN8",
+      "category": "health_beauty",
+      "platform": "amazon"
     },
     {
       "id": "14493669828",
