@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:08:08Z",
+  "updated_at": "2026-10-26T20:22:55Z",
   "source": "mixed",
   "products": [
     {
@@ -103,153 +103,153 @@
       "platform": "shopee"
     },
     {
-      "id": "B0D2Z3GGCY",
-      "name": "Creme em Cápsulas Medicube Deep Vita C 55g",
-      "price": 125.9,
-      "original_price": 289.0,
-      "image": "https://m.media-amazon.com/images/I/71m8aGBgXqL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B05Jj0OKN",
+      "id": "B0GTX2MDT5",
+      "name": "Bola de Futevôlei Ronaldinho Gaúcho R10 Legacy - Rosa e Preta",
+      "price": 171.69,
+      "original_price": 299.0,
+      "image": "https://m.media-amazon.com/images/I/617YJego5tL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B07v85hGR",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B078P1PNW3",
+      "name": "Mor Life - Barraca Luna 8 Pessoas",
+      "price": 379.21,
+      "original_price": 936.51,
+      "image": "https://m.media-amazon.com/images/I/51ZmaXPuqYL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B00YPSHMW",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0G8NBSLX8",
+      "name": "Shorts Esportivo Serotonin Insider Feminino, Preto, Tamanho G",
+      "price": 97.47,
+      "original_price": 229.0,
+      "image": "https://m.media-amazon.com/images/I/41EQDTrfG1L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0igFYOFz",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0GV1MKHDB",
+      "name": "Tênis Casual Mizuno CSD Sport",
+      "price": 259.59,
+      "original_price": 499.99,
+      "image": "https://m.media-amazon.com/images/I/710bVW5qxEL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B06OaPRtX",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0H37PRV1V",
+      "name": "Tênis Tide Osklen Masculino, Marinho, 42",
+      "price": 219.99,
+      "original_price": 387.0,
+      "image": "https://m.media-amazon.com/images/I/51PfF9H4BVL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0gs87VHK",
+      "category": "sports_leisure",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0F6TR3V8S",
+      "name": "Gshield Carregador Sem Fio Wireless Discovery 3 em 1 Tipo C, 15W",
+      "price": 84.07,
+      "original_price": 129.99,
+      "image": "https://m.media-amazon.com/images/I/51o5KR5f4fL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B05ptch51",
+      "category": "electronics",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FFBM9QW3",
+      "name": "Perfume adidas Vibes Power Zone Eau de Parfum 100ml",
+      "price": 85.87,
+      "original_price": 189.0,
+      "image": "https://m.media-amazon.com/images/I/41BHxUS2MaL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B02FwTKmf",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FFBQ2FPW",
+      "name": "Perfume adidas Vibes Smooth Pace Eau de Parfum 100ml",
+      "price": 88.2,
+      "original_price": 189.0,
+      "image": "https://m.media-amazon.com/images/I/41autV+TY0L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B06jeTL38",
+      "category": "perfumes",
+      "platform": "amazon"
+    },
+    {
+      "id": "B07KYFQRXD",
+      "name": "Mondial Aparador de Pelos Super Groom 11, Bivolt - BG-05",
+      "price": 104.31,
+      "original_price": 219.9,
+      "image": "https://m.media-amazon.com/images/I/711eicqp4WL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0etq04qX",
       "category": "health_beauty",
       "platform": "amazon"
     },
     {
-      "id": "B077C2XZ91",
-      "name": "L'Oréal Paris Água Micelar Purificante 5 em 1 400ml",
-      "price": 34.1,
-      "original_price": 69.39,
-      "image": "https://m.media-amazon.com/images/I/71KOmqvvf4L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0j03c5Gd",
+      "id": "B09C1B7BH5",
+      "name": "Sabonete Facial Zero Foam Cleanser 120ml",
+      "price": 98.52,
+      "original_price": 189.9,
+      "image": "https://m.media-amazon.com/images/I/715o6J7s2oL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0dveIZdY",
       "category": "health_beauty",
       "platform": "amazon"
     },
     {
-      "id": "B0GPSW9X56",
-      "name": "Bold Barra de Proteína Bombom Crocante Kit 4 Unidades",
-      "price": 23.74,
-      "original_price": 48.9,
-      "image": "https://m.media-amazon.com/images/I/7195z4JQc8L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B04DLO32t",
+      "id": "B0943CP9KT",
+      "name": "Round Lab 1025 Dokdo Cleansing Oil 200ml - Óleo de Limpeza Facial",
+      "price": 127.75,
+      "original_price": 249.99,
+      "image": "https://m.media-amazon.com/images/I/51CsQmi89fL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B06RaNY46",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0FKW57QSG",
+      "name": "Protetor Solar FPS 50 Cenoura & Bronze 200ml",
+      "price": 33.58,
+      "original_price": 57.99,
+      "image": "https://m.media-amazon.com/images/I/51fIFndDW0L._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0fQWutzn",
+      "category": "health_beauty",
+      "platform": "amazon"
+    },
+    {
+      "id": "B0B3PWCNJD",
+      "name": "Creatine Turbo BlackSkull - Creatina Monohidratada em Pó",
+      "price": 31.35,
+      "original_price": 59.9,
+      "image": "https://m.media-amazon.com/images/I/61tEDkKSiBL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B05DxZ20k",
       "category": "supplements",
       "platform": "amazon"
     },
     {
-      "id": "B085PJ15G9",
-      "name": "Água Micelar Garnier SkinActive Pink Tudo em 1 400ml",
-      "price": 36.0,
-      "original_price": 68.29,
-      "image": "https://m.media-amazon.com/images/I/71zwWARGLuL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0gqF34d0",
-      "category": "health_beauty",
+      "id": "B0B2JK92WK",
+      "name": "Suplemento Pré-Treino Panic, Maçã Verde, 150g",
+      "price": 44.99,
+      "original_price": 79.99,
+      "image": "https://m.media-amazon.com/images/I/7194W+9AJuL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0dAAyj36",
+      "category": "supplements",
       "platform": "amazon"
     },
     {
-      "id": "B0F1Z3K835",
-      "name": "Philips Depilador Feminino Elétrico Série 2000 BRE229",
-      "price": 163.0,
-      "original_price": 299.9,
-      "image": "https://m.media-amazon.com/images/I/71O455yOSOL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0iMtAjdA",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0D2RKBL8Y",
-      "name": "Camiseta Puma Essentials No. 1 Logo Masculina",
-      "price": 59.9,
-      "original_price": 109.99,
-      "image": "https://m.media-amazon.com/images/I/515WuKHnXdL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B04KL5Mjj",
-      "category": "sports_leisure",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07C3265TB",
-      "name": "Água Micelar Bifásica L'Oréal Paris 5 em 1 200ml",
-      "price": 23.6,
-      "original_price": 42.59,
-      "image": "https://m.media-amazon.com/images/I/71QJf+81hnL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B06Qzd2Ua",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0D84T7KHD",
-      "name": "Vollo Raquete de Tênis de Mesa Training 700",
-      "price": 21.9,
-      "original_price": 39.9,
-      "image": "https://m.media-amazon.com/images/I/51AJEmx+JsL._AC_SY879_.jpg",
-      "url": "https://link.amazon/B0dLNtBUJ",
-      "category": "sports_leisure",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0BRMYHMS5",
-      "name": "Máscara Facial de Colágeno Medicube Noturna",
-      "price": 124.35,
-      "original_price": 219.0,
-      "image": "https://m.media-amazon.com/images/I/61occWCJN-L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B05qYAnya",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07VGFNCL2",
-      "name": "L'Oréal Paris Creme Área dos Olhos Revitalift Hialurônico 15g",
-      "price": 52.1,
-      "original_price": 88.39,
-      "image": "https://m.media-amazon.com/images/I/51kRMo2coKS._AC_SX679_.jpg",
-      "url": "https://link.amazon/B01WvOv4S",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0FQFH5PJS",
-      "name": "Apple Watch SE 3 GPS 40mm Alumínio Luz das Estrelas",
-      "price": 2069.1,
-      "original_price": 3299.0,
-      "image": "https://m.media-amazon.com/images/I/41H4AoY5xbL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B041gWmQi",
-      "category": "electronics",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07GBCG93R",
-      "name": "NIVEA Creme Facial Antissinais Cellular Filler Noite 49g",
-      "price": 40.23,
-      "original_price": 62.9,
-      "image": "https://m.media-amazon.com/images/I/71683n9CjCL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0ej0efNI",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0DHJ8QXLB",
-      "name": "L'Oréal Paris Solar Expertise Kit Protetor Solar FPS 70 + FPS 60",
-      "price": 78.9,
-      "original_price": 99.49,
-      "image": "https://m.media-amazon.com/images/I/613Gr9oZp+L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0bR15IO5",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0FJMHMCBZ",
-      "name": "Philips Headphone Bluetooth TAH2300 com Microfone 55h",
-      "price": 119.84,
-      "original_price": 149.0,
-      "image": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_SX679_.jpg",
-      "url": "https://link.amazon/B09u3C20f",
-      "category": "electronics",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0FN8K9CXM",
-      "name": "Anasol Protetor Solar Facial Antioleosidade FPS 70 40g",
-      "price": 40.74,
-      "original_price": 43.89,
-      "image": "https://m.media-amazon.com/images/I/51UWpozrLoL._AC_SY879_.jpg",
-      "url": "https://link.amazon/B089pnuN8",
-      "category": "health_beauty",
+      "id": "B0F1HJJB1G",
+      "name": "Desodorante Aerossol Rexona All Body, Wild Rose, 150ml",
+      "price": 17.88,
+      "original_price": 30.99,
+      "image": "https://m.media-amazon.com/images/I/61wgW83XfgL._AC_SX679_.jpg",
+      "url": "https://link.amazon/B0eYJB5ua",
+      "category": "hygiene",
       "platform": "amazon"
     },
     {
@@ -613,106 +613,6 @@
       "platform": "shopee"
     },
     {
-      "id": "B07SBXMSGB",
-      "name": "Lola Cosmetics Argan Óleo Reparador 50ml",
-      "price": 17.17,
-      "original_price": 44.9,
-      "image": "https://m.media-amazon.com/images/I/41sfmT4opyL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B00P183wh",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B079VQTK2M",
-      "name": "NIVEA Loção Deo-Hidratante Milk 400ml Hidratação Profunda 72h",
-      "price": 18.89,
-      "original_price": 20.99,
-      "image": "https://m.media-amazon.com/images/I/61K9kyXATvL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B02AK2tTZ",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07H113TPQ",
-      "name": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar 100ml",
-      "price": 33.9,
-      "original_price": 49.9,
-      "image": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0frCEP85",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B072MK7BN2",
-      "name": "La Roche-Posay Cicaplast Baume B5+ Creme Multirreparador 40ml",
-      "price": 60.79,
-      "original_price": 89.9,
-      "image": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0bVhIsL6",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07GMCX5S4",
-      "name": "Carga para Aparelho de Barbear Gillette Mach3 Sensitive 16 unidades",
-      "price": 89.99,
-      "original_price": 130.66,
-      "image": "https://m.media-amazon.com/images/I/71qI3elsK7L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0cHQyZO1",
-      "category": "hygiene",
-      "platform": "amazon"
-    },
-    {
-      "id": "B07RK4HST7",
-      "name": "CeraVe Loção Hidratante Corporal Pele Seca a Extra Seca 473ml",
-      "price": 79.68,
-      "original_price": 110.9,
-      "image": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0a1ozEv9",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0G45KPX15",
-      "name": "Máscara Elseve L'Oréal Paris Colágeno Encorpador 300g",
-      "price": 26.9,
-      "original_price": 40.99,
-      "image": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B0eJgaa56",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B074LVMLNG",
-      "name": "Lola Cosmetics Rapunzel Tônico Capilar 230ml",
-      "price": 36.04,
-      "original_price": 69.9,
-      "image": "https://m.media-amazon.com/images/I/71E7coyfT1L._AC_SY879_.jpg",
-      "url": "https://link.amazon/B0ff6dldb",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B074LTNQBP",
-      "name": "Lola Cosmetics Morte Súbita Máscara Super Hidratante 450g",
-      "price": 30.5,
-      "original_price": 64.9,
-      "image": "https://m.media-amazon.com/images/I/71vJXnkK-NL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B05FnxGpz",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
-      "id": "B0DC74428B",
-      "name": "Dove Óleo de Banho Hidratação Intensa 240ml",
-      "price": 29.99,
-      "original_price": 42.34,
-      "image": "https://m.media-amazon.com/images/I/61k0+bqK+LL._AC_SX679_.jpg",
-      "url": "https://link.amazon/B042MfJxu",
-      "category": "health_beauty",
-      "platform": "amazon"
-    },
-    {
       "id": "58214668571",
       "name": "Hidrabene Protetor Solar Facial FPS 70",
       "price": 36.9,
@@ -721,106 +621,6 @@
       "url": "https://s.shopee.com.br/7faczLh5sd",
       "category": "health_beauty",
       "platform": "shopee"
-    },
-    {
-      "id": "8501117846",
-      "name": "Verity — Colleen Hoover",
-      "price": 39.92,
-      "original_price": 64.9,
-      "image": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._SY522_.jpg",
-      "url": "https://link.amazon/B05pviZ5A",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "8551009834",
-      "name": "O massacre da família Hope — Riley Sager",
-      "price": 40.77,
-      "original_price": 69.9,
-      "image": "https://m.media-amazon.com/images/I/815bfY-u6-L._SY522_.jpg",
-      "url": "https://link.amazon/B0f6synOD",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "6559817830",
-      "name": "Corte de harmonias partidas (Vol. 6 Corte de espinhos e rosas)",
-      "price": 74.9,
-      "original_price": null,
-      "image": "https://m.media-amazon.com/images/I/81kO4+1lt5L._SY522_.jpg",
-      "url": "https://link.amazon/B003Bwjnz",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "6555607289",
-      "name": "Melhor do que nos filmes — Lynn Painter",
-      "price": 36.3,
-      "original_price": 69.9,
-      "image": "https://m.media-amazon.com/images/I/61y5iLUKS3L._SY522_.jpg",
-      "url": "https://link.amazon/B0hSjTCaC",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "8501923281",
-      "name": "Nunca minta — Freida McFadden",
-      "price": 41.9,
-      "original_price": 59.9,
-      "image": "https://m.media-amazon.com/images/I/81-Hk3onFyL._SY522_.jpg",
-      "url": "https://link.amazon/B04SKJcgB",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "8535947906",
-      "name": "A estranha na cama",
-      "price": 48.5,
-      "original_price": 64.9,
-      "image": "https://m.media-amazon.com/images/I/71YSm7ehYqL._SY522_.jpg",
-      "url": "https://link.amazon/B07d3Di3C",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "8535923691",
-      "name": "A cabeça do santo — Socorro Acioli",
-      "price": 47.99,
-      "original_price": 74.9,
-      "image": "https://m.media-amazon.com/images/I/71-YhujYUxS._SY522_.jpg",
-      "url": "https://link.amazon/B04rgGBi5",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "8550807567",
-      "name": "Hábitos Atômicos — James Clear",
-      "price": 37.46,
-      "original_price": 60.9,
-      "image": "https://m.media-amazon.com/images/I/81eT2pjx4jL._SY522_.jpg",
-      "url": "https://link.amazon/B0ifR8dkh",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "6555111100",
-      "name": "A psicologia financeira — Morgan Housel",
-      "price": 28.0,
-      "original_price": 59.9,
-      "image": "https://m.media-amazon.com/images/I/41WqYpP0S7L._SY445_SX342_ML2_.jpg",
-      "url": "https://link.amazon/B0fwYbDrp",
-      "category": "books",
-      "platform": "amazon"
-    },
-    {
-      "id": "6559801365",
-      "name": "O Pequeno Príncipe — Edição de luxo com capa dura",
-      "price": 19.0,
-      "original_price": 32.99,
-      "image": "https://m.media-amazon.com/images/I/81QluJ4QXyL._SY522_.jpg",
-      "url": "https://link.amazon/B0jkiTq5G",
-      "category": "books",
-      "platform": "amazon"
     },
     {
       "id": "42607201398",
